@@ -1,0 +1,29 @@
+{
+  "total_fields": 1,
+  "required_fields_count": 0,
+  "page_url": "https://ibpsreg.ibps.in/pnboct25/registration_print.php?q=YzE1Yjg3ZDIxNDNmMzQ2ZjkyNDc5OGU4M2I2ZjNiNWJ8NzM2MDExOTQ5",
+  "page_title": "Recruitment of Local Bank Officer in JMGS I",
+  "timestamp": "2025-11-05T14:41:50.903Z",
+  "fields": [
+    {
+      "label": "I Agree",
+      "selector_id": "agree",
+      "selector_name": "agree",
+      "selector_css": "#agree",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    }
+  ]
+}

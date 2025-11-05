@@ -1,0 +1,417 @@
+{
+  "total_fields": 15,
+  "required_fields_count": 0,
+  "page_url": "https://www.rrbapply.gov.in/#/myprofile/other-details",
+  "page_title": "RRB :: Other Details",
+  "timestamp": "2025-11-05T16:50:16.436Z",
+  "fields": [
+    {
+      "label": "I have read and understood the above guidelines for uploading the photograph and signature.",
+      "selector_id": "applicationPhoto",
+      "selector_name": "applicationPhoto",
+      "selector_css": "#applicationPhoto",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "mr-2 ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "I have read and understood the above guidelines for uploading the photograph and signature.",
+      "selector_id": "applicationPhoto",
+      "selector_name": "applicationPhoto",
+      "selector_css": "#applicationPhoto",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "mr-2 ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Are you an Ex-Serviceman?",
+      "selector_id": "exServiceMan",
+      "selector_name": "exServiceMan",
+      "selector_css": "#exServiceMan",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "1: true",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "2: false",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "2: false",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Are you a person with benchmark disability?",
+      "selector_id": "isPh",
+      "selector_name": "isPh",
+      "selector_css": "#isPh",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "1: true",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "2: false",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "2: false",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Is your writing ability affected in terms of para 11.7.2 of the CEN 05/2025?",
+      "selector_id": "isWrittingAbilityAffected",
+      "selector_name": "isWrittingAbilityAffected",
+      "selector_css": "#isWrittingAbilityAffected",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "1: true",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "2: false",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "2: false",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Are you eligible to avail fee concession under EBC?",
+      "selector_id": "availfeeconcession",
+      "selector_name": "availfeeconcession",
+      "selector_css": "#availfeeconcession",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "1: true",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "2: false",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "2: false",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Are you an employee of Indian Railways?",
+      "selector_id": "inRailwaysCCAA",
+      "selector_name": "inRailwaysCCAA",
+      "selector_css": "#inRailwaysCCAA",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "1: true",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "2: false",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "2: false",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Name of the current department/ organization",
+      "selector_id": "departmental",
+      "selector_name": "departmental",
+      "selector_css": "#departmental",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Not Applicable",
+          "value": "01",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Central Government",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "State Government",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PSU (Public Sector Undertakings)",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "01",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Refund of Fee Account Holder Name",
+      "selector_id": "beneficiaryName",
+      "selector_name": "beneficiaryName",
+      "selector_css": "#beneficiaryName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Refund of Fee Account Holder Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "Jarupula Rajkumar",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Refund of Fee Bank Account Number",
+      "selector_id": "accountNumber",
+      "selector_name": "accountNumber",
+      "selector_css": "#accountNumber",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Refund of Fee Bank Account Number",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 17
+      },
+      "current_value": "38776298321",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Confirm Refund of Fee Bank Account Number",
+      "selector_id": "confirmAccountNumber",
+      "selector_name": "confirmAccountNumber",
+      "selector_css": "#confirmAccountNumber",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Confirm Refund of Fee Bank Account Number",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "38776298321",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Refund of Fee Bank IFSC Code",
+      "selector_id": "ifscCode",
+      "selector_name": "ifscCode",
+      "selector_css": "#ifscCode",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Refund of Fee Bank IFSC Code",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 11
+      },
+      "current_value": "SBIN0001069",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Refund of Fee Bank Name",
+      "selector_id": "BankName",
+      "selector_name": "BankName",
+      "selector_css": "#BankName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Refund of Fee Bank Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "STATE BANK OF INDIA",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Refund Bank Address",
+      "selector_id": "BankAdd",
+      "selector_name": "BankAdd",
+      "selector_css": "#BankAdd",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Refund Bank Address",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "DT HARIDWAR, STATE UTTARANCHAL, PIN 247 667",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "No file chosen",
+      "selector_id": "file-upload-1762361402877OQ4k",
+      "selector_name": null,
+      "selector_css": "#file-upload-1762361402877OQ4k",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-file-input",
+      "autocomplete": null
+    }
+  ]
+}

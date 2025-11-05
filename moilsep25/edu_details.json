@@ -1,0 +1,3849 @@
+{
+  "total_fields": 180,
+  "required_fields_count": 0,
+  "page_url": "https://ibpsreg.ibps.in/moilsep25/edu_details.php?q=ZDQyMjRlYzIzM2NkYWIzZjNiOTAzNzViYTM0ZWI2NTR8NzI1MDEyNzg2",
+  "page_title": "Recruitment of Various Posts",
+  "timestamp": "2025-11-05T15:15:16.246Z",
+  "fields": [
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "seldate5",
+      "selector_name": "seldate5",
+      "selector_css": "#seldate5",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selmark5",
+      "selector_name": "selmark5",
+      "selector_css": "#selmark5",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "tboxsmall form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selgrade5",
+      "selector_name": "selgrade5",
+      "selector_css": "#selgrade5",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "First Class",
+          "value": "First Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Second Class",
+          "value": "Second Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pass Class",
+          "value": "Pass Class",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "seldate1",
+      "selector_name": "seldate1",
+      "selector_css": "#seldate1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker field_zoom hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selmark1",
+      "selector_name": "selmark1",
+      "selector_css": "#selmark1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "tboxsmall form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selgrade1",
+      "selector_name": "selgrade1",
+      "selector_css": "#selgrade1",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "First Class",
+          "value": "First Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Second Class",
+          "value": "Second Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pass Class",
+          "value": "Pass Class",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Selstream7",
+      "selector_id": "selstream7",
+      "selector_name": "selstream7",
+      "selector_css": "#selstream7",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Others",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "seldate7",
+      "selector_name": "seldate7",
+      "selector_css": "#seldate7",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selgrade7",
+      "selector_name": "selgrade7",
+      "selector_css": "#selgrade7",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "First Class",
+          "value": "First Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Second Class",
+          "value": "Second Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pass Class",
+          "value": "Pass Class",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Selstream10",
+      "selector_id": "selstream10",
+      "selector_name": "selstream10",
+      "selector_css": "#selstream10",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Electrician-NTC (National Trade Certificate)",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "seldate10",
+      "selector_name": "seldate10",
+      "selector_css": "#seldate10",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selmark10",
+      "selector_name": "selmark10",
+      "selector_css": "#selmark10",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "tboxsmall form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selgrade10",
+      "selector_name": "selgrade10",
+      "selector_css": "#selgrade10",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "First Class",
+          "value": "First Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Second Class",
+          "value": "Second Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pass Class",
+          "value": "Pass Class",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Selstream8",
+      "selector_id": "selstream8",
+      "selector_name": "selstream8",
+      "selector_css": "#selstream8",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Others",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "seldate8",
+      "selector_name": "seldate8",
+      "selector_css": "#seldate8",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selmark8",
+      "selector_name": "selmark8",
+      "selector_css": "#selmark8",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "tboxsmall form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selgrade8",
+      "selector_name": "selgrade8",
+      "selector_css": "#selgrade8",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "First Class",
+          "value": "First Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Second Class",
+          "value": "Second Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pass Class",
+          "value": "Pass Class",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Selstream3",
+      "selector_id": "selstream3",
+      "selector_name": "selstream3",
+      "selector_css": "#selstream3",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Others",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "seldate3",
+      "selector_name": "seldate3",
+      "selector_css": "#seldate3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selmark3",
+      "selector_name": "selmark3",
+      "selector_css": "#selmark3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "tboxsmall form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selgrade3",
+      "selector_name": "selgrade3",
+      "selector_css": "#selgrade3",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "First Class",
+          "value": "First Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Second Class",
+          "value": "Second Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pass Class",
+          "value": "Pass Class",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selstream4",
+      "selector_name": "selstream4",
+      "selector_css": "#selstream4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "seldate4",
+      "selector_name": "seldate4",
+      "selector_css": "#seldate4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selmark4",
+      "selector_name": "selmark4",
+      "selector_css": "#selmark4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "tboxsmall form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selgrade4",
+      "selector_name": "selgrade4",
+      "selector_css": "#selgrade4",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "First Class",
+          "value": "First Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Second Class",
+          "value": "Second Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pass Class",
+          "value": "Pass Class",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selstream11",
+      "selector_name": "selstream11",
+      "selector_css": "#selstream11",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "seldate11",
+      "selector_name": "seldate11",
+      "selector_css": "#seldate11",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selmark11",
+      "selector_name": "selmark11",
+      "selector_css": "#selmark11",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "tboxsmall form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Note : The date of passing the eligibility examination will be the date appearing on the marksheet or provisional certificate issued by University/ Institute. In case the result of a particular examination is posted on the website of the University/ Institute then a certificate issued by the appropriate authority of the University/ Institute indicating the date on which the result was posted on the website will be taken as date of passing.",
+      "selector_id": "selgrade11",
+      "selector_name": "selgrade11",
+      "selector_css": "#selgrade11",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "First Class",
+          "value": "First Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Second Class",
+          "value": "Second Class",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pass Class",
+          "value": "Pass Class",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "valid_license",
+      "selector_css": "input[type=\"radio\"][name=\"valid_license\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input valid_license",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "min1yr_iticert",
+      "selector_css": "input[type=\"radio\"][name=\"min1yr_iticert\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input min1yr_iticert",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "present_working",
+      "selector_css": "input[type=\"radio\"][name=\"present_working\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input present_working",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp1",
+      "selector_name": "txtemp1",
+      "selector_css": "#txtemp1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg1",
+      "selector_name": "txtdesg1",
+      "selector_css": "#txtdesg1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date1",
+      "selector_name": "workexp_from_date1",
+      "selector_css": "#workexp_from_date1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date1",
+      "selector_name": "workexp_to_date1",
+      "selector_css": "#workexp_to_date1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty1",
+      "selector_name": "txtduty1",
+      "selector_css": "#txtduty1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason1",
+      "selector_name": "txtreason1",
+      "selector_css": "#txtreason1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr1",
+      "selector_id": "txtserviceyr1",
+      "selector_name": "txtserviceyr1",
+      "selector_css": "#txtserviceyr1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn1",
+      "selector_id": "txtservicemn1",
+      "selector_name": "txtservicemn1",
+      "selector_css": "#txtservicemn1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy1",
+      "selector_id": "txtservicedy1",
+      "selector_name": "txtservicedy1",
+      "selector_css": "#txtservicedy1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp2",
+      "selector_name": "txtemp2",
+      "selector_css": "#txtemp2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg2",
+      "selector_name": "txtdesg2",
+      "selector_css": "#txtdesg2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date2",
+      "selector_name": "workexp_from_date2",
+      "selector_css": "#workexp_from_date2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date2",
+      "selector_name": "workexp_to_date2",
+      "selector_css": "#workexp_to_date2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty2",
+      "selector_name": "txtduty2",
+      "selector_css": "#txtduty2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason2",
+      "selector_name": "txtreason2",
+      "selector_css": "#txtreason2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr2",
+      "selector_id": "txtserviceyr2",
+      "selector_name": "txtserviceyr2",
+      "selector_css": "#txtserviceyr2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn2",
+      "selector_id": "txtservicemn2",
+      "selector_name": "txtservicemn2",
+      "selector_css": "#txtservicemn2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy2",
+      "selector_id": "txtservicedy2",
+      "selector_name": "txtservicedy2",
+      "selector_css": "#txtservicedy2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp3",
+      "selector_name": "txtemp3",
+      "selector_css": "#txtemp3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg3",
+      "selector_name": "txtdesg3",
+      "selector_css": "#txtdesg3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date3",
+      "selector_name": "workexp_from_date3",
+      "selector_css": "#workexp_from_date3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date3",
+      "selector_name": "workexp_to_date3",
+      "selector_css": "#workexp_to_date3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty3",
+      "selector_name": "txtduty3",
+      "selector_css": "#txtduty3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason3",
+      "selector_name": "txtreason3",
+      "selector_css": "#txtreason3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr3",
+      "selector_id": "txtserviceyr3",
+      "selector_name": "txtserviceyr3",
+      "selector_css": "#txtserviceyr3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn3",
+      "selector_id": "txtservicemn3",
+      "selector_name": "txtservicemn3",
+      "selector_css": "#txtservicemn3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy3",
+      "selector_id": "txtservicedy3",
+      "selector_name": "txtservicedy3",
+      "selector_css": "#txtservicedy3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp4",
+      "selector_name": "txtemp4",
+      "selector_css": "#txtemp4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg4",
+      "selector_name": "txtdesg4",
+      "selector_css": "#txtdesg4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date4",
+      "selector_name": "workexp_from_date4",
+      "selector_css": "#workexp_from_date4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date4",
+      "selector_name": "workexp_to_date4",
+      "selector_css": "#workexp_to_date4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty4",
+      "selector_name": "txtduty4",
+      "selector_css": "#txtduty4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason4",
+      "selector_name": "txtreason4",
+      "selector_css": "#txtreason4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr4",
+      "selector_id": "txtserviceyr4",
+      "selector_name": "txtserviceyr4",
+      "selector_css": "#txtserviceyr4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn4",
+      "selector_id": "txtservicemn4",
+      "selector_name": "txtservicemn4",
+      "selector_css": "#txtservicemn4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy4",
+      "selector_id": "txtservicedy4",
+      "selector_name": "txtservicedy4",
+      "selector_css": "#txtservicedy4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp5",
+      "selector_name": "txtemp5",
+      "selector_css": "#txtemp5",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg5",
+      "selector_name": "txtdesg5",
+      "selector_css": "#txtdesg5",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date5",
+      "selector_name": "workexp_from_date5",
+      "selector_css": "#workexp_from_date5",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date5",
+      "selector_name": "workexp_to_date5",
+      "selector_css": "#workexp_to_date5",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty5",
+      "selector_name": "txtduty5",
+      "selector_css": "#txtduty5",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason5",
+      "selector_name": "txtreason5",
+      "selector_css": "#txtreason5",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr5",
+      "selector_id": "txtserviceyr5",
+      "selector_name": "txtserviceyr5",
+      "selector_css": "#txtserviceyr5",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn5",
+      "selector_id": "txtservicemn5",
+      "selector_name": "txtservicemn5",
+      "selector_css": "#txtservicemn5",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy5",
+      "selector_id": "txtservicedy5",
+      "selector_name": "txtservicedy5",
+      "selector_css": "#txtservicedy5",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp6",
+      "selector_name": "txtemp6",
+      "selector_css": "#txtemp6",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg6",
+      "selector_name": "txtdesg6",
+      "selector_css": "#txtdesg6",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date6",
+      "selector_name": "workexp_from_date6",
+      "selector_css": "#workexp_from_date6",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date6",
+      "selector_name": "workexp_to_date6",
+      "selector_css": "#workexp_to_date6",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty6",
+      "selector_name": "txtduty6",
+      "selector_css": "#txtduty6",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason6",
+      "selector_name": "txtreason6",
+      "selector_css": "#txtreason6",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr6",
+      "selector_id": "txtserviceyr6",
+      "selector_name": "txtserviceyr6",
+      "selector_css": "#txtserviceyr6",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn6",
+      "selector_id": "txtservicemn6",
+      "selector_name": "txtservicemn6",
+      "selector_css": "#txtservicemn6",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy6",
+      "selector_id": "txtservicedy6",
+      "selector_name": "txtservicedy6",
+      "selector_css": "#txtservicedy6",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp7",
+      "selector_name": "txtemp7",
+      "selector_css": "#txtemp7",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg7",
+      "selector_name": "txtdesg7",
+      "selector_css": "#txtdesg7",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date7",
+      "selector_name": "workexp_from_date7",
+      "selector_css": "#workexp_from_date7",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date7",
+      "selector_name": "workexp_to_date7",
+      "selector_css": "#workexp_to_date7",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty7",
+      "selector_name": "txtduty7",
+      "selector_css": "#txtduty7",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason7",
+      "selector_name": "txtreason7",
+      "selector_css": "#txtreason7",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr7",
+      "selector_id": "txtserviceyr7",
+      "selector_name": "txtserviceyr7",
+      "selector_css": "#txtserviceyr7",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn7",
+      "selector_id": "txtservicemn7",
+      "selector_name": "txtservicemn7",
+      "selector_css": "#txtservicemn7",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy7",
+      "selector_id": "txtservicedy7",
+      "selector_name": "txtservicedy7",
+      "selector_css": "#txtservicedy7",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp8",
+      "selector_name": "txtemp8",
+      "selector_css": "#txtemp8",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg8",
+      "selector_name": "txtdesg8",
+      "selector_css": "#txtdesg8",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date8",
+      "selector_name": "workexp_from_date8",
+      "selector_css": "#workexp_from_date8",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date8",
+      "selector_name": "workexp_to_date8",
+      "selector_css": "#workexp_to_date8",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty8",
+      "selector_name": "txtduty8",
+      "selector_css": "#txtduty8",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason8",
+      "selector_name": "txtreason8",
+      "selector_css": "#txtreason8",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr8",
+      "selector_id": "txtserviceyr8",
+      "selector_name": "txtserviceyr8",
+      "selector_css": "#txtserviceyr8",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn8",
+      "selector_id": "txtservicemn8",
+      "selector_name": "txtservicemn8",
+      "selector_css": "#txtservicemn8",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy8",
+      "selector_id": "txtservicedy8",
+      "selector_name": "txtservicedy8",
+      "selector_css": "#txtservicedy8",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp9",
+      "selector_name": "txtemp9",
+      "selector_css": "#txtemp9",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg9",
+      "selector_name": "txtdesg9",
+      "selector_css": "#txtdesg9",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date9",
+      "selector_name": "workexp_from_date9",
+      "selector_css": "#workexp_from_date9",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date9",
+      "selector_name": "workexp_to_date9",
+      "selector_css": "#workexp_to_date9",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty9",
+      "selector_name": "txtduty9",
+      "selector_css": "#txtduty9",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason9",
+      "selector_name": "txtreason9",
+      "selector_css": "#txtreason9",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr9",
+      "selector_id": "txtserviceyr9",
+      "selector_name": "txtserviceyr9",
+      "selector_css": "#txtserviceyr9",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn9",
+      "selector_id": "txtservicemn9",
+      "selector_name": "txtservicemn9",
+      "selector_css": "#txtservicemn9",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy9",
+      "selector_id": "txtservicedy9",
+      "selector_name": "txtservicedy9",
+      "selector_css": "#txtservicedy9",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp10",
+      "selector_name": "txtemp10",
+      "selector_css": "#txtemp10",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg10",
+      "selector_name": "txtdesg10",
+      "selector_css": "#txtdesg10",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date10",
+      "selector_name": "workexp_from_date10",
+      "selector_css": "#workexp_from_date10",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date10",
+      "selector_name": "workexp_to_date10",
+      "selector_css": "#workexp_to_date10",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty10",
+      "selector_name": "txtduty10",
+      "selector_css": "#txtduty10",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason10",
+      "selector_name": "txtreason10",
+      "selector_css": "#txtreason10",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr10",
+      "selector_id": "txtserviceyr10",
+      "selector_name": "txtserviceyr10",
+      "selector_css": "#txtserviceyr10",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn10",
+      "selector_id": "txtservicemn10",
+      "selector_name": "txtservicemn10",
+      "selector_css": "#txtservicemn10",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy10",
+      "selector_id": "txtservicedy10",
+      "selector_name": "txtservicedy10",
+      "selector_css": "#txtservicedy10",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp11",
+      "selector_name": "txtemp11",
+      "selector_css": "#txtemp11",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg11",
+      "selector_name": "txtdesg11",
+      "selector_css": "#txtdesg11",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date11",
+      "selector_name": "workexp_from_date11",
+      "selector_css": "#workexp_from_date11",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date11",
+      "selector_name": "workexp_to_date11",
+      "selector_css": "#workexp_to_date11",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty11",
+      "selector_name": "txtduty11",
+      "selector_css": "#txtduty11",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason11",
+      "selector_name": "txtreason11",
+      "selector_css": "#txtreason11",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr11",
+      "selector_id": "txtserviceyr11",
+      "selector_name": "txtserviceyr11",
+      "selector_css": "#txtserviceyr11",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn11",
+      "selector_id": "txtservicemn11",
+      "selector_name": "txtservicemn11",
+      "selector_css": "#txtservicemn11",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy11",
+      "selector_id": "txtservicedy11",
+      "selector_name": "txtservicedy11",
+      "selector_css": "#txtservicedy11",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp12",
+      "selector_name": "txtemp12",
+      "selector_css": "#txtemp12",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg12",
+      "selector_name": "txtdesg12",
+      "selector_css": "#txtdesg12",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date12",
+      "selector_name": "workexp_from_date12",
+      "selector_css": "#workexp_from_date12",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date12",
+      "selector_name": "workexp_to_date12",
+      "selector_css": "#workexp_to_date12",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty12",
+      "selector_name": "txtduty12",
+      "selector_css": "#txtduty12",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason12",
+      "selector_name": "txtreason12",
+      "selector_css": "#txtreason12",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr12",
+      "selector_id": "txtserviceyr12",
+      "selector_name": "txtserviceyr12",
+      "selector_css": "#txtserviceyr12",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn12",
+      "selector_id": "txtservicemn12",
+      "selector_name": "txtservicemn12",
+      "selector_css": "#txtservicemn12",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy12",
+      "selector_id": "txtservicedy12",
+      "selector_name": "txtservicedy12",
+      "selector_css": "#txtservicedy12",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp13",
+      "selector_name": "txtemp13",
+      "selector_css": "#txtemp13",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg13",
+      "selector_name": "txtdesg13",
+      "selector_css": "#txtdesg13",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date13",
+      "selector_name": "workexp_from_date13",
+      "selector_css": "#workexp_from_date13",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date13",
+      "selector_name": "workexp_to_date13",
+      "selector_css": "#workexp_to_date13",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty13",
+      "selector_name": "txtduty13",
+      "selector_css": "#txtduty13",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason13",
+      "selector_name": "txtreason13",
+      "selector_css": "#txtreason13",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr13",
+      "selector_id": "txtserviceyr13",
+      "selector_name": "txtserviceyr13",
+      "selector_css": "#txtserviceyr13",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn13",
+      "selector_id": "txtservicemn13",
+      "selector_name": "txtservicemn13",
+      "selector_css": "#txtservicemn13",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy13",
+      "selector_id": "txtservicedy13",
+      "selector_name": "txtservicedy13",
+      "selector_css": "#txtservicedy13",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp14",
+      "selector_name": "txtemp14",
+      "selector_css": "#txtemp14",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg14",
+      "selector_name": "txtdesg14",
+      "selector_css": "#txtdesg14",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date14",
+      "selector_name": "workexp_from_date14",
+      "selector_css": "#workexp_from_date14",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date14",
+      "selector_name": "workexp_to_date14",
+      "selector_css": "#workexp_to_date14",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty14",
+      "selector_name": "txtduty14",
+      "selector_css": "#txtduty14",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason14",
+      "selector_name": "txtreason14",
+      "selector_css": "#txtreason14",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr14",
+      "selector_id": "txtserviceyr14",
+      "selector_name": "txtserviceyr14",
+      "selector_css": "#txtserviceyr14",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn14",
+      "selector_id": "txtservicemn14",
+      "selector_name": "txtservicemn14",
+      "selector_css": "#txtservicemn14",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy14",
+      "selector_id": "txtservicedy14",
+      "selector_name": "txtservicedy14",
+      "selector_css": "#txtservicedy14",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtemp15",
+      "selector_name": "txtemp15",
+      "selector_css": "#txtemp15",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control setyears workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtdesg15",
+      "selector_name": "txtdesg15",
+      "selector_css": "#txtdesg15",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_from_date15",
+      "selector_name": "workexp_from_date15",
+      "selector_css": "#workexp_from_date15",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control datepicker1 workexp settoyear expCallClass hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "dd/mm/yyyy",
+      "selector_id": "workexp_to_date15",
+      "selector_name": "workexp_to_date15",
+      "selector_css": "#workexp_to_date15",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "dd/mm/yyyy",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control total_exp_to setyeardiff workexp expCallClass datepicker1 hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtduty15",
+      "selector_name": "txtduty15",
+      "selector_css": "#txtduty15",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": "txtreason15",
+      "selector_name": "txtreason15",
+      "selector_css": "#txtreason15",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control workexp max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtserviceyr15",
+      "selector_id": "txtserviceyr15",
+      "selector_name": "txtserviceyr15",
+      "selector_css": "#txtserviceyr15",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicemn15",
+      "selector_id": "txtservicemn15",
+      "selector_name": "txtservicemn15",
+      "selector_css": "#txtservicemn15",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtservicedy15",
+      "selector_id": "txtservicedy15",
+      "selector_name": "txtservicedy15",
+      "selector_css": "#txtservicedy15",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 40
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Total Experience in months",
+      "selector_id": "totexp",
+      "selector_name": "totexp",
+      "selector_css": "#totexp",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 3
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control left max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "",
+      "selector_id": "txtlang1",
+      "selector_name": "txtlang1",
+      "selector_css": "#txtlang1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "",
+      "selector_id": "lang1r",
+      "selector_name": "lang1r",
+      "selector_css": "#lang1r",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "",
+      "selector_id": "lang1w",
+      "selector_name": "lang1w",
+      "selector_css": "#lang1w",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "",
+      "selector_id": "lang1s",
+      "selector_name": "lang1s",
+      "selector_css": "#lang1s",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtlang2",
+      "selector_id": "txtlang2",
+      "selector_name": "txtlang2",
+      "selector_css": "#txtlang2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "",
+      "selector_id": "lang2r",
+      "selector_name": "lang2r",
+      "selector_css": "#lang2r",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "",
+      "selector_id": "lang2w",
+      "selector_name": "lang2w",
+      "selector_css": "#lang2w",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "",
+      "selector_id": "lang2s",
+      "selector_name": "lang2s",
+      "selector_css": "#lang2s",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Txtlang3",
+      "selector_id": "txtlang3",
+      "selector_name": "txtlang3",
+      "selector_css": "#txtlang3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "",
+      "selector_id": "lang3r",
+      "selector_name": "lang3r",
+      "selector_css": "#lang3r",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "",
+      "selector_id": "lang3w",
+      "selector_name": "lang3w",
+      "selector_css": "#lang3w",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "",
+      "selector_id": "lang3s",
+      "selector_name": "lang3s",
+      "selector_css": "#lang3s",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    }
+  ]
+}

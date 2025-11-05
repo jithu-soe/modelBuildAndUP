@@ -1,0 +1,347 @@
+{
+  "total_fields": 14,
+  "required_fields_count": 0,
+  "page_url": "https://ibpsreg.ibps.in/pnboct25/basic_details.php",
+  "page_title": "Recruitment of Local Bank Officer in JMGS I",
+  "timestamp": "2025-11-05T12:22:26.597Z",
+  "fields": [
+    {
+      "label": "First Name",
+      "selector_id": "fullname",
+      "selector_name": "fullname",
+      "selector_css": "#fullname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Confirm First Name",
+      "selector_id": "cfullname",
+      "selector_name": "cfullname",
+      "selector_css": "#cfullname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Middle Name",
+      "selector_id": "middlename",
+      "selector_name": "middlename",
+      "selector_css": "#middlename",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Confirm Middle Name",
+      "selector_id": "cmiddlename",
+      "selector_name": "cmiddlename",
+      "selector_css": "#cmiddlename",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Last Name",
+      "selector_id": "lastname",
+      "selector_name": "lastname",
+      "selector_css": "#lastname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Confirm Last Name",
+      "selector_id": "clastname",
+      "selector_name": "clastname",
+      "selector_css": "#clastname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Full Name",
+      "selector_id": "fmlname",
+      "selector_name": "fmlname",
+      "selector_css": "#fmlname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 105
+      },
+      "current_value": "  ",
+      "disabled": true,
+      "readonly": true,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Mobile Number",
+      "selector_id": "txtmobile",
+      "selector_name": "txtmobile",
+      "selector_css": "#txtmobile",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Confirm Mobile Number",
+      "selector_id": "txtcmobile",
+      "selector_name": "txtcmobile",
+      "selector_css": "#txtcmobile",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Alternative Number (Mobile Number/Landline Number)",
+      "selector_id": "txtaltphone",
+      "selector_name": "txtaltphone",
+      "selector_css": "#txtaltphone",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Email ID",
+      "selector_id": "txtemail",
+      "selector_name": "txtemail",
+      "selector_css": "#txtemail",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 29
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Email ID",
+      "selector_id": "seldomain",
+      "selector_name": "seldomain",
+      "selector_css": "#seldomain",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Domain Names",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "aol.in",
+          "value": "aol.in",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "gmail.com",
+          "value": "gmail.com",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "hotmail.com",
+          "value": "hotmail.com",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "in.com",
+          "value": "in.com",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "live.com",
+          "value": "live.com",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "rediffmail.com",
+          "value": "rediffmail.com",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "yahoo.co.in",
+          "value": "yahoo.co.in",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "yahoo.com",
+          "value": "yahoo.com",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Others",
+          "value": "Others",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Email ID",
+      "selector_id": "txtcemail",
+      "selector_name": "txtcemail",
+      "selector_css": "#txtcemail",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 60
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Security Code",
+      "selector_id": "txtCode",
+      "selector_name": "txtCode",
+      "selector_css": "#txtCode",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control col",
+      "autocomplete": "off"
+    }
+  ]
+}

@@ -1,0 +1,3333 @@
+{
+  "total_fields": 68,
+  "required_fields_count": 1,
+  "page_url": "https://ibpsreg.ibps.in/sebisep25/reg_details.php?q=YTZlMzZkZDBhMzk1Y2Y1MGRkYzQ0YzcxNDY5YTM1ODB8NzE3MDMxMDAz",
+  "page_title": "Recruitment of Officer Grade A (Assistant Manager) 2025 - General, Legal, Information Technology, Research, Official Language, Engineering (Electrical), Engineering (Civil) Stream",
+  "timestamp": "2025-11-05T14:03:25.091Z",
+  "fields": [
+    {
+      "label": "Religion to which you belong :",
+      "selector_id": "selpost",
+      "selector_name": "selpost",
+      "selector_css": "#selpost",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Officer Grade A (Assistant Manager) - General Stream",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Officer Grade A (Assistant Manager) - Legal Stream",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Officer Grade A (Assistant Manager) - Information Technology Stream",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Officer Grade A (Assistant Manager) - Research Stream",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Officer Grade A (Assistant Manager) - Official Language Stream",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Officer Grade A (Assistant Manager) - Engineering (Electrical) Stream",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Officer Grade A (Assistant Manager) - Engineering (Civil) Stream",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select getyears",
+      "autocomplete": null
+    },
+    {
+      "label": "UNRESERVED",
+      "selector_id": null,
+      "selector_name": "opt_cat",
+      "selector_css": "input[type=\"radio\"][name=\"opt_cat\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "UNRESERVED",
+          "value": "UR",
+          "selected": false
+        },
+        {
+          "text": "EWS",
+          "value": "EWS",
+          "selected": false
+        },
+        {
+          "text": "OBC(NCL)",
+          "value": "OBC",
+          "selected": false
+        },
+        {
+          "text": "ST",
+          "value": "ST",
+          "selected": false
+        },
+        {
+          "text": "SC",
+          "value": "SC",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input opt_cat getyears getfee",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "optdisability",
+      "selector_css": "input[type=\"radio\"][name=\"optdisability\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input optdisability getyears getfee",
+      "autocomplete": null
+    },
+    {
+      "label": "Type of Disability",
+      "selector_id": "disability_type",
+      "selector_name": "disability_type",
+      "selector_css": "#disability_type",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-select depdisability optscribesetchange",
+      "autocomplete": null
+    },
+    {
+      "label": "Sub-type of Disability",
+      "selector_id": "sub_disability_type",
+      "selector_name": "sub_disability_type",
+      "selector_css": "#sub_disability_type",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-select sub_disability_type optscribesetchange",
+      "autocomplete": null
+    },
+    {
+      "label": "Sub-type of Multiple Disability",
+      "selector_id": "sub_disability_multiple",
+      "selector_name": "sub_disability_multiple[]",
+      "selector_css": "#sub_disability_multiple",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-select sub_disability_multiple optscribesetchange",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "compans_time",
+      "selector_css": "input[type=\"radio\"][name=\"compans_time\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-control-input compans_time ",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "disabilitysuffersoc",
+      "selector_css": "input[type=\"radio\"][name=\"disabilitysuffersoc\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-control-input disabilitysuffersoc optscribeset",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "compensatory",
+      "selector_css": "input[type=\"radio\"][name=\"compensatory\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-control-input r-bt compensatory",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "compensatary_time",
+      "selector_css": "input[type=\"radio\"][name=\"compensatary_time\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-control-input compensatary_time optscribeset",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "compensatory1",
+      "selector_css": "input[type=\"radio\"][name=\"compensatory1\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-control-input r-bt compensatory1",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "optscribe",
+      "selector_css": "input[type=\"radio\"][name=\"optscribe\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-control-input optscribe",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "optdisability_40less",
+      "selector_css": "input[type=\"radio\"][name=\"optdisability_40less\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-control-input optdisability_40less",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "compensatory2",
+      "selector_css": "input[type=\"radio\"][name=\"compensatory2\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-control-input r-bt compensatory2",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "scribe1",
+      "selector_css": "input[type=\"radio\"][name=\"scribe1\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-control-input scribe1",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": "disability_certify",
+      "selector_name": "disability_certify",
+      "selector_css": "#disability_certify",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": true,
+      "readonly": false,
+      "class": "disability_certify custom-control-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Name of the Scribe",
+      "selector_id": "scribe_name",
+      "selector_name": "scribe_name",
+      "selector_css": "#scribe_name",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control scribe_name",
+      "autocomplete": "off"
+    },
+    {
+      "label": "ID card of Scribe :",
+      "selector_id": "id_proof",
+      "selector_name": "id_proof",
+      "selector_css": "#id_proof",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "PAN Card",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Passport",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Driving Licence",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Voter's Card",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Aadhaar",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-select id_proof",
+      "autocomplete": null
+    },
+    {
+      "label": "ID Card Number. of Scribe",
+      "selector_id": "id_proof_no",
+      "selector_name": "id_proof_no",
+      "selector_css": "#id_proof_no",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control id_proof_no",
+      "autocomplete": "off"
+    },
+    {
+      "label": "I confirm that, I am eligible for Scribe as per the revised guidelines issued by Department of Empowerment of Persons with Disabilities (Divyangjan), Ministry of Social Justice & Empowerment, Government of India, vide their OM No. F.No. P-13013/75/2023-Policy-DD-III dated 01.08.2025, to Persons with Disabilities under Section 2(s) of the Rights of Persons with Disabilities (RPwD) Act, 2016.",
+      "selector_id": "scribe_dis",
+      "selector_name": "scribe_dis",
+      "selector_css": "#scribe_dis",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-control-input scribe_dis",
+      "autocomplete": "off"
+    },
+    {
+      "label": "I undertake to produce UDID/disability certificate/ Appendix-I as applicable under revised guidelines, at the time of examination.",
+      "selector_id": "scribe_appendix",
+      "selector_name": "scribe_appendix",
+      "selector_css": "#scribe_appendix",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-control-input scribe_appendix",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Religion to which you belong :",
+      "selector_id": "religion",
+      "selector_name": "religion",
+      "selector_css": "#religion",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Buddhist",
+          "value": "Buddhist",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Christian",
+          "value": "Christian",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hindu",
+          "value": "Hindu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jain",
+          "value": "Jain",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Muslim",
+          "value": "Muslim",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sikh",
+          "value": "Sikh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Zoroastrian",
+          "value": "Zoroastrian",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Others",
+          "value": "Others",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Others",
+      "selector_id": "religion_oth",
+      "selector_name": "religion_oth",
+      "selector_css": "#religion_oth",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": true,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "optexservice",
+      "selector_css": "input[type=\"radio\"][name=\"optexservice\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input optexservice getfee getyears",
+      "autocomplete": null
+    },
+    {
+      "label": "Period of Service ( in months) :",
+      "selector_id": "ex_ser_per",
+      "selector_name": "ex_ser_per",
+      "selector_css": "#ex_ser_per",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 3
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "optminority",
+      "selector_css": "input[type=\"radio\"][name=\"optminority\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": null
+    },
+    {
+      "label": "Nationality / Citizenship :",
+      "selector_id": "txtnationality",
+      "selector_name": "txtnationality",
+      "selector_css": "#txtnationality",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Indian",
+          "value": "Indian",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select slbx_wdth left",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "aadhaar_consent_verification",
+      "selector_css": "input[type=\"radio\"][name=\"aadhaar_consent_verification\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input aadhaar_consent_verification",
+      "autocomplete": null
+    },
+    {
+      "label": "Aadhaar Card Number",
+      "selector_id": "aadharcard_no",
+      "selector_name": "aadharcard_no",
+      "selector_css": "#aadharcard_no",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 12
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control aadharcard_no",
+      "autocomplete": "off"
+    },
+    {
+      "label": "PAN Card Number",
+      "selector_id": "pancard_no",
+      "selector_name": "pancard_no",
+      "selector_css": "#pancard_no",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control pancard_no",
+      "autocomplete": "off"
+    },
+    {
+      "label": "State/UT I of Phase I Examination :",
+      "selector_id": "state_main1",
+      "selector_name": "state_main1",
+      "selector_css": "#state_main1",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Andaman and Nicobar",
+          "value": "35",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Andhra Pradesh",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Arunachal Pradesh",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Assam",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bihar",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chandigarh",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chhattisgarh",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dadra and Nagar Haveli & Daman and Diu",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Delhi",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Goa",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gujarat",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Haryana",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Himachal Pradesh",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jammu and Kashmir",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jharkhand",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Karnataka",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kerala",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ladakh",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Madhya Pradesh",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Maharashtra",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Manipur",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Meghalaya",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mizoram",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nagaland",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Odisha",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Puducherry",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Punjab",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rajasthan",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sikkim",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tamil Nadu",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Telangana",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tripura",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uttarakhand",
+          "value": "32",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uttar Pradesh",
+          "value": "33",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "West Bengal",
+          "value": "34",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select slbx_wdth left state_main1",
+      "autocomplete": null
+    },
+    {
+      "label": "Centre of Examination (Phase -I) Preference 1",
+      "selector_id": "centre_main1",
+      "selector_name": "centre_main1",
+      "selector_css": "#centre_main1",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-select slbx_wdth left centre_main1",
+      "autocomplete": null
+    },
+    {
+      "label": "State/UT II of Phase I Examination :",
+      "selector_id": "state_main2",
+      "selector_name": "state_main2",
+      "selector_css": "#state_main2",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Andaman and Nicobar",
+          "value": "35",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Andhra Pradesh",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Arunachal Pradesh",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Assam",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bihar",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chandigarh",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chhattisgarh",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dadra and Nagar Haveli & Daman and Diu",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Delhi",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Goa",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gujarat",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Haryana",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Himachal Pradesh",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jammu and Kashmir",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jharkhand",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Karnataka",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kerala",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ladakh",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Madhya Pradesh",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Maharashtra",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Manipur",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Meghalaya",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mizoram",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nagaland",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Odisha",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Puducherry",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Punjab",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rajasthan",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sikkim",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tamil Nadu",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Telangana",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tripura",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uttarakhand",
+          "value": "32",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uttar Pradesh",
+          "value": "33",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "West Bengal",
+          "value": "34",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select slbx_wdth left state_main2",
+      "autocomplete": null
+    },
+    {
+      "label": "Centre of Examination (Phase -I) Preference 2",
+      "selector_id": "centre_main2",
+      "selector_name": "centre_main2",
+      "selector_css": "#centre_main2",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-select slbx_wdth left centre_main2",
+      "autocomplete": null
+    },
+    {
+      "label": "State/UT III of Phase I Examination :",
+      "selector_id": "state_main3",
+      "selector_name": "state_main3",
+      "selector_css": "#state_main3",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Andaman and Nicobar",
+          "value": "35",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Andhra Pradesh",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Arunachal Pradesh",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Assam",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bihar",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chandigarh",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chhattisgarh",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dadra and Nagar Haveli & Daman and Diu",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Delhi",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Goa",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gujarat",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Haryana",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Himachal Pradesh",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jammu and Kashmir",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jharkhand",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Karnataka",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kerala",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ladakh",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Madhya Pradesh",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Maharashtra",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Manipur",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Meghalaya",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mizoram",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nagaland",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Odisha",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Puducherry",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Punjab",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rajasthan",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sikkim",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tamil Nadu",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Telangana",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tripura",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uttarakhand",
+          "value": "32",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uttar Pradesh",
+          "value": "33",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "West Bengal",
+          "value": "34",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select slbx_wdth left state_main3",
+      "autocomplete": null
+    },
+    {
+      "label": "Centre of Examination (Phase -I) Preference 3",
+      "selector_id": "centre_main3",
+      "selector_name": "centre_main3",
+      "selector_css": "#centre_main3",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-select slbx_wdth left centre_main3",
+      "autocomplete": null
+    },
+    {
+      "label": "Centre of Examination Phase II:",
+      "selector_id": "centre_phasetwo",
+      "selector_name": "centre_phasetwo",
+      "selector_css": "#centre_phasetwo",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Ahmedabad/ Gandhinagar",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Agartala",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chhatrapati Sambhajinagar",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bengaluru",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bhubaneswar",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mohali",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chennai",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Coimbatore",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dehradun",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guwahati",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Haldwani",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hubli - Dharwad",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hyderabad",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Indore",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jaipur",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kanpur",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ernakulam",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kolkata/ Greater Kolkata",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lucknow",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Madurai",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Meerut",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mumbai/Greater Mumbai/Navi Mumbai/Thane/MMR",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Muzzafarpur",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nagpur",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nashik",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "New Delhi-NCR",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Panaji",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Patna",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Prayagraj",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pune",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Raipur",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ranchi",
+          "value": "32",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Siliguri",
+          "value": "33",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Surat",
+          "value": "34",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vijayawada/Guntur",
+          "value": "35",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vishakhapatnam",
+          "value": "36",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select slbx_wdth left centre_phasetwo",
+      "autocomplete": null
+    },
+    {
+      "label": "Date of Birth",
+      "selector_id": "seldobday",
+      "selector_name": "seldobday",
+      "selector_css": "#seldobday",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Day",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "01",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "02",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "03",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "04",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "05",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "06",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "07",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "08",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "09",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "10",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "11",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "12",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "13",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "14",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "15",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "16",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "17",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "18",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "19",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "20",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "21",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "22",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "23",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "24",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "25",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "26",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "27",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "28",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "29",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "30",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "31",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "dob_dropdownbox custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Date of Birth",
+      "selector_id": "seldobmon",
+      "selector_name": "seldobmon",
+      "selector_css": "#seldobmon",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Month",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "January",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "February",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "March",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "April",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "May",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "June",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "July",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "August",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "September",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "October",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "November",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "December",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "dob_dropdownbox custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Date of Birth",
+      "selector_id": "seldobyear",
+      "selector_name": "seldobyear",
+      "selector_css": "#seldobyear",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Year",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "dob_dropdownbox custom-select",
+      "autocomplete": null
+    },
+    {
+      "label": "Male",
+      "selector_id": null,
+      "selector_name": "optsex",
+      "selector_css": "input[type=\"radio\"][name=\"optsex\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Male",
+          "value": "M",
+          "selected": false
+        },
+        {
+          "text": "Female",
+          "value": "F",
+          "selected": false
+        },
+        {
+          "text": "Others",
+          "value": "O",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input optsex",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "twinbrosis",
+      "selector_css": "input[type=\"radio\"][name=\"twinbrosis\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input twinbrosis",
+      "autocomplete": null
+    },
+    {
+      "label": "Name of the twin :",
+      "selector_id": "twin_name",
+      "selector_name": "twin_name",
+      "selector_css": "#twin_name",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Male",
+      "selector_id": null,
+      "selector_name": "twin_gender",
+      "selector_css": "input[type=\"radio\"][name=\"twin_gender\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Male",
+          "value": "M",
+          "selected": false
+        },
+        {
+          "text": "Female",
+          "value": "F",
+          "selected": false
+        },
+        {
+          "text": "Others",
+          "value": "O",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "custom-control-input twin_gender",
+      "autocomplete": null
+    },
+    {
+      "label": "Unmarried",
+      "selector_id": null,
+      "selector_name": "mstatus",
+      "selector_css": "input[type=\"radio\"][name=\"mstatus\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Unmarried",
+          "value": "Unmarried",
+          "selected": false
+        },
+        {
+          "text": "Married",
+          "value": "Married",
+          "selected": false
+        },
+        {
+          "text": "Widow",
+          "value": "Widow",
+          "selected": false
+        },
+        {
+          "text": "Widower",
+          "value": "Widower",
+          "selected": false
+        },
+        {
+          "text": "Divorced",
+          "value": "Divorced",
+          "selected": false
+        },
+        {
+          "text": "Judicially Separated",
+          "value": "judicialSeparated",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input mstatus",
+      "autocomplete": null
+    },
+    {
+      "label": "Father's Name",
+      "selector_id": "fatherfirstname",
+      "selector_name": "fatherfirstname",
+      "selector_css": "#fatherfirstname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control  max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Mother's Name",
+      "selector_id": "motherfirstname",
+      "selector_name": "motherfirstname",
+      "selector_css": "#motherfirstname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control  max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Spouse's Name",
+      "selector_id": "spousefirstname",
+      "selector_name": "spousefirstname",
+      "selector_css": "#spousefirstname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Address 1",
+      "selector_id": "txtaddress1",
+      "selector_name": "txtaddress1",
+      "selector_css": "#txtaddress1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control  max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Address 2",
+      "selector_id": "txtaddress2",
+      "selector_name": "txtaddress2",
+      "selector_css": "#txtaddress2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control  max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Address 3",
+      "selector_id": "txtaddress3",
+      "selector_name": "txtaddress3",
+      "selector_css": "#txtaddress3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control  max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "District",
+      "selector_id": "txtdistrict",
+      "selector_name": "txtdistrict",
+      "selector_css": "#txtdistrict",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control  max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "State",
+      "selector_id": "txtstate",
+      "selector_name": "txtstate",
+      "selector_css": "#txtstate",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "ANDAMAN & NICOBAR",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ANDHRA PRADESH",
+          "value": "1",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ARUNACHAL PRADESH",
+          "value": "2",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ASSAM",
+          "value": "3",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BIHAR",
+          "value": "4",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHANDIGARH",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHHATTISGARH",
+          "value": "5",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DADRA & NAGAR HAVELI",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DAMAN & DIU",
+          "value": "32",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DELHI",
+          "value": "34",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GOA",
+          "value": "6",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GUJARAT",
+          "value": "7",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HARYANA",
+          "value": "8",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HIMACHAL PRADESH",
+          "value": "9",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JAMMU & KASHMIR",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JHARKHAND",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KARNATAKA",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KERALA",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LADAKH",
+          "value": "38",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LAKSHADWEEP",
+          "value": "33",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MADHYA PRADESH",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MAHARASHTRA",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MANIPUR",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MEGHALAYA",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MIZORAM",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NAGALAND",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ODISHA",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUDUCHERRY",
+          "value": "35",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUNJAB",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "RAJASTHAN",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SIKKIM",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TAMILNADU",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TELANGANA",
+          "value": "37",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TRIPURA",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTAR PRADESH",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTARAKHAND",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "WEST BENGAL",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select slbx_wdth getGSTstatechange",
+      "autocomplete": null
+    },
+    {
+      "label": "Pincode",
+      "selector_id": "txtpin",
+      "selector_name": "txtpin",
+      "selector_css": "#txtpin",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Same as Address for Correspondence ( Click if applicable)",
+      "selector_id": "same_presentadd",
+      "selector_name": "same_presentadd",
+      "selector_css": "#same_presentadd",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "getGSTstate custom-control-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Address 1",
+      "selector_id": "txtpaddress1",
+      "selector_name": "txtpaddress1",
+      "selector_css": "#txtpaddress1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control  permenant max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Address 2",
+      "selector_id": "txtpaddress2",
+      "selector_name": "txtpaddress2",
+      "selector_css": "#txtpaddress2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control  permenant max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Address 3",
+      "selector_id": "txtpaddress3",
+      "selector_name": "txtpaddress3",
+      "selector_css": "#txtpaddress3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control  permenant max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "District",
+      "selector_id": "txtpdistrict",
+      "selector_name": "txtpdistrict",
+      "selector_css": "#txtpdistrict",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control  permenant max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "State",
+      "selector_id": "txtpstate",
+      "selector_name": "txtpstate",
+      "selector_css": "#txtpstate",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "ANDAMAN & NICOBAR",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ANDHRA PRADESH",
+          "value": "1",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ARUNACHAL PRADESH",
+          "value": "2",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ASSAM",
+          "value": "3",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BIHAR",
+          "value": "4",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHANDIGARH",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHHATTISGARH",
+          "value": "5",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DADRA & NAGAR HAVELI",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DAMAN & DIU",
+          "value": "32",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DELHI",
+          "value": "34",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GOA",
+          "value": "6",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GUJARAT",
+          "value": "7",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HARYANA",
+          "value": "8",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HIMACHAL PRADESH",
+          "value": "9",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JAMMU & KASHMIR",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JHARKHAND",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KARNATAKA",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KERALA",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LADAKH",
+          "value": "38",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LAKSHADWEEP",
+          "value": "33",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MADHYA PRADESH",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MAHARASHTRA",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MANIPUR",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MEGHALAYA",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MIZORAM",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NAGALAND",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ODISHA",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUDUCHERRY",
+          "value": "35",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUNJAB",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "RAJASTHAN",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SIKKIM",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TAMILNADU",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TELANGANA",
+          "value": "37",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TRIPURA",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTAR PRADESH",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTARAKHAND",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "WEST BENGAL",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select slbx_wdth left permenant getGSTstatechange",
+      "autocomplete": null
+    },
+    {
+      "label": "Pincode",
+      "selector_id": "txtppin",
+      "selector_name": "txtppin",
+      "selector_css": "#txtppin",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control permenant max_length_check mobileCCP",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Choose the Address for GST Invoicing",
+      "selector_id": "gstState",
+      "selector_name": "gstState",
+      "selector_css": "#gstState",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Correspondence Address",
+          "value": "C",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Permanent Address",
+          "value": "P",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select getGSTstatechange",
+      "autocomplete": null
+    },
+    {
+      "label": "Account Holder Name",
+      "selector_id": "bank_name",
+      "selector_name": "bank_name",
+      "selector_css": "#bank_name",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control bankinfo",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Bank Account No",
+      "selector_id": "bankaccno",
+      "selector_name": "bankaccno",
+      "selector_css": "#bankaccno",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control bankinfo",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Confirm Bank Account No",
+      "selector_id": "c_acc_no",
+      "selector_name": "c_acc_no",
+      "selector_css": "#c_acc_no",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control bankinfo",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Bank & Branch Name",
+      "selector_id": "bank_branch",
+      "selector_name": "bank_branch",
+      "selector_css": "#bank_branch",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 35
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control bankinfo",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Type of Account",
+      "selector_id": "acc_type",
+      "selector_name": "acc_type",
+      "selector_css": "#acc_type",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Savings Account",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Current Account",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-select form-control acc_type",
+      "autocomplete": null
+    },
+    {
+      "label": "IFSC Code",
+      "selector_id": "ifsc",
+      "selector_name": "ifsc",
+      "selector_css": "#ifsc",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 11
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control bankinfo",
+      "autocomplete": "off"
+    }
+  ]
+}

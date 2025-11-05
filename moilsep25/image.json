@@ -1,0 +1,89 @@
+{
+  "total_fields": 4,
+  "required_fields_count": 0,
+  "page_url": "https://ibpsreg.ibps.in/moilsep25/image.php?q=MDk5OTM2YTQ1MjIyMzY1NTU5ODc5MmJiNzUyMzY1MzZ8NzI1MDEyNzcw&st=1",
+  "page_title": "Recruitment of Various Posts",
+  "timestamp": "2025-11-05T15:02:15.010Z",
+  "fields": [
+    {
+      "label": "Choose file",
+      "selector_id": "picture",
+      "selector_name": "picture",
+      "selector_css": "#picture",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-file-input pic",
+      "autocomplete": "off"
+    },
+    {
+      "label": "I confirm that this is my valid photo and also agree to above mentioned Note.",
+      "selector_id": "confirmPhoto",
+      "selector_name": "confirmPhoto",
+      "selector_css": "#confirmPhoto",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Choose file",
+      "selector_id": "signature",
+      "selector_name": "signature",
+      "selector_css": "#signature",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-file-input sig",
+      "autocomplete": "off"
+    },
+    {
+      "label": "I confirm that this is my valid signature and also agree to above mentioned Note.",
+      "selector_id": "confirmSign",
+      "selector_name": "confirmSign",
+      "selector_css": "#confirmSign",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    }
+  ]
+}

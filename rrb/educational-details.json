@@ -1,0 +1,516 @@
+{
+  "total_fields": 11,
+  "required_fields_count": 0,
+  "page_url": "https://www.rrbapply.gov.in/#/myprofile/educational-details",
+  "page_title": "RRB :: Educational Qualification Details",
+  "timestamp": "2025-11-05T16:53:22.823Z",
+  "fields": [
+    {
+      "label": "I have read and understood the above guidelines for uploading the photograph and signature.",
+      "selector_id": "applicationPhoto",
+      "selector_name": "applicationPhoto",
+      "selector_css": "#applicationPhoto",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "mr-2 ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "I have read and understood the above guidelines for uploading the photograph and signature.",
+      "selector_id": "applicationPhoto",
+      "selector_name": "applicationPhoto",
+      "selector_css": "#applicationPhoto",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "mr-2 ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Qualification",
+      "selector_id": "qualificationTypeCode",
+      "selector_name": "qualificationTypeCode",
+      "selector_css": "#qualificationTypeCode",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "3 years Diploma in Engineering",
+          "value": "D.I.Engg",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bachelor of Science",
+          "value": "B.Sc",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Degree in Engineering",
+          "value": "B.E.",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Matriculation/SSLC",
+          "value": "SSC",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "B.Sc",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-valid ng-dirty ng-touched",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Discipline/Subject",
+      "selector_id": "subject1Code",
+      "selector_name": "subject1Code",
+      "selector_css": "#subject1Code",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Civil Engineering",
+          "value": "4172",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Physics & Chemistry",
+          "value": "137",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "0: null",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "State",
+      "selector_id": "state",
+      "selector_name": "state",
+      "selector_css": "#state",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "ANDAMAN & NICOBAR ISLANDS",
+          "value": "4136",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ANDHRA PRADESH",
+          "value": "4137",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ARUNACHAL PRADESH",
+          "value": "4138",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ASSAM",
+          "value": "4139",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BIHAR",
+          "value": "4140",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHANDIGARH",
+          "value": "4141",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHHATTISGARH",
+          "value": "4142",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DELHI",
+          "value": "4145",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dadra & Nagar Haveli and Daman & Diu",
+          "value": "4143",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GOA",
+          "value": "4146",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GUJARAT",
+          "value": "4147",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HARYANA",
+          "value": "4148",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HIMACHAL PRADESH",
+          "value": "4149",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JAMMU & KASHMIR",
+          "value": "4150",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JHARKHAND",
+          "value": "4151",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KARNATAKA",
+          "value": "4152",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KERALA",
+          "value": "4153",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LADAKH",
+          "value": "4171",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LAKSHADWEEP",
+          "value": "4154",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MADHYA PRADESH",
+          "value": "4155",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MAHARASHTRA",
+          "value": "4156",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MANIPUR",
+          "value": "4157",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MEGHALAYA",
+          "value": "4158",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MIZORAM",
+          "value": "4159",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NAGALAND",
+          "value": "4160",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ODISHA",
+          "value": "4161",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other",
+          "value": "23031",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUDUCHERRY",
+          "value": "4162",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUNJAB",
+          "value": "4163",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Provinces of Bhutan",
+          "value": "146105",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Provinces of Nepal",
+          "value": "146104",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "RAJASTHAN",
+          "value": "4164",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SIKKIM",
+          "value": "4165",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TAMIL NADU",
+          "value": "4166",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TELANGANA",
+          "value": "21582",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TRIPURA",
+          "value": "4167",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTAR PRADESH",
+          "value": "4168",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTARAKHAND",
+          "value": "4169",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "WEST BENGAL",
+          "value": "4170",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "0: null",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "District",
+      "selector_id": "district",
+      "selector_name": "district",
+      "selector_css": "#district",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "0: null",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Name of College/University",
+      "selector_id": "boardOrUnivercityCode",
+      "selector_name": "boardOrUnivercityCode",
+      "selector_css": "#boardOrUnivercityCode",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Name of College/University",
+      "constraints": {
+        "minLength": 3,
+        "maxLength": 200,
+        "pattern": "^[a-zA-Z][a-zA-Z\\s.,&'-]*$"
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Date of Passing",
+      "selector_id": "jquerryEffectiveDate",
+      "selector_name": "effectiveDate",
+      "selector_css": "#jquerryEffectiveDate",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "DD/MM/YYYY",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Percentage",
+      "selector_id": "percentage",
+      "selector_name": "percentage",
+      "selector_css": "#percentage",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Percentage ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "No file chosen",
+      "selector_id": "file-upload-1762361558788xv5i",
+      "selector_name": null,
+      "selector_css": "#file-upload-1762361558788xv5i",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-file-input",
+      "autocomplete": null
+    },
+    {
+      "label": "No file chosen",
+      "selector_id": "file-upload-1762361558788g3x2",
+      "selector_name": null,
+      "selector_css": "#file-upload-1762361558788g3x2",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-file-input",
+      "autocomplete": null
+    }
+  ]
+}

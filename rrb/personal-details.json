@@ -1,0 +1,2375 @@
+{
+  "total_fields": 36,
+  "required_fields_count": 0,
+  "page_url": "https://www.rrbapply.gov.in/#/myprofile/personal-details",
+  "page_title": "RRB :: Personal Details",
+  "timestamp": "2025-11-05T16:43:23.632Z",
+  "fields": [
+    {
+      "label": "I have read and understood the above guidelines for uploading the photograph and signature.",
+      "selector_id": "applicationPhoto",
+      "selector_name": "applicationPhoto",
+      "selector_css": "#applicationPhoto",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "mr-2 ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "I have read and understood the above guidelines for uploading the photograph and signature.",
+      "selector_id": "applicationPhoto",
+      "selector_name": "applicationPhoto",
+      "selector_css": "#applicationPhoto",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "mr-2 ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Country of Nationality",
+      "selector_id": "nationality",
+      "selector_name": "nationality",
+      "selector_css": "#nationality",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "India",
+          "value": "IND",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Nepal",
+          "value": "NEP",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bhutan",
+          "value": "BHU",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tibetan refugee who came over to India, before the 1st January, 1962 with the intention of permanently settling in India",
+          "value": "TIB",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Person of Indian origin who has migrated from Pakistan, Burma, Sri Lanka, East African Countries of Kenya, Uganda, the United Republic of Tanzania, Zambia, Malawi, Zaire, Ethiopia and Vietnam with the intention of permanently settling in India.",
+          "value": "POI",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "IND",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Date of Birth as recorded in Matriculation (10th class) Certificate/Marks list",
+      "selector_id": "dateOfBirth",
+      "selector_name": "dateOfBirth",
+      "selector_css": "#dateOfBirth",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "29/09/1999",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Age as on 01/01/2026",
+      "selector_id": "ageAsOn",
+      "selector_name": "ageAsOn",
+      "selector_css": "#ageAsOn",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "26Year    3Months    4Days",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Full Name as recorded in Matriculation (10th class) Certificate/Marks list",
+      "selector_id": "fullName",
+      "selector_name": "fullName",
+      "selector_css": "#fullName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Full Name as recorded in Matriculation (10th class)  Certificate/Marks list ",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 50
+      },
+      "current_value": "JARUPULA RAJKUMAR",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-star-inserted",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Father’s Name as recorded in Matriculation (10th class) Certificate/Marks list",
+      "selector_id": "faterFullName",
+      "selector_name": "faterFullName",
+      "selector_css": "#faterFullName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Father’s name as recorded in Matriculation (10th class)  Certificate/Marks list ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "JARUPULA SHANKAR",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Mother’s Name",
+      "selector_id": "motherFullname",
+      "selector_name": "motherFullname",
+      "selector_css": "#motherFullname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Mother’s Name ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "JARUPULA LAXMI",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Gender",
+      "selector_id": "gender",
+      "selector_name": "gender",
+      "selector_css": "#gender",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Male",
+          "value": "M",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Female",
+          "value": "F",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Transgender",
+          "value": "T",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "M",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Email Address",
+      "selector_id": "email",
+      "selector_name": "email",
+      "selector_css": "#email",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Email Address",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "rajkumarraj22977@gmail.com",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Mobile Number",
+      "selector_id": "mobileNo",
+      "selector_name": "mobileNo",
+      "selector_css": "#mobileNo",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Mobile Number",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "8688198923",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Marital Status",
+      "selector_id": "maritalstatus",
+      "selector_name": "maritalstatus",
+      "selector_css": "#maritalstatus",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Unmarried",
+          "value": "01",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Married",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "01",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Religion",
+      "selector_id": "religion",
+      "selector_name": "religion",
+      "selector_css": "#religion",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hindu",
+          "value": "01",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Muslim",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Christian",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sikh",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Buddhist",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jain",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Zoroastrian (Parsi)",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Others",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "01",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Mother Tongue",
+      "selector_id": "motherTounge",
+      "selector_name": "motherTounge",
+      "selector_css": "#motherTounge",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Assamese",
+          "value": "Assamese",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bengali",
+          "value": "Bengali",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gujarati",
+          "value": "Gujarati",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hindi",
+          "value": "Hindi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kannada",
+          "value": "Kannada",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kashmiri",
+          "value": "Kashmiri",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Konkani",
+          "value": "Konkani",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Malayalam",
+          "value": "Malayalam",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Manipuri",
+          "value": "Manipuri",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Marathi",
+          "value": "Marathi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nepali",
+          "value": "Nepali",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Odia",
+          "value": "Odia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Punjabi",
+          "value": "Punjabi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sanskrit",
+          "value": "Sanskrit",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sindhi",
+          "value": "Sindhi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tamil",
+          "value": "Tamil",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Telugu",
+          "value": "Telugu",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Urdu",
+          "value": "Urdu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bodo",
+          "value": "Bodo",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Santhali",
+          "value": "Santhali",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Maithili",
+          "value": "Maithili",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dogri",
+          "value": "Dogri",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other",
+          "value": "Other",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Telugu",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Choice of Language for Examination",
+      "selector_id": "choiceofexamlanguage",
+      "selector_name": "choiceofexamlanguage",
+      "selector_css": "#choiceofexamlanguage",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Assamese",
+          "value": "Assamese",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bengali",
+          "value": "Bengali",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "English",
+          "value": "English",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Gujarati",
+          "value": "Gujarati",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hindi",
+          "value": "Hindi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kannada",
+          "value": "Kannada",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Konkani",
+          "value": "Konkani",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Malayalam",
+          "value": "Malayalam",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Manipuri",
+          "value": "Manipuri",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Marathi",
+          "value": "Marathi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Odia",
+          "value": "Odia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Punjabi",
+          "value": "Punjabi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tamil",
+          "value": "Tamil",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Telugu",
+          "value": "Telugu ",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Urdu",
+          "value": "Urdu",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "English",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Permanent visible mark of identification 1",
+      "selector_id": "personalIdentificationMark",
+      "selector_name": "personalIdentificationMark",
+      "selector_css": "#personalIdentificationMark",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Permanent visible mark of identification 1",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "a mole on the right hand",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Permanent visible mark of identification 2",
+      "selector_id": "personalidenficationmarktwo",
+      "selector_name": "personalidenficationmarktwo",
+      "selector_css": "#personalidenficationmarktwo",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Permanent visible mark of identification 2",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "a mole on the chest",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Community",
+      "selector_id": "Category",
+      "selector_name": "Category",
+      "selector_css": "#Category",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UR (Unreserved)",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SC (Scheduled Caste)",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ST (Scheduled Tribe)",
+          "value": "03",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "OBC (Other Backward Classes)",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "EWS (Economically Weaker Section)",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "03",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Name of the Tribe",
+      "selector_id": "subReservationCategoty",
+      "selector_name": "subReservationCategoty",
+      "selector_css": "#subReservationCategoty",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Name of the Tribe",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "lambadi",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Community Certificate Number",
+      "selector_id": "castCertificateNo",
+      "selector_name": "castCertificateNo",
+      "selector_css": "#castCertificateNo",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Community Certificate Number",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "364587992534",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Community Certificate Issuing Authority",
+      "selector_id": "issuingAuthority",
+      "selector_name": "issuingAuthority",
+      "selector_css": "#issuingAuthority",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1st Class Stipendiary Magistrate",
+          "value": "1st Class Stipendiary Magistrate",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Additional Chief Presidency Magistrate",
+          "value": "Additional Chief Presidency Magistrate",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Additional Deputy Commissioner",
+          "value": "Additional Deputy Commissioner",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Additional District Magistrate",
+          "value": "Additional District Magistrate",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Administrator / Secretary to Administrator (Lakshadweep & Andaman Nicobar)",
+          "value": "Administrator / Secretary to Administrator (Lakshadweep & Andaman Nicobar)",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Certificates issued by Gazetteed Officers of the Central or of a State Government Countersigned by the District Magistrate concerned",
+          "value": "Certificates issued by Gazetteed Officers of the Central or of a State Government Countersigned by the District Magistrate concerned",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chief Presidency Magistrate",
+          "value": "Chief Presidency Magistrate",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "City Magistrate",
+          "value": "City Magistrate",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Collector",
+          "value": "Collector",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Deputy Collector",
+          "value": "Deputy Collector",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Deputy Commissioner",
+          "value": "Deputy Commissioner",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "District Magistrate",
+          "value": "District Magistrate",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Executive Magistrate",
+          "value": "Executive Magistrate",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Extra Assistant Commissioner (not below the rank of First Class Stipendiary Magistrate)",
+          "value": "Extra Assistant Commissioner (not below the rank of First Class Stipendiary Magistrate)",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Presidency Magistrate",
+          "value": "Presidency Magistrate",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Revenue Officers not below the rank of Tehsildar",
+          "value": "Revenue Officers not below the rank of Tehsildar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sub- Divisional Officer of the area where the candidate and  or his/her family normally reside(s)",
+          "value": "Sub- Divisional Officer of the area where the candidate and  or his/her family normally reside(s)",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sub-Divisional Magistrate",
+          "value": "Sub-Divisional Magistrate",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Taluka Magistrate",
+          "value": "Taluka Magistrate",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Additional Deputy Commissioner",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Issuing State/UT",
+      "selector_id": "issuingAuthorizedState",
+      "selector_name": "issuingAuthorizedState",
+      "selector_css": "#issuingAuthorizedState",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ANDAMAN & NICOBAR ISLANDS",
+          "value": "4136",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ANDHRA PRADESH",
+          "value": "4137",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ARUNACHAL PRADESH",
+          "value": "4138",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ASSAM",
+          "value": "4139",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BIHAR",
+          "value": "4140",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHANDIGARH",
+          "value": "4141",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHHATTISGARH",
+          "value": "4142",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dadra & Nagar Haveli and Daman & Diu",
+          "value": "4143",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DELHI",
+          "value": "4145",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GOA",
+          "value": "4146",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GUJARAT",
+          "value": "4147",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HARYANA",
+          "value": "4148",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HIMACHAL PRADESH",
+          "value": "4149",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JAMMU & KASHMIR",
+          "value": "4150",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JHARKHAND",
+          "value": "4151",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KARNATAKA",
+          "value": "4152",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KERALA",
+          "value": "4153",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LADAKH",
+          "value": "4171",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LAKSHADWEEP",
+          "value": "4154",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MADHYA PRADESH",
+          "value": "4155",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MAHARASHTRA",
+          "value": "4156",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MANIPUR",
+          "value": "4157",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MEGHALAYA",
+          "value": "4158",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MIZORAM",
+          "value": "4159",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NAGALAND",
+          "value": "4160",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ODISHA",
+          "value": "4161",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other",
+          "value": "23031",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Provinces of Bhutan",
+          "value": "146105",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Provinces of Nepal",
+          "value": "146104",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUDUCHERRY",
+          "value": "4162",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUNJAB",
+          "value": "4163",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "RAJASTHAN",
+          "value": "4164",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SIKKIM",
+          "value": "4165",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TAMIL NADU",
+          "value": "4166",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TELANGANA",
+          "value": "21582",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "TRIPURA",
+          "value": "4167",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTAR PRADESH",
+          "value": "4168",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTARAKHAND",
+          "value": "4169",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "WEST BENGAL",
+          "value": "4170",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "21582",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Community Certificate Date of Issue(dd/mm/yyyy)",
+      "selector_id": "jquerryEffectiveDate",
+      "selector_name": "effectiveDate",
+      "selector_css": "#jquerryEffectiveDate",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "DD/MM/YYYY",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "03/09/2025",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Do you wish to avail free rail travel pass for the exam ?",
+      "selector_id": "availFreeTravelling",
+      "selector_name": "availFreeTravelling",
+      "selector_css": "#availFreeTravelling",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "1: true",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "2: false",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "2: false",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "State/UT",
+      "selector_id": "presentStateCode",
+      "selector_name": "presentStateCode",
+      "selector_css": "#presentStateCode",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ANDAMAN & NICOBAR ISLANDS",
+          "value": "4136",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ANDHRA PRADESH",
+          "value": "4137",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ARUNACHAL PRADESH",
+          "value": "4138",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ASSAM",
+          "value": "4139",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BIHAR",
+          "value": "4140",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHANDIGARH",
+          "value": "4141",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHHATTISGARH",
+          "value": "4142",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dadra & Nagar Haveli and Daman & Diu",
+          "value": "4143",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DELHI",
+          "value": "4145",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GOA",
+          "value": "4146",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GUJARAT",
+          "value": "4147",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HARYANA",
+          "value": "4148",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HIMACHAL PRADESH",
+          "value": "4149",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JAMMU & KASHMIR",
+          "value": "4150",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JHARKHAND",
+          "value": "4151",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KARNATAKA",
+          "value": "4152",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KERALA",
+          "value": "4153",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LADAKH",
+          "value": "4171",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LAKSHADWEEP",
+          "value": "4154",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MADHYA PRADESH",
+          "value": "4155",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MAHARASHTRA",
+          "value": "4156",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MANIPUR",
+          "value": "4157",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MEGHALAYA",
+          "value": "4158",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MIZORAM",
+          "value": "4159",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NAGALAND",
+          "value": "4160",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ODISHA",
+          "value": "4161",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other",
+          "value": "23031",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Provinces of Bhutan",
+          "value": "146105",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Provinces of Nepal",
+          "value": "146104",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUDUCHERRY",
+          "value": "4162",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUNJAB",
+          "value": "4163",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "RAJASTHAN",
+          "value": "4164",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SIKKIM",
+          "value": "4165",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TAMIL NADU",
+          "value": "4166",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TELANGANA",
+          "value": "21582",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "TRIPURA",
+          "value": "4167",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTAR PRADESH",
+          "value": "4168",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTARAKHAND",
+          "value": "4169",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "WEST BENGAL",
+          "value": "4170",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "21582",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "District",
+      "selector_id": "presentDistrictCode",
+      "selector_name": "presentDistrictCode",
+      "selector_css": "#presentDistrictCode",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Adilabad",
+          "value": "23000",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bhadradri Kothagudem",
+          "value": "23001",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hanumakonda",
+          "value": "23028",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hyderabad",
+          "value": "23002",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jagtial",
+          "value": "23003",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jangoan",
+          "value": "23004",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jayashankar Bhoopalpally",
+          "value": "23005",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jogulamba Gadwal",
+          "value": "23006",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kamareddy",
+          "value": "23007",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Karimnagar",
+          "value": "23008",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Khammam",
+          "value": "23009",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kumuram Bheem",
+          "value": "23010",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mahabubabad",
+          "value": "23011",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mahabubnagar",
+          "value": "23012",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mancherial",
+          "value": "23013",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Medak",
+          "value": "23014",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Medchal Malkajgiri",
+          "value": "23015",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mulug",
+          "value": "23032",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nagarkurnool",
+          "value": "23016",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nalgonda",
+          "value": "23017",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Narayanpet",
+          "value": "23031",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nirmal",
+          "value": "23018",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nizamabad",
+          "value": "23019",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Peddapalli",
+          "value": "23020",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rajanna Sircilla",
+          "value": "23021",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rangareddy",
+          "value": "23022",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sangareddy",
+          "value": "23023",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Siddipet",
+          "value": "23024",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Suryapet",
+          "value": "23025",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vikarabad",
+          "value": "23026",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Wanaparthy",
+          "value": "23027",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Warangal",
+          "value": "23029",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yadadri Bhuvanagiri",
+          "value": "23030",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "23029",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Address",
+      "selector_id": "personaladdress",
+      "selector_name": "personaladdress",
+      "selector_css": "#personaladdress",
+      "tag_name": "textarea",
+      "input_type": "textarea",
+      "options": null,
+      "required": false,
+      "placeholder": "Address",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 500
+      },
+      "current_value": "Gangireni Gudem, Shayampet, Warangal rural, Telangana, pin code 506164",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Present Nearest City / Major Town",
+      "selector_id": "presentVillage",
+      "selector_name": "presentVillage",
+      "selector_css": "#presentVillage",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Present Nearest City / Major Town",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "Shayampet",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Pincode",
+      "selector_id": "presentDistrictPinCode",
+      "selector_name": "presentDistrictPinCode",
+      "selector_css": "#presentDistrictPinCode",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Pincode ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "506164",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": "off"
+    },
+    {
+      "label": "State/UT",
+      "selector_id": "permanentStateCode",
+      "selector_name": "permanentStateCode",
+      "selector_css": "#permanentStateCode",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ANDAMAN & NICOBAR ISLANDS",
+          "value": "4136",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ANDHRA PRADESH",
+          "value": "4137",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ARUNACHAL PRADESH",
+          "value": "4138",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ASSAM",
+          "value": "4139",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BIHAR",
+          "value": "4140",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHANDIGARH",
+          "value": "4141",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHHATTISGARH",
+          "value": "4142",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dadra & Nagar Haveli and Daman & Diu",
+          "value": "4143",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DELHI",
+          "value": "4145",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GOA",
+          "value": "4146",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GUJARAT",
+          "value": "4147",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HARYANA",
+          "value": "4148",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HIMACHAL PRADESH",
+          "value": "4149",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JAMMU & KASHMIR",
+          "value": "4150",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JHARKHAND",
+          "value": "4151",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KARNATAKA",
+          "value": "4152",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KERALA",
+          "value": "4153",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LADAKH",
+          "value": "4171",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LAKSHADWEEP",
+          "value": "4154",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MADHYA PRADESH",
+          "value": "4155",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MAHARASHTRA",
+          "value": "4156",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MANIPUR",
+          "value": "4157",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MEGHALAYA",
+          "value": "4158",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MIZORAM",
+          "value": "4159",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NAGALAND",
+          "value": "4160",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ODISHA",
+          "value": "4161",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other",
+          "value": "23031",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Provinces of Bhutan",
+          "value": "146105",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Provinces of Nepal",
+          "value": "146104",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUDUCHERRY",
+          "value": "4162",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUNJAB",
+          "value": "4163",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "RAJASTHAN",
+          "value": "4164",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SIKKIM",
+          "value": "4165",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TAMIL NADU",
+          "value": "4166",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TELANGANA",
+          "value": "21582",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "TRIPURA",
+          "value": "4167",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTAR PRADESH",
+          "value": "4168",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTARAKHAND",
+          "value": "4169",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "WEST BENGAL",
+          "value": "4170",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "21582",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "District",
+      "selector_id": "permanentDistrictCode",
+      "selector_name": "permanentDistrictCode",
+      "selector_css": "#permanentDistrictCode",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Adilabad",
+          "value": "1: 23000",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bhadradri Kothagudem",
+          "value": "2: 23001",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hanumakonda",
+          "value": "3: 23028",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hyderabad",
+          "value": "4: 23002",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jagtial",
+          "value": "5: 23003",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jangoan",
+          "value": "6: 23004",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jayashankar Bhoopalpally",
+          "value": "7: 23005",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jogulamba Gadwal",
+          "value": "8: 23006",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kamareddy",
+          "value": "9: 23007",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Karimnagar",
+          "value": "10: 23008",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Khammam",
+          "value": "11: 23009",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kumuram Bheem",
+          "value": "12: 23010",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mahabubabad",
+          "value": "13: 23011",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mahabubnagar",
+          "value": "14: 23012",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mancherial",
+          "value": "15: 23013",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Medak",
+          "value": "16: 23014",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Medchal Malkajgiri",
+          "value": "17: 23015",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mulug",
+          "value": "18: 23032",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nagarkurnool",
+          "value": "19: 23016",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nalgonda",
+          "value": "20: 23017",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Narayanpet",
+          "value": "21: 23031",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nirmal",
+          "value": "22: 23018",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nizamabad",
+          "value": "23: 23019",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Peddapalli",
+          "value": "24: 23020",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rajanna Sircilla",
+          "value": "25: 23021",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rangareddy",
+          "value": "26: 23022",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sangareddy",
+          "value": "27: 23023",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Siddipet",
+          "value": "28: 23024",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Suryapet",
+          "value": "29: 23025",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vikarabad",
+          "value": "30: 23026",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Wanaparthy",
+          "value": "31: 23027",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Warangal",
+          "value": "32: 23029",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yadadri Bhuvanagiri",
+          "value": "33: 23030",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "32: 23029",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control select-text ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Address",
+      "selector_id": "permanentAddress",
+      "selector_name": "permanentAddress",
+      "selector_css": "#permanentAddress",
+      "tag_name": "textarea",
+      "input_type": "textarea",
+      "options": null,
+      "required": false,
+      "placeholder": "Address",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 500
+      },
+      "current_value": "Gangireni Gudem, Shayampet, Warangal rural, Telangana, pin code 506164",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Permanent Nearest City / Major Town",
+      "selector_id": "permanentVillage",
+      "selector_name": "permanentVillage",
+      "selector_css": "#permanentVillage",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Permanent Nearest City / Major Town",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "Shayampet",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Pincode",
+      "selector_id": "permanentPinCode",
+      "selector_name": "permanentPinCode",
+      "selector_css": "#permanentPinCode",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Pincode ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "506164",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Tick if Permanent Address is same as Present Address.",
+      "selector_id": "isSameAsPresentAddress",
+      "selector_name": "isSameAsPresentAddress",
+      "selector_css": "#isSameAsPresentAddress",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": true,
+      "disabled": false,
+      "readonly": false,
+      "class": "ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "No file chosen",
+      "selector_id": "file-upload-1762360989591RTZR",
+      "selector_name": null,
+      "selector_css": "#file-upload-1762360989591RTZR",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-file-input",
+      "autocomplete": null
+    }
+  ]
+}

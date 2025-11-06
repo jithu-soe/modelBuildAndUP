@@ -1,0 +1,137 @@
+{
+  "total_fields": 6,
+  "required_fields_count": 0,
+  "page_url": "https://ibpsreg.ibps.in/sebisep25/uploaddocs.php?q=ODZiOWI1YmRkOTBjZTdmODI5OGI3NGFjYTVlYjA3M2J8NzE3MDM1Mjcz",
+  "page_title": "Recruitment of Officer Grade A (Assistant Manager) 2025 - General, Legal, Information Technology, Research, Official Language, Engineering (Electrical), Engineering (Civil) Stream",
+  "timestamp": "2025-11-06T16:28:59.234Z",
+  "fields": [
+    {
+      "label": "Left Thumb Impression",
+      "selector_id": "basicinfo_thumb",
+      "selector_name": "basicinfo_thumb",
+      "selector_css": "#basicinfo_thumb",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "browse_btn form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Hand Written Declaration",
+      "selector_id": "basicinfo_handwritten",
+      "selector_name": "basicinfo_handwritten",
+      "selector_css": "#basicinfo_handwritten",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "browse_btn form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Class X Marksheet",
+      "selector_id": "basicinfo_xmarksheet",
+      "selector_name": "basicinfo_xmarksheet",
+      "selector_css": "#basicinfo_xmarksheet",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "browse_btn form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Degree / Diploma Marksheet",
+      "selector_id": "basicinfo_degreemarksheet",
+      "selector_name": "basicinfo_degreemarksheet",
+      "selector_css": "#basicinfo_degreemarksheet",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "browse_btn form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "digilocker_btn",
+      "selector_css": "input[type=\"radio\"][name=\"digilocker_btn\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": null
+    },
+    {
+      "label": "Security Code",
+      "selector_id": "txtCode",
+      "selector_name": "txtCode",
+      "selector_css": "#txtCode",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control col",
+      "autocomplete": "off"
+    }
+  ]
+}

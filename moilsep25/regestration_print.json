@@ -1,0 +1,29 @@
+{
+  "total_fields": 1,
+  "required_fields_count": 0,
+  "page_url": "https://ibpsreg.ibps.in/moilsep25/registration_print.php?q=YjQ2YjljNWZjN2UzMjIwM2Y1NTUwMjVkNzZjMTI3YWJ8NzI1MDE0MzI2",
+  "page_title": "Recruitment of Various Posts",
+  "timestamp": "2025-11-06T16:48:48.714Z",
+  "fields": [
+    {
+      "label": "I Agree",
+      "selector_id": "agree",
+      "selector_name": "agree",
+      "selector_css": "#agree",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "custom-control-input",
+      "autocomplete": "off"
+    }
+  ]
+}

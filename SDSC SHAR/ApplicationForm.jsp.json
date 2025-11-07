@@ -1,0 +1,5935 @@
+{
+  "total_fields": 92,
+  "required_fields_count": 0,
+  "page_url": "https://apps.shar.gov.in/Recruitment01_2025/ApplicationForm.jsp",
+  "page_title": "",
+  "timestamp": "2025-11-07T14:52:19.436Z",
+  "fields": [
+    {
+      "label": "Full Name",
+      "selector_id": null,
+      "selector_name": "SalutationCode",
+      "selector_css": "select[name=\"SalutationCode\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Mr",
+          "value": "Mr",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ms",
+          "value": "Ms",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mrs",
+          "value": "Ms",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal_m",
+      "autocomplete": null
+    },
+    {
+      "label": "Full Name",
+      "selector_id": "ApplicantName",
+      "selector_name": "ApplicantName",
+      "selector_css": "#ApplicantName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 45
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Father's/Spouse Name",
+      "selector_id": null,
+      "selector_name": "GuardianName",
+      "selector_css": "input[name=\"GuardianName\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Father Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 45
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Mother's Name",
+      "selector_id": "motherName",
+      "selector_name": "motherName",
+      "selector_css": "#motherName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Mother Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 45
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Nationality",
+      "selector_id": null,
+      "selector_name": "Nationality",
+      "selector_css": "select[name=\"Nationality\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Indian",
+          "value": "Indian",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Indian",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Email Address",
+      "selector_id": null,
+      "selector_name": "Email",
+      "selector_css": "input[name=\"Email\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Email Address",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "nareshannm1@gmail.com",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Mobile Number",
+      "selector_id": null,
+      "selector_name": "Telno",
+      "selector_css": "input[name=\"Telno\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Mobile Number",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "8688198923",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Bank Account Number",
+      "selector_id": "BankAcc",
+      "selector_name": "BankAcc",
+      "selector_css": "#BankAcc",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Bank Account Number",
+      "constraints": {
+        "minLength": 5,
+        "maxLength": 30
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Account Holder Name",
+      "selector_id": "BankHolder",
+      "selector_name": "BankHolder",
+      "selector_css": "#BankHolder",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Account Holder Name",
+      "constraints": {
+        "minLength": 5,
+        "maxLength": 30
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "IFSC Code",
+      "selector_id": "ifscCode",
+      "selector_name": "ifscCode",
+      "selector_css": "#ifscCode",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter IFSC Code",
+      "constraints": {
+        "minLength": 5,
+        "maxLength": 18
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Bank Name",
+      "selector_id": "bankName",
+      "selector_name": "bankName",
+      "selector_css": "#bankName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Bank Name ",
+      "constraints": {
+        "minLength": 3,
+        "maxLength": 120
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "City Selection for Written Test :",
+      "selector_id": "writtentest1",
+      "selector_name": "writtentest1",
+      "selector_css": "#writtentest1",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "GUNTUR",
+          "value": "GUNTUR",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHENNAI",
+          "value": "CHENNAI",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DEHRADUN",
+          "value": "DEHRADUN",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "THIRUVANANTHAPURAM",
+          "value": "THIRUVANANTHAPURAM",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BANGALORE",
+          "value": "BANGALORE",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Full Name",
+      "selector_id": "writtentest2",
+      "selector_name": "writtentest2",
+      "selector_css": "#writtentest2",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "GUNTUR",
+          "value": "GUNTUR",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHENNAI",
+          "value": "CHENNAI",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DEHRADUN",
+          "value": "DEHRADUN",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "THIRUVANANTHAPURAM",
+          "value": "THIRUVANANTHAPURAM",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BANGALORE",
+          "value": "BANGALORE",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Full Name",
+      "selector_id": "writtentest3",
+      "selector_name": "writtentest3",
+      "selector_css": "#writtentest3",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "GUNTUR",
+          "value": "GUNTUR",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHENNAI",
+          "value": "CHENNAI",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DEHRADUN",
+          "value": "DEHRADUN",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "THIRUVANANTHAPURAM",
+          "value": "THIRUVANANTHAPURAM",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BANGALORE",
+          "value": "BANGALORE",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Category",
+      "selector_id": null,
+      "selector_name": "Category",
+      "selector_css": "select[name=\"Category\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select\n\t\t\t\t\t\t\t\t\t\t\t\tCategory",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "General",
+          "value": "General",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other Backward Classes",
+          "value": "Other Backward Classes",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Scheduled Caste",
+          "value": "Scheduled Caste",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Scheduled Tribe",
+          "value": "Scheduled Tribe",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "EWS",
+          "value": "EWS",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Gender",
+      "selector_id": null,
+      "selector_name": "Gender",
+      "selector_css": "select[name=\"Gender\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select\n\t\t\t\t\t\t\t\t\t\t\t\tGender",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Male",
+          "value": "M",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Female",
+          "value": "F",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Third\n\t\t\t\t\t\t\t\t\t\t\t\tGender",
+          "value": "TG",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Martial Status",
+      "selector_id": null,
+      "selector_name": "Martial",
+      "selector_css": "select[name=\"Martial\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select\n\t\t\t\t\t\t\t\t\t\t\t\tMartial Status",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Unmarried",
+          "value": "Unmarried",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Married",
+          "value": "Married",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Widow",
+          "value": "Widow",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Divorced\n\t\t\t\t\t\t\t\t\t\t\t\tWomen",
+          "value": "Divorced Women",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Women\n\t\t\t\t\t\t\t\t\t\t\t\tJudicially Separated",
+          "value": "Women Judicially Separated",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Address for Correspondence Communication",
+      "selector_id": "Address",
+      "selector_name": "Line1",
+      "selector_css": "#Address",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Address for Correspondence Communication",
+      "selector_id": "Address",
+      "selector_name": "Line2",
+      "selector_css": "#Address",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Address for Correspondence Communication",
+      "selector_id": "Address",
+      "selector_name": "Line3",
+      "selector_css": "#Address",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "City",
+      "selector_id": null,
+      "selector_name": "City",
+      "selector_css": "input[name=\"City\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter City",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 45
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "State",
+      "selector_id": null,
+      "selector_name": "State",
+      "selector_css": "input[name=\"State\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter State",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 45
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Address for Correspondence Communication",
+      "selector_id": "Address",
+      "selector_name": "Pincode",
+      "selector_css": "#Address",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter PinCode",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Aadhaar No",
+      "selector_id": "Aadhaar",
+      "selector_name": "Aadhaar",
+      "selector_css": "#Aadhaar",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Aadhaar",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 12
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Nearest Railway Station",
+      "selector_id": "Railways",
+      "selector_name": "RlyStation",
+      "selector_css": "#Railways",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Nearest Railway Station",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 45
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Are you a Person with Benchmark Disability of 40% and above",
+      "selector_id": "PhyNS",
+      "selector_name": "PhyNS",
+      "selector_css": "#PhyNS",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Handicap Type (If Yes)",
+      "selector_id": "Phy",
+      "selector_name": "Phy",
+      "selector_css": "#Phy",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select\n\t\t\t\t\t\t\t\t\t\t\t\tHandicap Type",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Blindness or Low vision",
+          "value": "Blindness or Low vision",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Deaf and Hard of Hearing",
+          "value": "Deaf and Hard of Hearing",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cerebral Palsy-Locomotor",
+          "value": "Cerebral Palsy-Locomotor",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Leprosy Cured-Locomotor",
+          "value": "Leprosy Cured-Locomotor",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dwarfism-Locomotor",
+          "value": "Dwarfism-Locomotor",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Acid Attack Victims-Locomotor",
+          "value": "Acid Attack Victims-Locomotor",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Muscular Dystrophy-Locomotor",
+          "value": "Muscular Dystrophy-Locomotor",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Intellectual Disability, Autism, Specific learning Disability and Mental Illness",
+          "value": "Intellectual Disability, Autism, Specific learning Disability and Mental Illness",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Multiple Disabilities from amongst persons under above four disability categories.",
+          "value": "Multiple Disabilities from amongst persons under above four disability categories.",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Are you an Ex-Serviceman",
+      "selector_id": "ExservNS",
+      "selector_name": "ExservNS",
+      "selector_css": "#ExservNS",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Ex-Service Type (If Yes)",
+      "selector_id": "Exser",
+      "selector_name": "Exser",
+      "selector_css": "#Exser",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select\n\t\t\t\t\t\t\t\t\t\t\t\tEx-Service Type",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Army",
+          "value": "Army",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Navy",
+          "value": "Navy",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Air Force",
+          "value": "Air Force",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Length Of Service From Date (If Yes)",
+      "selector_id": "ServFromDay",
+      "selector_name": "ServFromDay",
+      "selector_css": "#ServFromDay",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Day",
+          "value": "Day",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "01",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "02",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "03",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "04",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "05",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "06",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "07",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "08",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "09",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "10",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "11",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "12",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "13",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "14",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "15",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "16",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "17",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "18",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "19",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "20",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "21",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "22",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "23",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "24",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "25",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "26",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "27",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "28",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "29",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "30",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "31",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Day",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Length Of Service From Date (If Yes)",
+      "selector_id": "ServFromMonth",
+      "selector_name": "ServFromMonth",
+      "selector_css": "#ServFromMonth",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Month",
+          "value": "Month",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Jan",
+          "value": "Jan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Feb",
+          "value": "Feb",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mar",
+          "value": "Mar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Apr",
+          "value": "Apr",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "May",
+          "value": "May",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jun",
+          "value": "Jun",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jul",
+          "value": "Jul",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Aug",
+          "value": "Aug",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sep",
+          "value": "Sep",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Oct",
+          "value": "Oct",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nov",
+          "value": "Nov",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dec",
+          "value": "Dec",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Month",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Length Of Service From Date (If Yes)",
+      "selector_id": "ServFromYear",
+      "selector_name": "ServFromYear",
+      "selector_css": "#ServFromYear",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Year",
+          "value": "Year",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "2025",
+          "value": "2025",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2024",
+          "value": "2024",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2023",
+          "value": "2023",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2022",
+          "value": "2022",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2021",
+          "value": "2021",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2020",
+          "value": "2020",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2019",
+          "value": "2019",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2018",
+          "value": "2018",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2017",
+          "value": "2017",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2016",
+          "value": "2016",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2015",
+          "value": "2015",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2014",
+          "value": "2014",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2013",
+          "value": "2013",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2012",
+          "value": "2012",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2011",
+          "value": "2011",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2010",
+          "value": "2010",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2009",
+          "value": "2009",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2008",
+          "value": "2008",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2007",
+          "value": "2007",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2006",
+          "value": "2006",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2005",
+          "value": "2005",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2004",
+          "value": "2004",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2003",
+          "value": "2003",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2002",
+          "value": "2002",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2001",
+          "value": "2001",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2000",
+          "value": "2000",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1999",
+          "value": "1999",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1998",
+          "value": "1998",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1997",
+          "value": "1997",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1996",
+          "value": "1996",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1995",
+          "value": "1995",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1994",
+          "value": "1994",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1993",
+          "value": "1993",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1992",
+          "value": "1992",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1991",
+          "value": "1991",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1990",
+          "value": "1990",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1989",
+          "value": "1989",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1988",
+          "value": "1988",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1987",
+          "value": "1987",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1986",
+          "value": "1986",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1985",
+          "value": "1985",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1984",
+          "value": "1984",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1983",
+          "value": "1983",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1982",
+          "value": "1982",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1981",
+          "value": "1981",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1980",
+          "value": "1980",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1979",
+          "value": "1979",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1978",
+          "value": "1978",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1977",
+          "value": "1977",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1976",
+          "value": "1976",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1975",
+          "value": "1975",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1974",
+          "value": "1974",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1973",
+          "value": "1973",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1972",
+          "value": "1972",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1971",
+          "value": "1971",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1970",
+          "value": "1970",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1969",
+          "value": "1969",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1968",
+          "value": "1968",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1967",
+          "value": "1967",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1966",
+          "value": "1966",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1965",
+          "value": "1965",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Year",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Length Of Service To Date (If Yes)",
+      "selector_id": "ServToDay",
+      "selector_name": "ServToDay",
+      "selector_css": "#ServToDay",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Day",
+          "value": "Day",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "01",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "02",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "03",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "04",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "05",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "06",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "07",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "08",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "09",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "10",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "11",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "12",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "13",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "14",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "15",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "16",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "17",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "18",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "19",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "20",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "21",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "22",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "23",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "24",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "25",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "26",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "27",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "28",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "29",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "30",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "31",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Day",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Length Of Service To Date (If Yes)",
+      "selector_id": "ServToMonth",
+      "selector_name": "ServToMonth",
+      "selector_css": "#ServToMonth",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Month",
+          "value": "Month",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Jan",
+          "value": "Jan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Feb",
+          "value": "Feb",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mar",
+          "value": "Mar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Apr",
+          "value": "Apr",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "May",
+          "value": "May",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jun",
+          "value": "Jun",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jul",
+          "value": "Jul",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Aug",
+          "value": "Aug",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sep",
+          "value": "Sep",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Oct",
+          "value": "Oct",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nov",
+          "value": "Nov",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dec",
+          "value": "Dec",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Month",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Length Of Service To Date (If Yes)",
+      "selector_id": "ServToYear",
+      "selector_name": "ServToYear",
+      "selector_css": "#ServToYear",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Year",
+          "value": "Year",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "2025",
+          "value": "2025",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2024",
+          "value": "2024",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2023",
+          "value": "2023",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2022",
+          "value": "2022",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2021",
+          "value": "2021",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2020",
+          "value": "2020",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2019",
+          "value": "2019",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2018",
+          "value": "2018",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2017",
+          "value": "2017",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2016",
+          "value": "2016",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2015",
+          "value": "2015",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2014",
+          "value": "2014",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2013",
+          "value": "2013",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2012",
+          "value": "2012",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2011",
+          "value": "2011",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2010",
+          "value": "2010",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2009",
+          "value": "2009",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2008",
+          "value": "2008",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2007",
+          "value": "2007",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2006",
+          "value": "2006",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2005",
+          "value": "2005",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2004",
+          "value": "2004",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2003",
+          "value": "2003",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2002",
+          "value": "2002",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2001",
+          "value": "2001",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2000",
+          "value": "2000",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1999",
+          "value": "1999",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1998",
+          "value": "1998",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1997",
+          "value": "1997",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1996",
+          "value": "1996",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1995",
+          "value": "1995",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1994",
+          "value": "1994",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1993",
+          "value": "1993",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1992",
+          "value": "1992",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1991",
+          "value": "1991",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1990",
+          "value": "1990",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1989",
+          "value": "1989",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1988",
+          "value": "1988",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1987",
+          "value": "1987",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1986",
+          "value": "1986",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1985",
+          "value": "1985",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1984",
+          "value": "1984",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1983",
+          "value": "1983",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1982",
+          "value": "1982",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1981",
+          "value": "1981",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1980",
+          "value": "1980",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1979",
+          "value": "1979",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1978",
+          "value": "1978",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1977",
+          "value": "1977",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1976",
+          "value": "1976",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1975",
+          "value": "1975",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1974",
+          "value": "1974",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1973",
+          "value": "1973",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1972",
+          "value": "1972",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1971",
+          "value": "1971",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1970",
+          "value": "1970",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1969",
+          "value": "1969",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1968",
+          "value": "1968",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1967",
+          "value": "1967",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1966",
+          "value": "1966",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1965",
+          "value": "1965",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Year",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Do you have M.E/M.Tech/M.Sc(Engg) or equivalent post graduate degree in Machine Designwith an aggregate minimum of 60% or CGPA/CPI grading of 6.5 on a 10 point scale.",
+      "selector_id": "pt1q",
+      "selector_name": "pt1q",
+      "selector_css": "#pt1q",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select--",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "YES",
+          "value": "YES",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NO",
+          "value": "NO",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1 col-form-label",
+      "autocomplete": null
+    },
+    {
+      "label": "Do you have pre-eligibility qualification of B.E/B.Tech/ B.Sc(Engg) or equivalent qualification in Mechanical Engineering with an aggregate minimum of 65% of marks (Average of all semesters) or CGPA/CPI grading of 6.84 on a 10 point scale. Minimum of 65% marks or CGPA 6.84 on a 10 point scale in Section B alone for candidates with AMIE/Grad IETE qualification.",
+      "selector_id": "pt2q",
+      "selector_name": "pt2q",
+      "selector_css": "#pt2q",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select--",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "YES",
+          "value": "YES",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NO",
+          "value": "NO",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1 col-form-label",
+      "autocomplete": null
+    },
+    {
+      "label": "Passed Essential Qualification in [Month] and [Year]",
+      "selector_id": "PassDateMonth1",
+      "selector_name": "PassDateMonth1",
+      "selector_css": "#PassDateMonth1",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Month",
+          "value": "Month",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Jan",
+          "value": "Jan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Feb",
+          "value": "Feb",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mar",
+          "value": "Mar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Apr",
+          "value": "Apr",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "May",
+          "value": "May",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jun",
+          "value": "Jun",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jul",
+          "value": "Jul",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Aug",
+          "value": "Aug",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sep",
+          "value": "Sep",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Oct",
+          "value": "Oct",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nov",
+          "value": "Nov",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dec",
+          "value": "Dec",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Month",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Passed Essential Qualification in [Month] and [Year]",
+      "selector_id": "PassDateYear1",
+      "selector_name": "PassDateYear1",
+      "selector_css": "#PassDateYear1",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Year",
+          "value": "Year",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "2025",
+          "value": "2025",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2024",
+          "value": "2024",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2023",
+          "value": "2023",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2022",
+          "value": "2022",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2021",
+          "value": "2021",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2020",
+          "value": "2020",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2019",
+          "value": "2019",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2018",
+          "value": "2018",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2017",
+          "value": "2017",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2016",
+          "value": "2016",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2015",
+          "value": "2015",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2014",
+          "value": "2014",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2013",
+          "value": "2013",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2012",
+          "value": "2012",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2011",
+          "value": "2011",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2010",
+          "value": "2010",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2009",
+          "value": "2009",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2008",
+          "value": "2008",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2007",
+          "value": "2007",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2006",
+          "value": "2006",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2005",
+          "value": "2005",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2004",
+          "value": "2004",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2003",
+          "value": "2003",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2002",
+          "value": "2002",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2001",
+          "value": "2001",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2000",
+          "value": "2000",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1999",
+          "value": "1999",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1998",
+          "value": "1998",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1997",
+          "value": "1997",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1996",
+          "value": "1996",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1995",
+          "value": "1995",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1994",
+          "value": "1994",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1993",
+          "value": "1993",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1992",
+          "value": "1992",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1991",
+          "value": "1991",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1990",
+          "value": "1990",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1989",
+          "value": "1989",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1988",
+          "value": "1988",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1987",
+          "value": "1987",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1986",
+          "value": "1986",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1985",
+          "value": "1985",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1984",
+          "value": "1984",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1983",
+          "value": "1983",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1982",
+          "value": "1982",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1981",
+          "value": "1981",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1980",
+          "value": "1980",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1979",
+          "value": "1979",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1978",
+          "value": "1978",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1977",
+          "value": "1977",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1976",
+          "value": "1976",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1975",
+          "value": "1975",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1974",
+          "value": "1974",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1973",
+          "value": "1973",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1972",
+          "value": "1972",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1971",
+          "value": "1971",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1970",
+          "value": "1970",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1969",
+          "value": "1969",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1968",
+          "value": "1968",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1967",
+          "value": "1967",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1966",
+          "value": "1966",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1965",
+          "value": "1965",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Year",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Name of the University/ Board",
+      "selector_id": "university",
+      "selector_name": "university",
+      "selector_css": "#university",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "University/ Board Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 80
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Marks Type",
+      "selector_id": "MarksType",
+      "selector_name": "MarksType",
+      "selector_css": "#MarksType",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Marks",
+          "value": "Marks",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CGPA",
+          "value": "CGPA",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Maximum Marks",
+      "selector_id": "maxMarks",
+      "selector_name": "maxMarks",
+      "selector_css": "#maxMarks",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Maximum Marks",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 80
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Marks Secured",
+      "selector_id": "marksSecured",
+      "selector_name": "marksSecured",
+      "selector_css": "#marksSecured",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Marks Secured",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 80
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Percentage",
+      "selector_id": "percentage",
+      "selector_name": "percentage",
+      "selector_css": "#percentage",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Percentage",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 80
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "10th/SSC",
+      "selector_id": "YS1",
+      "selector_name": "sslcboard",
+      "selector_css": "#YS1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "10th/SSC",
+      "selector_id": "MarksType10th",
+      "selector_name": "MarksType10th",
+      "selector_css": "#MarksType10th",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Marks",
+          "value": "Marks",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CGPA",
+          "value": "CGPA",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "10th/SSC",
+      "selector_id": "YS2",
+      "selector_name": "sslcmaxmark",
+      "selector_css": "#YS2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "10th/SSC",
+      "selector_id": "YS1",
+      "selector_name": "sslcmarksec",
+      "selector_css": "#YS1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "10th/SSC",
+      "selector_id": "YS2",
+      "selector_name": "persslc",
+      "selector_css": "#YS2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Intermediate/HSC",
+      "selector_id": "YS3",
+      "selector_name": "pucboard",
+      "selector_css": "#YS3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Intermediate/HSC",
+      "selector_id": "MarksTypeInter",
+      "selector_name": "MarksTypeInter",
+      "selector_css": "#MarksTypeInter",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Marks",
+          "value": "Marks",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CGPA",
+          "value": "CGPA",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Intermediate/HSC",
+      "selector_id": "YS4",
+      "selector_name": "pucmaxmark",
+      "selector_css": "#YS4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Intermediate/HSC",
+      "selector_id": "YS1",
+      "selector_name": "pucmarksec",
+      "selector_css": "#YS1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Intermediate/HSC",
+      "selector_id": "YS2",
+      "selector_name": "perpuc",
+      "selector_css": "#YS2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Graduation",
+      "selector_id": "grabord",
+      "selector_name": "grabord",
+      "selector_css": "#grabord",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Graduation",
+      "selector_id": "MarksTypeGra",
+      "selector_name": "MarksTypeGra",
+      "selector_css": "#MarksTypeGra",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Marks",
+          "value": "Marks",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CGPA",
+          "value": "CGPA",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Graduation",
+      "selector_id": "grabordmax",
+      "selector_name": "grabordmax",
+      "selector_css": "#grabordmax",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Graduation",
+      "selector_id": "grabordsec",
+      "selector_name": "grabordsec",
+      "selector_css": "#grabordsec",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Graduation",
+      "selector_id": "grabordper",
+      "selector_name": "grabordper",
+      "selector_css": "#grabordper",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Post Graduation",
+      "selector_id": "postgraduboard",
+      "selector_name": "postgraduboard",
+      "selector_css": "#postgraduboard",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Post Graduation",
+      "selector_id": "MarksTypePostGra",
+      "selector_name": "MarksTypePostGra",
+      "selector_css": "#MarksTypePostGra",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Marks",
+          "value": "Marks",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CGPA",
+          "value": "CGPA",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Post Graduation",
+      "selector_id": "postgradumark",
+      "selector_name": "postgradumark",
+      "selector_css": "#postgradumark",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Post Graduation",
+      "selector_id": "postgradusec",
+      "selector_name": "postgradusec",
+      "selector_css": "#postgradusec",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Post Graduation",
+      "selector_id": "postgraduper",
+      "selector_name": "postgraduper",
+      "selector_css": "#postgraduper",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Other Education",
+      "selector_id": "othereduboard",
+      "selector_name": "othereduboard",
+      "selector_css": "#othereduboard",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Other Education",
+      "selector_id": "MarksTypeOtherGra",
+      "selector_name": "MarksTypeOtherGra",
+      "selector_css": "#MarksTypeOtherGra",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Marks",
+          "value": "Marks",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CGPA",
+          "value": "CGPA",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Other Education",
+      "selector_id": "otheredumarks",
+      "selector_name": "otheredumarks",
+      "selector_css": "#otheredumarks",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Other Education",
+      "selector_id": "otheredusec",
+      "selector_name": "otheredusec",
+      "selector_css": "#otheredusec",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Other Education",
+      "selector_id": "othereduper",
+      "selector_name": "othereduper",
+      "selector_css": "#othereduper",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Details of Experience",
+      "selector_id": "Exp1",
+      "selector_name": "Expline1",
+      "selector_css": "#Exp1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 80
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Details of Experience",
+      "selector_id": "Exp2",
+      "selector_name": "Expline2",
+      "selector_css": "#Exp2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 80
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Address for Correspondence Communication",
+      "selector_id": "Address",
+      "selector_name": "AddInfo",
+      "selector_css": "#Address",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 80
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Are you Employed",
+      "selector_id": "Empstatus",
+      "selector_name": "Empstatus",
+      "selector_css": "#Empstatus",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Select Organization (If Yes)",
+      "selector_id": "Organization",
+      "selector_name": "Organization",
+      "selector_css": "#Organization",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Central\n\t\t\t\t\t\t\t\t\t\t\t\tGovt",
+          "value": "Central Govt",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Semi\n\t\t\t\t\t\t\t\t\t\t\t\tGovt./Public Sector Undertakings/Autonomous Organisation",
+          "value": "Semi Govt./Public Sector\tUndertakings/Autonomous Organisation",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "State\n\t\t\t\t\t\t\t\t\t\t\t\tGovt",
+          "value": "State Govt",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Private\n\t\t\t\t\t\t\t\t\t\t\t\tor Others",
+          "value": "Private or Others",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Name of the Organization (If Yes)",
+      "selector_id": "OrganizationName",
+      "selector_name": "OrganizationName",
+      "selector_css": "#OrganizationName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 80
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Name of the Present Post held (If Yes)",
+      "selector_id": "OrganizationNamepost",
+      "selector_name": "OrganizationNamepost",
+      "selector_css": "#OrganizationNamepost",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 80
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Do you have the experience in the same line or allied cadres",
+      "selector_id": "ExpCadres",
+      "selector_name": "ExpCadres",
+      "selector_css": "#ExpCadres",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Date From Which The Present Post Is Held In Organisation (If Yes)",
+      "selector_id": "ExpDay",
+      "selector_name": "ExpDay",
+      "selector_css": "#ExpDay",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Day",
+          "value": "Day",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "01",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "02",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "03",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "04",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "05",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "06",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "07",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "08",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "09",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "10",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "11",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "12",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "13",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "14",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "15",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "16",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "17",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "18",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "19",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "20",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "21",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "22",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "23",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "24",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "25",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "26",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "27",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "28",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "29",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "30",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "31",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Day",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Date From Which The Present Post Is Held In Organisation (If Yes)",
+      "selector_id": "ExpMonth",
+      "selector_name": "ExpMonth",
+      "selector_css": "#ExpMonth",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Month",
+          "value": "Month",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Jan",
+          "value": "Jan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Feb",
+          "value": "Feb",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mar",
+          "value": "Mar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Apr",
+          "value": "Apr",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "May",
+          "value": "May",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jun",
+          "value": "Jun",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jul",
+          "value": "Jul",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Aug",
+          "value": "Aug",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sep",
+          "value": "Sep",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Oct",
+          "value": "Oct",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nov",
+          "value": "Nov",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dec",
+          "value": "Dec",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Month",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Date From Which The Present Post Is Held In Organisation (If Yes)",
+      "selector_id": "ExpYear",
+      "selector_name": "ExpYear",
+      "selector_css": "#ExpYear",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Year",
+          "value": "Year",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "2025",
+          "value": "2025",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2024",
+          "value": "2024",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2023",
+          "value": "2023",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2022",
+          "value": "2022",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2021",
+          "value": "2021",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2020",
+          "value": "2020",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2019",
+          "value": "2019",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2018",
+          "value": "2018",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2017",
+          "value": "2017",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2016",
+          "value": "2016",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2015",
+          "value": "2015",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2014",
+          "value": "2014",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2013",
+          "value": "2013",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2012",
+          "value": "2012",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2011",
+          "value": "2011",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2010",
+          "value": "2010",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2009",
+          "value": "2009",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2008",
+          "value": "2008",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2007",
+          "value": "2007",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2006",
+          "value": "2006",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2005",
+          "value": "2005",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2004",
+          "value": "2004",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2003",
+          "value": "2003",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2002",
+          "value": "2002",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2001",
+          "value": "2001",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2000",
+          "value": "2000",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1999",
+          "value": "1999",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1998",
+          "value": "1998",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1997",
+          "value": "1997",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1996",
+          "value": "1996",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1995",
+          "value": "1995",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1994",
+          "value": "1994",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1993",
+          "value": "1993",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1992",
+          "value": "1992",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1991",
+          "value": "1991",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1990",
+          "value": "1990",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1989",
+          "value": "1989",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1988",
+          "value": "1988",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1987",
+          "value": "1987",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1986",
+          "value": "1986",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1985",
+          "value": "1985",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1984",
+          "value": "1984",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1983",
+          "value": "1983",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1982",
+          "value": "1982",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1981",
+          "value": "1981",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1980",
+          "value": "1980",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1979",
+          "value": "1979",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1978",
+          "value": "1978",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1977",
+          "value": "1977",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1976",
+          "value": "1976",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1975",
+          "value": "1975",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1974",
+          "value": "1974",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1973",
+          "value": "1973",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1972",
+          "value": "1972",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1971",
+          "value": "1971",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1970",
+          "value": "1970",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1969",
+          "value": "1969",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1968",
+          "value": "1968",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1967",
+          "value": "1967",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1966",
+          "value": "1966",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1965",
+          "value": "1965",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Year",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "To Date Which The Present Post Is Held In Organisation (If Yes)",
+      "selector_id": "ExpToDay",
+      "selector_name": "ExpToDay",
+      "selector_css": "#ExpToDay",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Day",
+          "value": "Day",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "01",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "02",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "03",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "04",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "05",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "06",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "07",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "08",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "09",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "10",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "11",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "12",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "13",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "14",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "15",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "16",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "17",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "18",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "19",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "20",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "21",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "22",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "23",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "24",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "25",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "26",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "27",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "28",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "29",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "30",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "31",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Day",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "To Date Which The Present Post Is Held In Organisation (If Yes)",
+      "selector_id": "ExpToMonth",
+      "selector_name": "ExpToMonth",
+      "selector_css": "#ExpToMonth",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Month",
+          "value": "Month",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Jan",
+          "value": "Jan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Feb",
+          "value": "Feb",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mar",
+          "value": "Mar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Apr",
+          "value": "Apr",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "May",
+          "value": "May",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jun",
+          "value": "Jun",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jul",
+          "value": "Jul",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Aug",
+          "value": "Aug",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sep",
+          "value": "Sep",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Oct",
+          "value": "Oct",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nov",
+          "value": "Nov",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dec",
+          "value": "Dec",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Month",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "To Date Which The Present Post Is Held In Organisation (If Yes)",
+      "selector_id": "ExpToYear",
+      "selector_name": "ExpToYear",
+      "selector_css": "#ExpToYear",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Year",
+          "value": "Year",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "2025",
+          "value": "2025",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2024",
+          "value": "2024",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2023",
+          "value": "2023",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2022",
+          "value": "2022",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2021",
+          "value": "2021",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2020",
+          "value": "2020",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2019",
+          "value": "2019",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2018",
+          "value": "2018",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2017",
+          "value": "2017",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2016",
+          "value": "2016",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2015",
+          "value": "2015",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2014",
+          "value": "2014",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2013",
+          "value": "2013",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2012",
+          "value": "2012",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2011",
+          "value": "2011",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2010",
+          "value": "2010",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2009",
+          "value": "2009",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2008",
+          "value": "2008",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2007",
+          "value": "2007",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2006",
+          "value": "2006",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2005",
+          "value": "2005",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2004",
+          "value": "2004",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2003",
+          "value": "2003",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2002",
+          "value": "2002",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2001",
+          "value": "2001",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2000",
+          "value": "2000",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1999",
+          "value": "1999",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1998",
+          "value": "1998",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1997",
+          "value": "1997",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1996",
+          "value": "1996",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1995",
+          "value": "1995",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1994",
+          "value": "1994",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1993",
+          "value": "1993",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1992",
+          "value": "1992",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1991",
+          "value": "1991",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1990",
+          "value": "1990",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1989",
+          "value": "1989",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1988",
+          "value": "1988",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1987",
+          "value": "1987",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1986",
+          "value": "1986",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1985",
+          "value": "1985",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1984",
+          "value": "1984",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1983",
+          "value": "1983",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1982",
+          "value": "1982",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1981",
+          "value": "1981",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1980",
+          "value": "1980",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1979",
+          "value": "1979",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1978",
+          "value": "1978",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1977",
+          "value": "1977",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1976",
+          "value": "1976",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1975",
+          "value": "1975",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1974",
+          "value": "1974",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1973",
+          "value": "1973",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1972",
+          "value": "1972",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1971",
+          "value": "1971",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1970",
+          "value": "1970",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1969",
+          "value": "1969",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1968",
+          "value": "1968",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1967",
+          "value": "1967",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1966",
+          "value": "1966",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1965",
+          "value": "1965",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Year",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Are you a meritorious sports person?",
+      "selector_id": "Sportsyn",
+      "selector_name": "Sportsyn",
+      "selector_css": "#Sportsyn",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Participated/Represented at(If Yes)",
+      "selector_id": "SportsOrg",
+      "selector_name": "SportsOrg",
+      "selector_css": "#SportsOrg",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "National/International\n\t\t\t\t\t\t\t\t\t\t\t\tGames/Sports",
+          "value": "National/International Games/Sports",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Inter-University\n\t\t\t\t\t\t\t\t\t\t\t\tTournaments",
+          "value": "Inter-University Tournaments",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "State\n\t\t\t\t\t\t\t\t\t\t\t\tSchools Teams in National Sports/Games",
+          "value": "State Schools Teams in National Sports/Games",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "National\n\t\t\t\t\t\t\t\t\t\t\t\tAwardee in Physical efficiency (awarded by the National\n\t\t\t\t\t\t\t\t\t\t\t\tPhysical Efficiency drive)",
+          "value": "National Awardee in Physical efficiency (awarded by the National Physical Efficiency drive)",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Date Of Birth",
+      "selector_id": "Day",
+      "selector_name": "Day",
+      "selector_css": "#Day",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Day",
+          "value": "Day",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "01",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "02",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "03",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "04",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "05",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "06",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "07",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "08",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "09",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "10",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "11",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "12",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "13",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "14",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "15",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "16",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "17",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "18",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "19",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "20",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "21",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "22",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "23",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "24",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "25",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "26",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "27",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "28",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "29",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "30",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "31",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Day",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal",
+      "autocomplete": null
+    },
+    {
+      "label": "Date Of Birth",
+      "selector_id": "Month",
+      "selector_name": "Month",
+      "selector_css": "#Month",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Month",
+          "value": "Month",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Jan",
+          "value": "Jan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Feb",
+          "value": "Feb",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mar",
+          "value": "Mar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Apr",
+          "value": "Apr",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "May",
+          "value": "May",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jun",
+          "value": "Jun",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jul",
+          "value": "Jul",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Aug",
+          "value": "Aug",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sep",
+          "value": "Sep",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Oct",
+          "value": "Oct",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nov",
+          "value": "Nov",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dec",
+          "value": "Dec",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Month",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Date Of Birth",
+      "selector_id": "Year",
+      "selector_name": "Year",
+      "selector_css": "#Year",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Year",
+          "value": "Year",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "2007",
+          "value": "2007",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2006",
+          "value": "2006",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2005",
+          "value": "2005",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2004",
+          "value": "2004",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2003",
+          "value": "2003",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2002",
+          "value": "2002",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2001",
+          "value": "2001",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2000",
+          "value": "2000",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1999",
+          "value": "1999",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1998",
+          "value": "1998",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1997",
+          "value": "1997",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1996",
+          "value": "1996",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1995",
+          "value": "1995",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1994",
+          "value": "1994",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1993",
+          "value": "1993",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1992",
+          "value": "1992",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1991",
+          "value": "1991",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1990",
+          "value": "1990",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1989",
+          "value": "1989",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1988",
+          "value": "1988",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1987",
+          "value": "1987",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1986",
+          "value": "1986",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1985",
+          "value": "1985",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1984",
+          "value": "1984",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1983",
+          "value": "1983",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1982",
+          "value": "1982",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1981",
+          "value": "1981",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1980",
+          "value": "1980",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1979",
+          "value": "1979",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1978",
+          "value": "1978",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1977",
+          "value": "1977",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1976",
+          "value": "1976",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1975",
+          "value": "1975",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1974",
+          "value": "1974",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1973",
+          "value": "1973",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1972",
+          "value": "1972",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1971",
+          "value": "1971",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1970",
+          "value": "1970",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1969",
+          "value": "1969",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1968",
+          "value": "1968",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1967",
+          "value": "1967",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1966",
+          "value": "1966",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1965",
+          "value": "1965",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Year",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control-sal1",
+      "autocomplete": null
+    },
+    {
+      "label": "Upload Photo",
+      "selector_id": "file1",
+      "selector_name": null,
+      "selector_css": "#file1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Upload Photo",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Upload Signature",
+      "selector_id": "file2",
+      "selector_name": null,
+      "selector_css": "#file2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Upload Signature",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Essential Educational Documents",
+      "selector_id": "file9",
+      "selector_name": null,
+      "selector_css": "#file9",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Upload Documents",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Equivalence Certificate (if any)",
+      "selector_id": "file7",
+      "selector_name": null,
+      "selector_css": "#file7",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Upload Equivalence Certificate",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    }
+  ]
+}

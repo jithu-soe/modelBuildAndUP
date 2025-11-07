@@ -1,0 +1,169 @@
+{
+  "total_fields": 8,
+  "required_fields_count": 0,
+  "page_url": "https://examinationservices.nic.in/JeeMainx2026/Registration/frmRegistration.aspx",
+  "page_title": "",
+  "timestamp": "2025-11-07T03:23:19.525Z",
+  "fields": [
+    {
+      "label": "मेरा नाम (My Name)",
+      "selector_id": "ctl00_ContentPlaceHolder1_paramChkList_0",
+      "selector_name": "ctl00$ContentPlaceHolder1$paramChkList$0",
+      "selector_css": "#ctl00_ContentPlaceHolder1_paramChkList_0",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "पिता / अभिभावक का नाम (Father/Guardian Name)",
+      "selector_id": "ctl00_ContentPlaceHolder1_paramChkList_1",
+      "selector_name": "ctl00$ContentPlaceHolder1$paramChkList$1",
+      "selector_css": "#ctl00_ContentPlaceHolder1_paramChkList_1",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "माता / अभिभावक का नाम (Mother/Guardian Name)",
+      "selector_id": "ctl00_ContentPlaceHolder1_paramChkList_2",
+      "selector_name": "ctl00$ContentPlaceHolder1$paramChkList$2",
+      "selector_css": "#ctl00_ContentPlaceHolder1_paramChkList_2",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "जन्म तिथि (Date of Birth)",
+      "selector_id": "ctl00_ContentPlaceHolder1_paramChkList_3",
+      "selector_name": "ctl00$ContentPlaceHolder1$paramChkList$3",
+      "selector_css": "#ctl00_ContentPlaceHolder1_paramChkList_3",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "लिंग (Gender)",
+      "selector_id": "ctl00_ContentPlaceHolder1_paramChkList_4",
+      "selector_name": "ctl00$ContentPlaceHolder1$paramChkList$4",
+      "selector_css": "#ctl00_ContentPlaceHolder1_paramChkList_4",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "पता (Address)",
+      "selector_id": "ctl00_ContentPlaceHolder1_paramChkList_5",
+      "selector_name": "ctl00$ContentPlaceHolder1$paramChkList$5",
+      "selector_css": "#ctl00_ContentPlaceHolder1_paramChkList_5",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "मोबाइल नंबर (Mobile Number)",
+      "selector_id": "ctl00_ContentPlaceHolder1_paramChkList_6",
+      "selector_name": "ctl00$ContentPlaceHolder1$paramChkList$6",
+      "selector_css": "#ctl00_ContentPlaceHolder1_paramChkList_6",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "ईमेल आईडी (Email ID)",
+      "selector_id": "ctl00_ContentPlaceHolder1_paramChkList_7",
+      "selector_name": "ctl00$ContentPlaceHolder1$paramChkList$7",
+      "selector_css": "#ctl00_ContentPlaceHolder1_paramChkList_7",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    }
+  ]
+}

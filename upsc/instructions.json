@@ -1,0 +1,29 @@
+{
+  "total_fields": 1,
+  "required_fields_count": 0,
+  "page_url": "https://upsconline.nic.in/instruction",
+  "page_title": "Union Public Service Commission",
+  "timestamp": "2025-11-07T15:28:40.827Z",
+  "fields": [
+    {
+      "label": "I hereby declare that I have read and understood the above instructions carefully and I accept all the terms and conditions mentioned hereinabove.",
+      "selector_id": "flexCheckDefault",
+      "selector_name": null,
+      "selector_css": "#flexCheckDefault",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "form-check-input checkbox_in",
+      "autocomplete": "off"
+    }
+  ]
+}

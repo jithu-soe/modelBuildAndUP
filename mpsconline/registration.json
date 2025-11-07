@@ -1,0 +1,269 @@
+{
+  "total_fields": 13,
+  "required_fields_count": 0,
+  "page_url": "https://mpsconline.gov.in/candidate/registration",
+  "page_title": "MPSC: Online Application System",
+  "timestamp": "2025-11-07T13:31:44.733Z",
+  "fields": [
+    {
+      "label": "Email Id",
+      "selector_id": "registrationFormControlInput1",
+      "selector_name": "userName",
+      "selector_css": "#registrationFormControlInput1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Mobile Number",
+      "selector_id": "registrationFormControlInput2",
+      "selector_name": "mobileNumber",
+      "selector_css": "#registrationFormControlInput2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Enter OTP Received on Email",
+      "selector_id": "registrationFormControlInput3",
+      "selector_name": "otp_email",
+      "selector_css": "#registrationFormControlInput3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Enter OTP Received on Mobile",
+      "selector_id": "registrationFormControlInput4",
+      "selector_name": "otp_mobile",
+      "selector_css": "#registrationFormControlInput4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "New Password",
+      "selector_id": "registrationFormControlInput5",
+      "selector_name": "password",
+      "selector_css": "#registrationFormControlInput5",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Password",
+      "selector_id": "registrationFormControlInput6",
+      "selector_name": "confirmPassword",
+      "selector_css": "#registrationFormControlInput6",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Date of Birth",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#root > div > form > div > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(7) > div:nth-of-type(2) > div > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "DD/MM/YYYY",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "What was your childhood nickname?",
+      "selector_id": "sq",
+      "selector_name": "SQ1",
+      "selector_css": "#sq",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "What is the name of your favorite childhood friend? (Only one)",
+      "selector_id": "sq",
+      "selector_name": "SQ2",
+      "selector_css": "#sq",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "What is your Blood Group?",
+      "selector_id": "sq",
+      "selector_name": "SQ3",
+      "selector_css": "#sq",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Which year did you complete your HSC?",
+      "selector_id": "sq",
+      "selector_name": "SQ4",
+      "selector_css": "#sq",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 4
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "What is the surname of your favorite high school teacher? (only one)",
+      "selector_id": "sq",
+      "selector_name": "SQ5",
+      "selector_css": "#sq",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Who is your favourite sportsperson?",
+      "selector_id": "sq",
+      "selector_name": "SQ6",
+      "selector_css": "#sq",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "total_fields": 4,
+  "required_fields_count": 1,
+  "page_url": "https://upsconline.nic.in/onboarding",
+  "page_title": "Union Public Service Commission",
+  "timestamp": "2025-11-07T15:30:01.289Z",
+  "fields": [
+    {
+      "label": "Email ID :",
+      "selector_id": "email",
+      "selector_name": null,
+      "selector_css": "#email",
+      "tag_name": "input",
+      "input_type": "email",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Email ID",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control tooltip1 ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Email ID :",
+      "selector_id": "email1",
+      "selector_name": null,
+      "selector_css": "#email1",
+      "tag_name": "input",
+      "input_type": "email",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Email ID ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Email ID :",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "html > body > app-root > div > app-nra-candidate-onboarding > div > div > div > div > div:nth-of-type(2) > div > div > form > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > app-captcha > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 5
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "I declare that the above e-Mail is owned by me and I have not created any account using this e-Mail ID on this portal.",
+      "selector_id": "flexCheckDefault",
+      "selector_name": null,
+      "selector_css": "#flexCheckDefault",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": true,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "form-check-input checkbox_in ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    }
+  ]
+}

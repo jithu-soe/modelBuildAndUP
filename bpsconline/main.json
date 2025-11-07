@@ -1,0 +1,806 @@
+{
+  "total_fields": 28,
+  "required_fields_count": 2,
+  "page_url": "https://bpsconline.bihar.gov.in/candidate/main",
+  "page_title": "BPSC: Online Application System",
+  "timestamp": "2025-11-07T14:52:34.013Z",
+  "fields": [
+    {
+      "label": "Grievance Type (शिकायत का प्रकार)",
+      "selector_id": null,
+      "selector_name": "type",
+      "selector_css": "select[name=\"type\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Address Information",
+          "value": "1137",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Document Re-upload",
+          "value": "1259",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Exam Malpractice",
+          "value": "1234",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Experience Information",
+          "value": "1140",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "My Account",
+          "value": "1143",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "New Application",
+          "value": "1142",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Objection Key",
+          "value": "1257",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other Information",
+          "value": "1138",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Qualification Information",
+          "value": "1139",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Registration Information",
+          "value": "1136",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Unlock Profile",
+          "value": "1146",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Upload Photo/Signature",
+          "value": "1141",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select  bg-color",
+      "autocomplete": null
+    },
+    {
+      "label": "Grievance Sub Type (शिकायत का उप प्रकार)",
+      "selector_id": null,
+      "selector_name": "grievSubType",
+      "selector_css": "select[name=\"grievSubType\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select  bg-color",
+      "autocomplete": null
+    },
+    {
+      "label": "Advertisement",
+      "selector_id": null,
+      "selector_name": "advtType",
+      "selector_css": "select[name=\"advtType\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select  bg-color",
+      "autocomplete": null
+    },
+    {
+      "label": "Grievance Description (शिकायत विवरण)",
+      "selector_id": "description",
+      "selector_name": "description",
+      "selector_css": "#description",
+      "tag_name": "textarea",
+      "input_type": "textarea",
+      "options": null,
+      "required": false,
+      "placeholder": "Grievance Description",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 500
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Grievance Related Documents (शिकायत संबंधित दस्तावेज़) (.pdf)",
+      "selector_id": "photo",
+      "selector_name": "photo",
+      "selector_css": "#photo",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1,
+        "accept": ".pdf"
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "1.1 Candidate Name",
+      "selector_id": null,
+      "selector_name": "englishFullName",
+      "selector_css": "input[name=\"englishFullName\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "TANMAY KHEDEKAR",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control special-disabled text-uppercase",
+      "autocomplete": null
+    },
+    {
+      "label": "1.2 Hindi Name",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#profile > form > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control bg-color allowPaste",
+      "autocomplete": null
+    },
+    {
+      "label": "1.3 Date Of Birth",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#profile > form > div > div:nth-of-type(2) > div:nth-of-type(3) > div > div > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "DD/MM/YYYY",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "05/05/2004",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control bg-color ps-2 special-disabled",
+      "autocomplete": null
+    },
+    {
+      "label": "1.4 Gender (लिंग)",
+      "selector_id": null,
+      "selector_name": "gender",
+      "selector_css": "select[name=\"gender\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Male",
+          "value": "328",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Female",
+          "value": "329",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Third Gender",
+          "value": "330",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "328",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select bg-color",
+      "autocomplete": null
+    },
+    {
+      "label": "1.5 Father Name",
+      "selector_id": null,
+      "selector_name": "fatherName",
+      "selector_css": "input[name=\"fatherName\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "SANDIP KHEDEKAR",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control special-disabled text-uppercase",
+      "autocomplete": null
+    },
+    {
+      "label": "1.6 Mother Name",
+      "selector_id": null,
+      "selector_name": "motherName",
+      "selector_css": "input[name=\"motherName\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "SEEMA KHEDEKAR",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control special-disabled text-uppercase",
+      "autocomplete": null
+    },
+    {
+      "label": "1.7 Marital Status",
+      "selector_id": null,
+      "selector_name": "maritalStatusLookupId",
+      "selector_css": "select[name=\"maritalStatusLookupId\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Married",
+          "value": "365",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Unmarried",
+          "value": "366",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Others",
+          "value": "367",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select bg-color",
+      "autocomplete": null
+    },
+    {
+      "label": "1.8 Verify Marital Status",
+      "selector_id": null,
+      "selector_name": "verifymaritalStatusLookupId",
+      "selector_css": "select[name=\"verifymaritalStatusLookupId\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Married",
+          "value": "365",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Unmarried",
+          "value": "366",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Others",
+          "value": "367",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select bg-color",
+      "autocomplete": null
+    },
+    {
+      "label": "1.9 ID Type",
+      "selector_id": null,
+      "selector_name": "adharLookUp",
+      "selector_css": "select[name=\"adharLookUp\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Aadhaar Card",
+          "value": "517",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Pan Card",
+          "value": "518",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Driving Licence",
+          "value": "519",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "517",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-select bg-color special-disabled bg-image-none",
+      "autocomplete": null
+    },
+    {
+      "label": "1.10 Aadhaar No. (आधार नंबर)",
+      "selector_id": "registrationFormControlInput1",
+      "selector_name": "idNumber",
+      "selector_css": "#registrationFormControlInput1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Aadhaar No.",
+      "constraints": {
+        "minLength": 12,
+        "maxLength": 12
+      },
+      "current_value": "458735112760",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control special-disabled text-uppercase",
+      "autocomplete": "off"
+    },
+    {
+      "label": "1.11 Body Identification Mark",
+      "selector_id": "registrationFormControlInput1",
+      "selector_name": "identificationMark",
+      "selector_css": "#registrationFormControlInput1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 150
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control text-uppercase",
+      "autocomplete": "off"
+    },
+    {
+      "label": "1.11.1 Have you ever changed your name ? (क्या आपने कभी अपना नाम बदला है?)",
+      "selector_id": null,
+      "selector_name": "isNameChanged",
+      "selector_css": "input[type=\"radio\"][name=\"isNameChanged\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        }
+      ],
+      "required": true,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "1.12 Are you a citizen of india ?",
+      "selector_id": null,
+      "selector_name": "nationalityLookupId",
+      "selector_css": "input[type=\"radio\"][name=\"nationalityLookupId\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "1.21.1 Height In Cms.(ऊंचाई सेमी में.)",
+      "selector_id": null,
+      "selector_name": "HeightInCMS",
+      "selector_css": "input[name=\"HeightInCMS\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1.21.2 Weight In Kgs.(वजन किलोग्राम में)",
+      "selector_id": null,
+      "selector_name": "Weight",
+      "selector_css": "input[name=\"Weight\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1.21.3 Chest Deflated In Cms.(छाती सिकुड़ना सेमी में)",
+      "selector_id": null,
+      "selector_name": "chestDeflated",
+      "selector_css": "input[name=\"chestDeflated\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Chest Inflated In Cms.(छाती फुलाव सेमी में)",
+      "selector_id": null,
+      "selector_name": "chestInflated",
+      "selector_css": "input[name=\"chestInflated\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1.22 Are you Person With Disability",
+      "selector_id": null,
+      "selector_name": "isDivyang",
+      "selector_css": "input[type=\"radio\"][name=\"isDivyang\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "1.22.1 Do you require scribe due to Person with Disability",
+      "selector_id": null,
+      "selector_name": "isDisabilityScribeReq",
+      "selector_css": "input[type=\"radio\"][name=\"isDisabilityScribeReq\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "1.25 Are you a Meritorious Sports Person?(क्या आप मेधावी खिलाड़ी हैं?)",
+      "selector_id": null,
+      "selector_name": "isMetritoriousSportsman",
+      "selector_css": "input[type=\"radio\"][name=\"isMetritoriousSportsman\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        }
+      ],
+      "required": true,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "1.26 Are you an Ex-Serviceman ? (Retired From Army,Navy & Airforce) ?",
+      "selector_id": null,
+      "selector_name": "isExArmedReg",
+      "selector_css": "input[type=\"radio\"][name=\"isExArmedReg\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "1.28 Are you an N.C.C Cadet ?",
+      "selector_id": null,
+      "selector_name": "isNccCadet",
+      "selector_css": "input[type=\"radio\"][name=\"isNccCadet\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "1.30 Are You Bihar Government Employee ?",
+      "selector_id": null,
+      "selector_name": "isGobEmployee",
+      "selector_css": "input[type=\"radio\"][name=\"isGobEmployee\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "RadioText",
+      "autocomplete": null
+    }
+  ]
+}

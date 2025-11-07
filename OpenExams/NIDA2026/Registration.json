@@ -1,0 +1,2567 @@
+{
+  "total_fields": 39,
+  "required_fields_count": 0,
+  "page_url": "https://admissions.nid.edu/NIDA2026/Registration.aspx",
+  "page_title": "Registration: Admission 2026-27",
+  "timestamp": "2025-11-07T04:45:03.027Z",
+  "fields": [
+    {
+      "label": "Master of Design [M.Des.]",
+      "selector_id": null,
+      "selector_name": "Program",
+      "selector_css": "input[type=\"radio\"][name=\"Program\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Bachelor of Design [B.Des] \n                \n                \n               \n              Master of Design [M.Des.] \n                \n              \n            \n      \n      \n             \n                 \n               \n               \n                  \n                  \n                  Are you Working?\n                    \n                      \n                      Yes\n                    \n                      \n                      No",
+          "value": "BDES",
+          "selected": false
+        },
+        {
+          "text": "Master of Design [M.Des.]",
+          "value": "MDES",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "PHDWorking",
+      "selector_css": "input[type=\"radio\"][name=\"PHDWorking\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Y",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "N",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "Indian National",
+      "selector_id": null,
+      "selector_name": "Nation",
+      "selector_css": "input[type=\"radio\"][name=\"Nation\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Indian National",
+          "value": "Indian",
+          "selected": false
+        },
+        {
+          "text": "Foreign National (Overseas)",
+          "value": "Overseas",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "YES",
+      "selector_id": null,
+      "selector_name": "OCIPIO",
+      "selector_css": "input[type=\"radio\"][name=\"OCIPIO\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "YES",
+          "value": "YES",
+          "selected": false
+        },
+        {
+          "text": "NO",
+          "value": "NO",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "Date of Issue of OCI/PIO:",
+      "selector_id": "DateOCIPIO",
+      "selector_name": "DateOCIPIO",
+      "selector_css": "#DateOCIPIO",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Country",
+      "selector_id": "country",
+      "selector_name": "country",
+      "selector_css": "#country",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Afghanistan",
+          "value": "Afghanistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Albania",
+          "value": "Albania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Algeria",
+          "value": "Algeria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Andorra",
+          "value": "Andorra",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Angola",
+          "value": "Angola",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Antigua & Deps",
+          "value": "Antigua & Deps",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Armenia",
+          "value": "Armenia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Australia",
+          "value": "Australia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Austria",
+          "value": "Austria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Azerbaijan",
+          "value": "Azerbaijan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bahamas",
+          "value": "Bahamas",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bahrain",
+          "value": "Bahrain",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bangladesh",
+          "value": "Bangladesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Barbados",
+          "value": "Barbados",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Belarus",
+          "value": "Belarus",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Belgium",
+          "value": "Belgium",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Belize",
+          "value": "Belize",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Benin",
+          "value": "Benin",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bhutan",
+          "value": "Bhutan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bolivia",
+          "value": "Bolivia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bosnia Herzegovina",
+          "value": "Bosnia Herzegovina",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Botswana",
+          "value": "Botswana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Brazil",
+          "value": "Brazil",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Brunei",
+          "value": "Brunei",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bulgaria",
+          "value": "Bulgaria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Burkina",
+          "value": "Burkina",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Burundi",
+          "value": "Burundi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cambodia",
+          "value": "Cambodia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cameroon",
+          "value": "Cameroon",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Canada",
+          "value": "Canada",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cape Verde",
+          "value": "Cape Verde",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Central African Rep",
+          "value": "Central African Rep",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chad",
+          "value": "Chad",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "China",
+          "value": "China",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Colombia",
+          "value": "Colombia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Comoros",
+          "value": "Comoros",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Congo",
+          "value": "Congo",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Congo {Democratic Rep}",
+          "value": "Congo {Democratic Rep}",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Costa Rica",
+          "value": "Costa Rica",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Croatia",
+          "value": "Croatia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cuba",
+          "value": "Cuba",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cyprus",
+          "value": "Cyprus",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Czech Republic",
+          "value": "Czech Republic",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Denmark",
+          "value": "Denmark",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Djibouti",
+          "value": "Djibouti",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dominica",
+          "value": "Dominica",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dominican Republic",
+          "value": "Dominican Republic",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "East Timor",
+          "value": "East Timor",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ecuador",
+          "value": "Ecuador",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Egypt",
+          "value": "Egypt",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "El Salvador",
+          "value": "El Salvador",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Equatorial Guinea",
+          "value": "Equatorial Guinea",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Eritrea",
+          "value": "Eritrea",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Estonia",
+          "value": "Estonia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ethiopia",
+          "value": "Ethiopia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Fiji",
+          "value": "Fiji",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Finland",
+          "value": "Finland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "France",
+          "value": "France",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gabon",
+          "value": "Gabon",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gambia",
+          "value": "Gambia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Georgia",
+          "value": "Georgia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Germany",
+          "value": "Germany",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ghana",
+          "value": "Ghana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Greece",
+          "value": "Greece",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Grenada",
+          "value": "Grenada",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guatemala",
+          "value": "Guatemala",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guinea",
+          "value": "Guinea",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guinea-Bissau",
+          "value": "Guinea-Bissau",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guyana",
+          "value": "Guyana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Haiti",
+          "value": "Haiti",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Honduras",
+          "value": "Honduras",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hungary",
+          "value": "Hungary",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Iceland",
+          "value": "Iceland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Indonesia",
+          "value": "Indonesia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Iran",
+          "value": "Iran",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Iraq",
+          "value": "Iraq",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ireland {Republic}",
+          "value": "Ireland {Republic}",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Israel",
+          "value": "Israel",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Italy",
+          "value": "Italy",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ivory Coast",
+          "value": "Ivory Coast",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jamaica",
+          "value": "Jamaica",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Japan",
+          "value": "Japan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jordan",
+          "value": "Jordan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kazakhstan",
+          "value": "Kazakhstan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kenya",
+          "value": "Kenya",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kiribati",
+          "value": "Kiribati",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Korea North",
+          "value": "Korea North",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Korea South",
+          "value": "Korea South",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kosovo",
+          "value": "Kosovo",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kuwait",
+          "value": "Kuwait",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kyrgyzstan",
+          "value": "Kyrgyzstan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Laos",
+          "value": "Laos",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Latvia",
+          "value": "Latvia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lebanon",
+          "value": "Lebanon",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lesotho",
+          "value": "Lesotho",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Liberia",
+          "value": "Liberia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Libya",
+          "value": "Libya",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Liechtenstein",
+          "value": "Liechtenstein",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lithuania",
+          "value": "Lithuania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Luxembourg",
+          "value": "Luxembourg",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Macedonia",
+          "value": "Macedonia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Madagascar",
+          "value": "Madagascar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Malawi",
+          "value": "Malawi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Malaysia",
+          "value": "Malaysia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Maldives",
+          "value": "Maldives",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mali",
+          "value": "Mali",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Malta",
+          "value": "Malta",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Marshall Islands",
+          "value": "Marshall Islands",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mauritania",
+          "value": "Mauritania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mauritius",
+          "value": "Mauritius",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mexico",
+          "value": "Mexico",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Micronesia",
+          "value": "Micronesia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Moldova",
+          "value": "Moldova",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Monaco",
+          "value": "Monaco",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mongolia",
+          "value": "Mongolia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Montenegro",
+          "value": "Montenegro",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Morocco",
+          "value": "Morocco",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mozambique",
+          "value": "Mozambique",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Myanmar, {Burma}",
+          "value": "Myanmar, {Burma}",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Namibia",
+          "value": "Namibia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nauru",
+          "value": "Nauru",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nepal",
+          "value": "Nepal",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Netherlands",
+          "value": "Netherlands",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "New Zealand",
+          "value": "New Zealand",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nicaragua",
+          "value": "Nicaragua",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Niger",
+          "value": "Niger",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nigeria",
+          "value": "Nigeria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Norway",
+          "value": "Norway",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Oman",
+          "value": "Oman",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pakistan",
+          "value": "Pakistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Palau",
+          "value": "Palau",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Panama",
+          "value": "Panama",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Papua New Guinea",
+          "value": "Papua New Guinea",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Paraguay",
+          "value": "Paraguay",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Peru",
+          "value": "Peru",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Philippines",
+          "value": "Philippines",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Poland",
+          "value": "Poland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Portugal",
+          "value": "Portugal",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Qatar",
+          "value": "Qatar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Romania",
+          "value": "Romania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Russian Federation",
+          "value": "Russian Federation",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rwanda",
+          "value": "Rwanda",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "St Kitts & Nevis",
+          "value": "St Kitts & Nevis",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "St Lucia",
+          "value": "St Lucia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Saint Vincent & the Grenadines",
+          "value": "Saint Vincent & the Grenadines",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Samoa",
+          "value": "Samoa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "San Marino",
+          "value": "San Marino",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sao Tome & Principe",
+          "value": "Sao Tome & Principe",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Saudi Arabia",
+          "value": "Saudi Arabia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Senegal",
+          "value": "Senegal",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Serbia",
+          "value": "Serbia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Seychelles",
+          "value": "Seychelles",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sierra Leone",
+          "value": "Sierra Leone",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Singapore",
+          "value": "Singapore",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Slovakia",
+          "value": "Slovakia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Slovenia",
+          "value": "Slovenia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Solomon Islands",
+          "value": "Solomon Islands",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Somalia",
+          "value": "Somalia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "South Africa",
+          "value": "South Africa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "South Sudan",
+          "value": "South Sudan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Spain",
+          "value": "Spain",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sri Lanka",
+          "value": "Sri Lanka",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sudan",
+          "value": "Sudan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Suriname",
+          "value": "Suriname",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Swaziland",
+          "value": "Swaziland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sweden",
+          "value": "Sweden",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Switzerland",
+          "value": "Switzerland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Syria",
+          "value": "Syria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Taiwan",
+          "value": "Taiwan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tajikistan",
+          "value": "Tajikistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tanzania",
+          "value": "Tanzania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Thailand",
+          "value": "Thailand",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Togo",
+          "value": "Togo",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tonga",
+          "value": "Tonga",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Trinidad & Tobago",
+          "value": "Trinidad & Tobago",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tunisia",
+          "value": "Tunisia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Turkey",
+          "value": "Turkey",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Turkmenistan",
+          "value": "Turkmenistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tuvalu",
+          "value": "Tuvalu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uganda",
+          "value": "Uganda",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ukraine",
+          "value": "Ukraine",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "United Arab Emirates",
+          "value": "United Arab Emirates",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "United Kingdom",
+          "value": "United Kingdom",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "United States",
+          "value": "United States",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uruguay",
+          "value": "Uruguay",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uzbekistan",
+          "value": "Uzbekistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vanuatu",
+          "value": "Vanuatu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vatican City",
+          "value": "Vatican City",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Venezuela",
+          "value": "Venezuela",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vietnam",
+          "value": "Vietnam",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yemen",
+          "value": "Yemen",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Zambia",
+          "value": "Zambia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Zimbabwe",
+          "value": "Zimbabwe",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other Country",
+          "value": "Other Country",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Country",
+      "selector_id": "countryother",
+      "selector_name": "countryother",
+      "selector_css": "#countryother",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Citizenship",
+      "selector_id": "Citizenship",
+      "selector_name": "Citizenship",
+      "selector_css": "#Citizenship",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 70
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Passport No.",
+      "selector_id": "PassportNo",
+      "selector_name": "PassportNo",
+      "selector_css": "#PassportNo",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 30
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Place of Issue",
+      "selector_id": "PassportIssuedAt",
+      "selector_name": "PassportIssuedAt",
+      "selector_css": "#PassportIssuedAt",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 70
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Date of Issue",
+      "selector_id": "PassportValidFrom",
+      "selector_name": "PassportValidFrom",
+      "selector_css": "#PassportValidFrom",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Date of Expiry",
+      "selector_id": "PassportValidUpto",
+      "selector_name": "PassportValidUpto",
+      "selector_css": "#PassportValidUpto",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Applying in Category",
+      "selector_id": null,
+      "selector_name": "Category",
+      "selector_css": "input[type=\"radio\"][name=\"Category\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "General",
+          "value": "General",
+          "selected": false
+        },
+        {
+          "text": "General EWS",
+          "value": "General-EWS",
+          "selected": false
+        },
+        {
+          "text": "OBC-NCL",
+          "value": "OBC (Non Creamy Layer)",
+          "selected": false
+        },
+        {
+          "text": "SC",
+          "value": "SC",
+          "selected": false
+        },
+        {
+          "text": "ST",
+          "value": "ST",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "Disability",
+      "selector_css": "input[type=\"radio\"][name=\"Disability\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "YES",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "NO",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "Are you also applying as Differently abled under the RPwD Act 2016? (To apply under PwD, minimum of 40% disability (\"Person with Benchmark Disability\") is required as per RPwD Act 2016 section 2{r})",
+      "selector_id": "DisabilityType",
+      "selector_name": "DisabilityType",
+      "selector_css": "#DisabilityType",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Type of Disability--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Locomotor disability",
+          "value": "Locomotor disability",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Visual Impairment",
+          "value": "Visual Impairment",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hearing Impairment",
+          "value": "Hearing Impairment",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Speech and language disability",
+          "value": "Speech and language disability",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Specific learning disability",
+          "value": "Specific learning disability",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Autism spectrum disorder",
+          "value": "Autism spectrum disorder",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mental Behaviour",
+          "value": "Mental Behaviour",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Disability caused due to chronic neurological conditions",
+          "value": "Disability caused due to chronic neurological conditions",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Disability caused due to blood disorder",
+          "value": "Disability caused due to blood disorder",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Multiple disabilities",
+          "value": "Multiple disabilities",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "Scribe",
+      "selector_css": "input[type=\"radio\"][name=\"Scribe\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "YES",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "NO",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "Date of Birth",
+      "selector_id": "DOB",
+      "selector_name": "DOB",
+      "selector_css": "#DOB",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control dtpicker hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Confirm Date of Birth",
+      "selector_id": "DOB_DD",
+      "selector_name": "DOB_DD",
+      "selector_css": "#DOB_DD",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "1",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "3",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "4",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "5",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "6",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "7",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "8",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "9",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "10",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "11",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "12",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "13",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "14",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "15",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "16",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "17",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "18",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "19",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "20",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "21",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "22",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "23",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "24",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "25",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "26",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "27",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "28",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "29",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "30",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "31",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Date of Birth",
+      "selector_id": "DOB_MM",
+      "selector_name": "DOB_MM",
+      "selector_css": "#DOB_MM",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "JAN",
+          "value": "01",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "FEB",
+          "value": "02",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MAR",
+          "value": "03",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "APR",
+          "value": "04",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MAY",
+          "value": "05",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JUN",
+          "value": "06",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JUL",
+          "value": "07",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "AUG",
+          "value": "08",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SEP",
+          "value": "09",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "OCT",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NOV",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DEC",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Date of Birth",
+      "selector_id": "DOB_YY",
+      "selector_name": "DOB_YY",
+      "selector_css": "#DOB_YY",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "1988",
+          "value": "1988",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1989",
+          "value": "1989",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1990",
+          "value": "1990",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1991",
+          "value": "1991",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1992",
+          "value": "1992",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1993",
+          "value": "1993",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1994",
+          "value": "1994",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1995",
+          "value": "1995",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1996",
+          "value": "1996",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1997",
+          "value": "1997",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1998",
+          "value": "1998",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1999",
+          "value": "1999",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2000",
+          "value": "2000",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2001",
+          "value": "2001",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2002",
+          "value": "2002",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2003",
+          "value": "2003",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2004",
+          "value": "2004",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2005",
+          "value": "2005",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2006",
+          "value": "2006",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2007",
+          "value": "2007",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2008",
+          "value": "2008",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2009",
+          "value": "2009",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2010",
+          "value": "2010",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Full Name of the Candidate (as per Std.10/SSC/SSLC Marksheet)",
+      "selector_id": "FullName",
+      "selector_name": "FullName",
+      "selector_css": "#FullName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Gender",
+      "selector_id": null,
+      "selector_name": "Gender",
+      "selector_css": "input[type=\"radio\"][name=\"Gender\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Male",
+          "value": "M",
+          "selected": false
+        },
+        {
+          "text": "Female",
+          "value": "F",
+          "selected": false
+        },
+        {
+          "text": "Third Gender",
+          "value": "O",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "Email Address",
+      "selector_id": "EmailID",
+      "selector_name": "EmailID",
+      "selector_css": "#EmailID",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Parent's Email Address",
+      "selector_id": "AlterEmailID",
+      "selector_name": "AlterEmailID",
+      "selector_css": "#AlterEmailID",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Re-enter Parent's Email Address",
+      "selector_id": "ReAlterEmailID",
+      "selector_name": "ReAlterEmailID",
+      "selector_css": "#ReAlterEmailID",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Mobile Number",
+      "selector_id": "MobileNo",
+      "selector_name": "MobileNo",
+      "selector_css": "#MobileNo",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Parent's Mobile Number",
+      "selector_id": "AlternateContact",
+      "selector_name": "AlternateContact",
+      "selector_css": "#AlternateContact",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "RelativeNID",
+      "selector_css": "input[type=\"radio\"][name=\"RelativeNID\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "YES",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "NO",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "Any relative or acquaintance working in NID? if so, please state their names",
+      "selector_id": "RelativeNID_Dtl",
+      "selector_name": "RelativeNID_Dtl",
+      "selector_css": "#RelativeNID_Dtl",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 150
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "How did you come to know about admissions 2026-27 at NID?",
+      "selector_id": "KnowNID",
+      "selector_name": "KnowNID",
+      "selector_css": "#KnowNID",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "-- Select --",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Family",
+          "value": "Family",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "School",
+          "value": "School",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Social Media",
+          "value": "Social Media",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Newspaper",
+          "value": "Newspaper",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NID Website",
+          "value": "NID Website",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Password",
+      "selector_id": "Password",
+      "selector_name": "Password",
+      "selector_css": "#Password",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Re-enter Password",
+      "selector_id": "RePassword",
+      "selector_name": "RePassword",
+      "selector_css": "#RePassword",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "I certify that I have read and understood the information given in “National Institute of Design Admissions Handbook 2026-27”. I certify that the information provided in this online application form is accurate and complete to the best of my knowledge. I declare that I have read and understood the conditions of eligibility for the programme / discipline for which I seek admission. In the event of any information provided by me is found incorrect, or misleading, or incomplete, my application shall be liable to cancellation by the Institute at any time and I shall not be entitled to any refund of the fee paid by me to the Institute.",
+      "selector_id": "AgreeCheck",
+      "selector_name": null,
+      "selector_css": "#AgreeCheck",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "form-check-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Yes, I would like to receive email notification from NID regarding events, workshops, exhibitions etc.",
+      "selector_id": "ReceiveEmail",
+      "selector_name": "ReceiveEmail",
+      "selector_css": "#ReceiveEmail",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": true,
+      "disabled": false,
+      "readonly": false,
+      "class": "form-check-input",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Field 56",
+      "selector_id": "PHDWorkingCheck",
+      "selector_name": null,
+      "selector_css": "#PHDWorkingCheck",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": "off"
+    },
+    {
+      "label": "CheckConfirmEdit2",
+      "selector_id": "CheckConfirmEdit2",
+      "selector_name": "CheckConfirmEdit2",
+      "selector_css": "#CheckConfirmEdit2",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": "off"
+    },
+    {
+      "label": "ScribeAgree",
+      "selector_id": "ScribeAgree",
+      "selector_name": "ScribeAgree",
+      "selector_css": "#ScribeAgree",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": "off"
+    },
+    {
+      "label": "TxtOTP",
+      "selector_id": "txtOTP",
+      "selector_name": "txtOTP",
+      "selector_css": "#txtOTP",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": "off"
+    },
+    {
+      "label": "TxtOTPEmailID",
+      "selector_id": "txtOTPEmailID",
+      "selector_name": "txtOTPEmailID",
+      "selector_css": "#txtOTPEmailID",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": "off"
+    }
+  ]
+}

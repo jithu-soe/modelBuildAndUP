@@ -1,0 +1,50 @@
+{
+  "total_fields": 2,
+  "required_fields_count": 1,
+  "page_url": "https://upsconline.nic.in/login",
+  "page_title": "Union Public Service Commission",
+  "timestamp": "2025-11-07T15:34:52.609Z",
+  "fields": [
+    {
+      "label": "Mobile Number :",
+      "selector_id": "mobileNumber",
+      "selector_name": "mobileNumber",
+      "selector_css": "#mobileNumber",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": true,
+      "placeholder": "Enter Registered Mobile Number",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10,
+        "pattern": "^[0-9]{10}$"
+      },
+      "current_value": "9561131635",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-dirty ng-valid ng-touched",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Field 2",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#nz-tabs-0-tab-0 > div > div > div > form > div > div:nth-of-type(3) > div:nth-of-type(2) > div > app-captcha > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 5
+      },
+      "current_value": "8t4ze",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-valid ng-dirty ng-touched",
+      "autocomplete": null
+    }
+  ]
+}

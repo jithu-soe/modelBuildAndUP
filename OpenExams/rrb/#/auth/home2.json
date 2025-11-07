@@ -1,0 +1,652 @@
+{
+  "total_fields": 27,
+  "required_fields_count": 6,
+  "page_url": "https://www.rrbapply.gov.in/#/auth/home?flag=true",
+  "page_title": "RRB :: Log In",
+  "timestamp": "2025-11-07T03:44:48.157Z",
+  "fields": [
+    {
+      "label": "Country Of Nationality",
+      "selector_id": "nationality",
+      "selector_name": "nationality",
+      "selector_css": "#nationality",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Country Of Nationality",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "India",
+          "value": "IND",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nepal",
+          "value": "NEP",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Bhutan",
+          "value": "BHU",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tibetan refugee who came over to India, before the 1st January, 1962 with the intention of permanently settling in India",
+          "value": "TIB",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Person of Indian origin who has migrated from Pakistan, Burma, Sri Lanka, East African Countries of Kenya, Uganda, the United Republic of Tanzania, Zambia, Malawi, Zaire, Ethiopia and Vietnam with the intention of permanently settling in India.",
+          "value": "POI",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "NEP",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select input-text form-control select-text ng-valid ng-dirty ng-touched",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Do you have the certificate of eligibility issued by the Government of India?",
+      "selector_id": null,
+      "selector_name": "wexpEligibleYes",
+      "selector_css": "input[type=\"radio\"][name=\"wexpEligibleYes\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "",
+          "value": "on",
+          "selected": true
+        },
+        {
+          "text": "on",
+          "value": "on",
+          "selected": false
+        }
+      ],
+      "required": true,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "on",
+      "disabled": false,
+      "readonly": false,
+      "class": "radio-btn ng-valid ng-dirty ng-touched",
+      "autocomplete": null
+    },
+    {
+      "label": "Full Name",
+      "selector_id": "registration_fullname",
+      "selector_name": "registration_fullname",
+      "selector_css": "#registration_fullname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": true,
+      "placeholder": "Full Name As recorded in Matriculation (10th class)  Certificate/MarkSheet ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "Tanmay Khedekar",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control input-text ng-dirty ng-valid ng-touched",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Re-type Full Name",
+      "selector_id": "registration_retypefullname",
+      "selector_name": "registration_retypefullname",
+      "selector_css": "#registration_retypefullname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": true,
+      "placeholder": "Re-type Full Name As recorded in Matriculation (10th class)  Certificate/MarkSheet ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "Tanmay Khedekar",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control input-text ng-dirty ng-valid ng-touched",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "changedName",
+      "selector_css": "input[type=\"radio\"][name=\"changedName\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "on",
+          "selected": false
+        },
+        {
+          "text": "Yes",
+          "value": "on",
+          "selected": true
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "on",
+      "disabled": false,
+      "readonly": false,
+      "class": "radio-btn ng-valid ng-dirty ng-touched",
+      "autocomplete": null
+    },
+    {
+      "label": "Date Of Birth",
+      "selector_id": "jquerryEffectiveDate",
+      "selector_name": "effectiveDate",
+      "selector_css": "#jquerryEffectiveDate",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "DD/MM/YYYY As recorded in Matriculation (10th class)  Certificate/MarkSheet ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "05/05/2004",
+      "disabled": false,
+      "readonly": true,
+      "class": "form-control ng-valid ng-touched ng-dirty",
+      "autocomplete": null
+    },
+    {
+      "label": "Re-type Date Of Birth",
+      "selector_id": "dateBirth",
+      "selector_name": "dateBirth",
+      "selector_css": "#dateBirth",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": true,
+      "placeholder": "DD/MM/YYYY As recorded in Matriculation (10th class)  Certificate/MarkSheet ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "05/05/2004",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control input-text icon-padding ng-dirty ng-touched ng-valid",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Select Gender",
+      "selector_id": "gender",
+      "selector_name": "gender",
+      "selector_css": "#gender",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select Gender",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Male",
+          "value": "M",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Female",
+          "value": "F",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Transgender",
+          "value": "T",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "M",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select input-text form-control select-text ng-valid ng-dirty ng-touched",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Re-select Gender",
+      "selector_id": "gender_id",
+      "selector_name": "gender_id",
+      "selector_css": "#gender_id",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Re-select Gender",
+          "value": "0: null",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Male",
+          "value": "M",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Female",
+          "value": "F",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Transgender",
+          "value": "T",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "M",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select input-text form-control select-text ng-valid ng-dirty ng-touched",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Father’s Name",
+      "selector_id": "fatherFullName",
+      "selector_name": "fatherFullName",
+      "selector_css": "#fatherFullName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Father’s Name As recorded in Matriculation (10th class)  Certificate/MarkSheet ",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 50
+      },
+      "current_value": "Sandip khedekar",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control input-text ng-valid ng-dirty ng-touched",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Re-type Father’s Name",
+      "selector_id": "registration_confirmfathername",
+      "selector_name": "registration_confirmfathername",
+      "selector_css": "#registration_confirmfathername",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Re-type Father’s Name As recorded in Matriculation (10th class)  Certificate/MarkSheet  ",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 50
+      },
+      "current_value": "sandip khedekar",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control input-text ng-valid ng-dirty ng-touched",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Mother’s Name",
+      "selector_id": "registration_mothername_id",
+      "selector_name": "registration_mothername_name",
+      "selector_css": "#registration_mothername_id",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Mother’s Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "seema khedekar",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control input-text ng-valid ng-dirty ng-touched",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Re-type Mother’s Name",
+      "selector_id": "registration_mothername",
+      "selector_name": "registration_mothername",
+      "selector_css": "#registration_mothername",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Re-type Mother’s Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "seema khedekar",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control input-text ng-valid ng-dirty ng-touched",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Email Address",
+      "selector_id": "registration_email_id_v",
+      "selector_name": "registration_email_name_v",
+      "selector_css": "#registration_email_id_v",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Email Address",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "tkhedekar47@gmail.com",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control input-text ng-untouched ng-pristine ng-star-inserted",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Mobile Number",
+      "selector_id": "registration_phone_id_v",
+      "selector_name": "registration_phone_name_v",
+      "selector_css": "#registration_phone_id_v",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Mobile Number",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "9689151132",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control input-text ng-untouched ng-pristine ng-star-inserted",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Please Enter Your Aadhaar Card Number/VID",
+      "selector_id": "docNumber",
+      "selector_name": "docNumber",
+      "selector_css": "#docNumber",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Please Enter Your Aadhaar Card Number/VID",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 16
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "OTP Verification",
+      "selector_id": null,
+      "selector_name": "aadhaarVerification",
+      "selector_css": "input[type=\"radio\"][name=\"aadhaarVerification\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "OTP Verification",
+          "value": "on",
+          "selected": true
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "on",
+      "disabled": false,
+      "readonly": false,
+      "class": "ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "OTP Verification",
+      "selector_id": "otp_0_lrjp73hv77mhoba55x",
+      "selector_name": null,
+      "selector_css": "#otp_0_lrjp73hv77mhoba55x",
+      "tag_name": "input",
+      "input_type": "tel",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1,
+        "pattern": "\\d*"
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "otp-input ng-untouched ng-pristine ng-valid ng-star-inserted",
+      "autocomplete": "one-time-code"
+    },
+    {
+      "label": "OTP Verification",
+      "selector_id": "otp_1_lrjp73hv77mhoba55x",
+      "selector_name": null,
+      "selector_css": "#otp_1_lrjp73hv77mhoba55x",
+      "tag_name": "input",
+      "input_type": "tel",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1,
+        "pattern": "\\d*"
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "otp-input ng-untouched ng-pristine ng-valid ng-star-inserted",
+      "autocomplete": "one-time-code"
+    },
+    {
+      "label": "OTP Verification",
+      "selector_id": "otp_2_lrjp73hv77mhoba55x",
+      "selector_name": null,
+      "selector_css": "#otp_2_lrjp73hv77mhoba55x",
+      "tag_name": "input",
+      "input_type": "tel",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1,
+        "pattern": "\\d*"
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "otp-input ng-untouched ng-pristine ng-valid ng-star-inserted",
+      "autocomplete": "one-time-code"
+    },
+    {
+      "label": "OTP Verification",
+      "selector_id": "otp_3_lrjp73hv77mhoba55x",
+      "selector_name": null,
+      "selector_css": "#otp_3_lrjp73hv77mhoba55x",
+      "tag_name": "input",
+      "input_type": "tel",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1,
+        "pattern": "\\d*"
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "otp-input ng-untouched ng-pristine ng-valid ng-star-inserted",
+      "autocomplete": "one-time-code"
+    },
+    {
+      "label": "OTP Verification",
+      "selector_id": "otp_4_lrjp73hv77mhoba55x",
+      "selector_name": null,
+      "selector_css": "#otp_4_lrjp73hv77mhoba55x",
+      "tag_name": "input",
+      "input_type": "tel",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1,
+        "pattern": "\\d*"
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "otp-input ng-untouched ng-pristine ng-valid ng-star-inserted",
+      "autocomplete": "one-time-code"
+    },
+    {
+      "label": "OTP Verification",
+      "selector_id": "otp_5_lrjp73hv77mhoba55x",
+      "selector_name": null,
+      "selector_css": "#otp_5_lrjp73hv77mhoba55x",
+      "tag_name": "input",
+      "input_type": "tel",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1,
+        "pattern": "\\d*"
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "otp-input ng-untouched ng-pristine ng-valid ng-star-inserted",
+      "autocomplete": "one-time-code"
+    },
+    {
+      "label": "I confirm that I am 18 years old or older. I hereby authorize Railway Recruitment Board (RRB) and have no objection if RRB retrieves and use my details such as Name, Gender, DOB, Address, Photo for KYC identification from Unique Identification Authority of India (UIDAI) using Face Authentication/Biometric/OTP validation(‘e-KYC’) for the purpose of authentication in various stages of recruitment of CEN published time to time by Railway Recruitment Boards. I also understand that providing Aadhaar is voluntary and I can avail their services through alternative KYC modes by way of submitting Voter ID/Passport/Driving License and I have voluntarily opted the e-KYC mode. मैं रेलवे भर्ती बोर्ड (आर आर बी) को अधिकृत करता हूँ और मुझे कोई आपत्ति नहीं है अगर आर आर बी रेलवे भर्ती बोर्ड द्वारा समय-समय पर प्रकाशित सी.ई.एन. की भर्ती के विभिन्न चरणों में प्रमाणीकरण के उद्देश्य से फेस ऑथेंटिकेशन/बायोमेट्रिक/ओटीपी सत्यापन (‘ई-केवाईसी’) का उपयोग करके भारतीय विशिष्ट पहचान प्राधिकरण (यू.आ.ई.डी.ए.आई.) से केवाईसी पहचान के लिए मेरे विवरण जैसे नाम, लिंग, जन्म तिथि, पता, फोटो प्राप्त करता है और उसका उपयोग करता है। मैं यह भी समझता हूँ कि आधार प्रदान करना स्वैच्छिक है और मैं मतदाता पहचान पत्र/पासपोर्ट/ड्राइविंग लाइसेंस जमा करके वैकल्पिक केवाईसी मोड के माध्यम से उनकी सेवाओं का लाभ उठा सकता हूँ और मैंने स्वेच्छा से ई-केवाईसी मोड का विकल्प चुना है।",
+      "selector_id": "Trueinstruction",
+      "selector_name": "readinstructions",
+      "selector_css": "#Trueinstruction",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Password",
+      "selector_id": "registration_password_id",
+      "selector_name": "registration_password_name",
+      "selector_css": "#registration_password_id",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": true,
+      "placeholder": "Password",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 16
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control input-text icon-padding ng-untouched ng-pristine ng-invalid",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Confirm Password",
+      "selector_id": "registration_cpassword_id",
+      "selector_name": "registration_cpassword_name",
+      "selector_css": "#registration_cpassword_id",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": true,
+      "placeholder": "Confirm Password",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 16
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control input-text icon-padding ng-untouched ng-pristine ng-invalid",
+      "autocomplete": "new-password"
+    },
+    {
+      "label": "Finalsubmitbox",
+      "selector_id": "finalsubmitbox",
+      "selector_name": "finalsubmitbox",
+      "selector_css": "#finalsubmitbox",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    }
+  ]
+}

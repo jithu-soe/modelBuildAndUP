@@ -1,0 +1,169 @@
+{
+  "total_fields": 8,
+  "required_fields_count": 8,
+  "page_url": "https://careers.sac.gov.in/register",
+  "page_title": "OSAR",
+  "timestamp": "2025-11-07T04:26:30.695Z",
+  "fields": [
+    {
+      "label": "Name of Applicant",
+      "selector_id": "mat-input-3",
+      "selector_name": "username",
+      "selector_css": "#mat-input-3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": true,
+      "placeholder": "Name of Applicant",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "mat-mdc-input-element ng-tns-c3-6 ng-untouched ng-pristine ng-invalid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Email",
+      "selector_id": "mat-input-4",
+      "selector_name": "email",
+      "selector_css": "#mat-input-4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": true,
+      "placeholder": "Email",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "mat-mdc-input-element ng-tns-c3-7 ng-untouched ng-pristine ng-invalid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Confirm Email",
+      "selector_id": "mat-input-5",
+      "selector_name": "confirmemail",
+      "selector_css": "#mat-input-5",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": true,
+      "placeholder": "Confirm Email",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "mat-mdc-input-element ng-tns-c3-8 ng-untouched ng-pristine ng-invalid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Preferably Mobile number registered with Aadhar",
+      "selector_id": "mat-input-6",
+      "selector_name": "mobileno",
+      "selector_css": "#mat-input-6",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": true,
+      "placeholder": "Mobile No.",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "mat-mdc-input-element ng-tns-c3-9 ng-untouched ng-pristine ng-invalid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Confirm Mobile no",
+      "selector_id": "mat-input-7",
+      "selector_name": "confirmmobileno",
+      "selector_css": "#mat-input-7",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": true,
+      "placeholder": "Confirm Mobile no",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "mat-mdc-input-element ng-tns-c3-10 ng-untouched ng-pristine ng-invalid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Minimum Eight characters comprising One Capital Letter, One Number and One Special Character",
+      "selector_id": "mat-input-8",
+      "selector_name": "password",
+      "selector_css": "#mat-input-8",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": true,
+      "placeholder": "Password",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "mat-mdc-input-element ng-tns-c3-11 ng-untouched ng-pristine ng-invalid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Minimum Eight characters comprising One Capital Letter, One Number and One Special Character",
+      "selector_id": "mat-input-9",
+      "selector_name": "confirmpassword",
+      "selector_css": "#mat-input-9",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": true,
+      "placeholder": "Confirm Password",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "mat-mdc-input-element ng-tns-c3-12 ng-untouched ng-pristine ng-invalid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Captcha",
+      "selector_id": "mat-input-10",
+      "selector_name": "captcha",
+      "selector_css": "#mat-input-10",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": true,
+      "placeholder": "Enter above given digits",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "mat-mdc-input-element ng-tns-c3-13 ng-untouched ng-pristine ng-invalid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored",
+      "autocomplete": "off"
+    }
+  ]
+}

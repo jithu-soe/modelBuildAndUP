@@ -1,0 +1,89 @@
+{
+  "total_fields": 4,
+  "required_fields_count": 1,
+  "page_url": "https://upsconline.nic.in/validateCandidate",
+  "page_title": "Union Public Service Commission",
+  "timestamp": "2025-11-07T15:31:57.838Z",
+  "fields": [
+    {
+      "label": "Mobile Number :",
+      "selector_id": "mobileNumber",
+      "selector_name": null,
+      "selector_css": "#mobileNumber",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Mobile Number",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control tooltip1 ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Mobile Number :",
+      "selector_id": "mobileNumber",
+      "selector_name": null,
+      "selector_css": "#mobileNumber",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Mobile Number",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Mobile Number :",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "html > body > app-root > div > app-nra-candidate-validate > div > div > div > div > div:nth-of-type(2) > div > div > form > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > app-captcha > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 5
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "I declare that the above mobile number is owned by me and I have not created any account using this mobile number on this portal.",
+      "selector_id": "flexCheckDefault",
+      "selector_name": null,
+      "selector_css": "#flexCheckDefault",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": true,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "form-check-input checkbox_in ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    }
+  ]
+}

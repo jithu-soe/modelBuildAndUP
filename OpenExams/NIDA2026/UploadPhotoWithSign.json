@@ -1,0 +1,49 @@
+{
+  "total_fields": 2,
+  "required_fields_count": 0,
+  "page_url": "https://admissions.nid.edu/NIDA2026/UploadPhotoWithSign.aspx",
+  "page_title": "NID: Admission 2026-27",
+  "timestamp": "2025-11-07T05:02:44.977Z",
+  "fields": [
+    {
+      "label": "FileUpload1",
+      "selector_id": "FileUpload1",
+      "selector_name": "FileUpload1",
+      "selector_css": "#FileUpload1",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "btn",
+      "autocomplete": null
+    },
+    {
+      "label": "FileUpload2",
+      "selector_id": "FileUpload2",
+      "selector_name": "FileUpload2",
+      "selector_css": "#FileUpload2",
+      "tag_name": "input",
+      "input_type": "file",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "btn",
+      "autocomplete": null
+    }
+  ]
+}

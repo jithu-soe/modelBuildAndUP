@@ -1,0 +1,489 @@
+{
+  "total_fields": 24,
+  "required_fields_count": 0,
+  "page_url": "https://upsconline.nic.in/register-profile",
+  "page_title": "Union Public Service Commission",
+  "timestamp": "2025-11-07T15:36:20.358Z",
+  "fields": [
+    {
+      "label": "First Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(2) > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter First Name",
+      "constraints": {
+        "minLength": 2,
+        "maxLength": 25
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Middle Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(3) > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Middle Name",
+      "constraints": {
+        "minLength": 2,
+        "maxLength": 25
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Last Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(4) > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Last Name",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 25
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm First Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(5) > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Confirm First Name",
+      "constraints": {
+        "minLength": 2,
+        "maxLength": 25
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Middle Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(6) > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Confirm Middle Name",
+      "constraints": {
+        "minLength": 2,
+        "maxLength": 25
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Last Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(7) > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Confirm Last Name",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 25
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(8) > div:nth-of-type(2) > label > input",
+      "tag_name": "input",
+      "input_type": "radio",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "No",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(8) > div:nth-of-type(3) > label > input",
+      "tag_name": "input",
+      "input_type": "radio",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "First Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(9) > div:nth-of-type(3) > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter First Name",
+      "constraints": {
+        "minLength": 2,
+        "maxLength": 25
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Middle Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(9) > div:nth-of-type(4) > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Middle Name",
+      "constraints": {
+        "minLength": 2,
+        "maxLength": 25
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Last Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(9) > div:nth-of-type(5) > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Last Name",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 25
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm First Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(9) > div:nth-of-type(6) > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Confirm First Name",
+      "constraints": {
+        "minLength": 2,
+        "maxLength": 25
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Middle Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(9) > div:nth-of-type(7) > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Confirm Middle Name",
+      "constraints": {
+        "minLength": 2,
+        "maxLength": 25
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Last Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(9) > div:nth-of-type(8) > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Confirm Last Name",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 25
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Field 15",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(11) > div > div > ng-select > div > div > div:nth-of-type(2) > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "Field 16",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(12) > div > div > ng-select > div > div > div:nth-of-type(2) > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "Date of Birth (dd/mm/yyyy):",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(13) > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Date of Birth (dd/mm/yyyy)",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "__/__/____",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Date of Birth (dd/mm/yyyy):",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(14) > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Confirm Date of Birth (dd/mm/yyyy)",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "__/__/____",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Father's full name (Initials and honorifics (e.g. Dr.,Col.,etc.) are not allowed.) :",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(15) > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Father full name",
+      "constraints": {
+        "minLength": 2,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Father's full name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(16) > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Father full name",
+      "constraints": {
+        "minLength": 2,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Mother's full name (Initials and honorifics (e.g. Dr.,Col.,etc.) are not allowed.) :",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(17) > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Mother Name",
+      "constraints": {
+        "minLength": 3,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Mother's full name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(18) > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Mother full name",
+      "constraints": {
+        "minLength": 3,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-invalid",
+      "autocomplete": null
+    },
+    {
+      "label": "Guardian's Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(19) > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Guardian's Name",
+      "constraints": {
+        "minLength": 3,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Guardian's Name:",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#can_reg > div > div:nth-of-type(3) > div > form > div > div:nth-of-type(20) > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Confirm Guardian's Name",
+      "constraints": {
+        "minLength": 3,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control ng-untouched ng-pristine ng-valid",
+      "autocomplete": null
+    }
+  ]
+}

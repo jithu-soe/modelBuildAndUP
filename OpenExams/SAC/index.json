@@ -1,0 +1,69 @@
+{
+  "total_fields": 3,
+  "required_fields_count": 0,
+  "page_url": "https://careers.sac.gov.in/index",
+  "page_title": "OSAR",
+  "timestamp": "2025-11-07T04:33:30.152Z",
+  "fields": [
+    {
+      "label": "Email",
+      "selector_id": "mat-input-13",
+      "selector_name": "email",
+      "selector_css": "#mat-input-13",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Email",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "mat-mdc-input-element ng-tns-c3-17 ng-untouched ng-pristine ng-valid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Password",
+      "selector_id": "mat-input-14",
+      "selector_name": "password",
+      "selector_css": "#mat-input-14",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": false,
+      "placeholder": "Password",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "mat-mdc-input-element ng-tns-c3-18 ng-untouched ng-pristine ng-valid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored",
+      "autocomplete": "off"
+    },
+    {
+      "label": "captcha",
+      "selector_id": "mat-input-15",
+      "selector_name": "captcha",
+      "selector_css": "#mat-input-15",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "captcha",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "mat-mdc-input-element ng-tns-c3-19 ng-untouched ng-pristine ng-valid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored",
+      "autocomplete": null
+    }
+  ]
+}

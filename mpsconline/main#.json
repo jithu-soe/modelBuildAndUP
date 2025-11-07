@@ -1,0 +1,2538 @@
+{
+  "total_fields": 72,
+  "required_fields_count": 0,
+  "page_url": "https://mpsconline.gov.in/candidate/main#",
+  "page_title": "MPSC: Online Application System",
+  "timestamp": "2025-11-07T13:41:03.714Z",
+  "fields": [
+    {
+      "label": "IsAdharCardPresentFlag",
+      "selector_id": null,
+      "selector_name": "isAdharCardPresentFlag",
+      "selector_css": "input[type=\"radio\"][name=\"isAdharCardPresentFlag\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": true
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "No",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-check-input RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "1.2 Surname",
+      "selector_id": null,
+      "selector_name": "surName",
+      "selector_css": "input[name=\"surName\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 30
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "First Name",
+      "selector_id": null,
+      "selector_name": "firstName",
+      "selector_css": "input[name=\"firstName\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 30
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Middle Name",
+      "selector_id": null,
+      "selector_name": "middleName",
+      "selector_css": "input[name=\"middleName\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 30
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1.3 Full Name(English)",
+      "selector_id": null,
+      "selector_name": "fullNameInEnglish",
+      "selector_css": "input[name=\"fullNameInEnglish\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 150
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1.4 Full Name(Devnagari)",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#profile > form > div > div:nth-of-type(4) > div:nth-of-type(5) > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1.5 Mother's Name",
+      "selector_id": null,
+      "selector_name": "mothersName",
+      "selector_css": "input[name=\"mothersName\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 30
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1.6 Date Of Birth",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#profile > form > div > div:nth-of-type(4) > div:nth-of-type(7) > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "DD/MM/YYYY",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "05/05/2004",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1.7 Gender",
+      "selector_id": null,
+      "selector_name": "gender",
+      "selector_css": "select[name=\"gender\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Female",
+          "value": "321",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Male",
+          "value": "320",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Transgender",
+          "value": "322",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1.8 Mobile Number",
+      "selector_id": null,
+      "selector_name": "mobileNumber",
+      "selector_css": "input[name=\"mobileNumber\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "9561131635",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1.9 Email ID",
+      "selector_id": null,
+      "selector_name": "emailID",
+      "selector_css": "input[name=\"emailID\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "khedekartanmay2004@gmail.com",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1.10 Marital Status",
+      "selector_id": null,
+      "selector_name": "maritalStatus",
+      "selector_css": "select[name=\"maritalStatus\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Divorcee",
+          "value": "359",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Married",
+          "value": "357",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Unmarried",
+          "value": "358",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1.11 Nationality",
+      "selector_id": null,
+      "selector_name": "Nationality",
+      "selector_css": "select[name=\"Nationality\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Indian",
+          "value": "318",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other",
+          "value": "319",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1.12 Mother Tongue",
+      "selector_id": null,
+      "selector_name": "motherTongue",
+      "selector_css": "select[name=\"motherTongue\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Assamese",
+          "value": "334",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bengali",
+          "value": "335",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BODO",
+          "value": "336",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DOGRI",
+          "value": "337",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GUJARATI",
+          "value": "338",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HINDI",
+          "value": "339",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KANNADA",
+          "value": "340",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KASHMIRI",
+          "value": "341",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KONKANI",
+          "value": "342",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MAITHILI",
+          "value": "343",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MALAYALAM",
+          "value": "344",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MANIPURI",
+          "value": "345",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MARATHI",
+          "value": "346",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NEPALI",
+          "value": "347",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ORIYA",
+          "value": "348",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "OTHER",
+          "value": "356",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUNJABI",
+          "value": "349",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SANSKRIT",
+          "value": "350",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SANTALI",
+          "value": "351",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SINDHI",
+          "value": "352",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TAMIL",
+          "value": "353",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TELUGU",
+          "value": "354",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "URDU",
+          "value": "355",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "FlgNameChanged",
+      "selector_id": null,
+      "selector_name": "flgNameChanged",
+      "selector_css": "input[type=\"radio\"][name=\"flgNameChanged\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": true
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "No",
+      "disabled": false,
+      "readonly": false,
+      "class": "RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "canYouRead",
+      "selector_css": "input[type=\"radio\"][name=\"canYouRead\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": true
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "No",
+      "disabled": false,
+      "readonly": false,
+      "class": "RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "canYouWrite",
+      "selector_css": "input[type=\"radio\"][name=\"canYouWrite\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": true
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "No",
+      "disabled": false,
+      "readonly": false,
+      "class": "RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "Yes",
+      "selector_id": null,
+      "selector_name": "canYouSpeak",
+      "selector_css": "input[type=\"radio\"][name=\"canYouSpeak\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": true
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "No",
+      "disabled": false,
+      "readonly": false,
+      "class": "RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "1.15 Height In Cms.",
+      "selector_id": null,
+      "selector_name": "HeightInCMS",
+      "selector_css": "input[name=\"HeightInCMS\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1.16 Weight In Kgs.",
+      "selector_id": null,
+      "selector_name": "Weight",
+      "selector_css": "input[name=\"Weight\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1.19 Category",
+      "selector_id": null,
+      "selector_name": "castType",
+      "selector_css": "select[name=\"castType\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Unreserved",
+          "value": "323",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SC",
+          "value": "324",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ST",
+          "value": "325",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DT-A",
+          "value": "326",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NT-B",
+          "value": "327",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NT-C",
+          "value": "328",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NT-D",
+          "value": "329",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SBC",
+          "value": "330",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SEBC",
+          "value": "331",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "EWS",
+          "value": "332",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "OBC",
+          "value": "333",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1.22 Are you a person with permanent benchmark disabilities?",
+      "selector_id": null,
+      "selector_name": "areYouDivyangjan",
+      "selector_css": "select[name=\"areYouDivyangjan\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1.23 Are you a Meritorious Sports Person?",
+      "selector_id": null,
+      "selector_name": "Meritorious_Sports_Person",
+      "selector_css": "select[name=\"Meritorious_Sports_Person\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1.24 Does the candidate himself is an ex-serviceman of the regular Armed Forces?",
+      "selector_id": null,
+      "selector_name": "flgExArmedReg",
+      "selector_css": "select[name=\"flgExArmedReg\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1.25 Are you an employee of Government of Maharashtra?",
+      "selector_id": null,
+      "selector_name": "flgGomEmployee",
+      "selector_css": "select[name=\"flgGomEmployee\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1.25 Are you an employee of Government of Maharashtra?",
+      "selector_id": null,
+      "selector_name": "flgBmcEmployee",
+      "selector_css": "select[name=\"flgBmcEmployee\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1.25 Are you an employee of Government of Maharashtra?",
+      "selector_id": null,
+      "selector_name": "flgBestEmployee",
+      "selector_css": "select[name=\"flgBestEmployee\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1.28 Are you domiciled in the state of Maharashtra?",
+      "selector_id": null,
+      "selector_name": "maharashtraDomicileCertificate",
+      "selector_css": "select[name=\"maharashtraDomicileCertificate\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1.29 Is Additional Reservation ?",
+      "selector_id": null,
+      "selector_name": "isAdditionalReservation",
+      "selector_css": "select[name=\"isAdditionalReservation\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "No",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "2.1 Address Line 1",
+      "selector_id": null,
+      "selector_name": "permenantHouseNo",
+      "selector_css": "input[name=\"permenantHouseNo\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.2 Address Line 2",
+      "selector_id": null,
+      "selector_name": "permenantBuildingName",
+      "selector_css": "input[name=\"permenantBuildingName\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.3 Address Line 3",
+      "selector_id": null,
+      "selector_name": "permenantRoadOrPo",
+      "selector_css": "input[name=\"permenantRoadOrPo\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.4 Landmark",
+      "selector_id": null,
+      "selector_name": "permenantLandmark",
+      "selector_css": "input[name=\"permenantLandmark\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.5 State / Union Territory",
+      "selector_id": null,
+      "selector_name": "permenantState",
+      "selector_css": "select[name=\"permenantState\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "ANDAMAN & NIKOBAR ISLANDS",
+          "value": "1",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ANDHRA PRADESH",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ARUNACHAL PRADESH",
+          "value": "9",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ASSAM",
+          "value": "35",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BIHAR",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHANDIGARH",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHHATTISGARH",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DADRA & NAGAR HAVELI",
+          "value": "33",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DAMAN & DIU",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GOA",
+          "value": "32",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GUJARAT",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HARYANA",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HIMACHAL PRADESH",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JAMMU & KASHMIR",
+          "value": "2",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JHARKHAND",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KARNATAKA",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KERALA",
+          "value": "8",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LAKSHADWEEP",
+          "value": "4",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MADHYA PRADESH",
+          "value": "34",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MAHARASHTRA",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MANIPUR",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MEGHALAYA",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MIZORAM",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NAGALAND",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NCT OF DELHI",
+          "value": "7",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ORISSA",
+          "value": "3",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other than Maharashtra",
+          "value": "37",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Others",
+          "value": "38",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUDUCHERRY",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUNJAB",
+          "value": "5",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "RAJASTHAN",
+          "value": "6",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SIKKIM",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TAMIL NADU",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TRIPURA",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Telangana",
+          "value": "36",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTAR PRADESH",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTARAKHAND",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "WEST BENGAL",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "2.6 District",
+      "selector_id": null,
+      "selector_name": "permenantDistrict1",
+      "selector_css": "input[name=\"permenantDistrict1\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.7 Taluka",
+      "selector_id": null,
+      "selector_name": "permenantTaluka1",
+      "selector_css": "input[name=\"permenantTaluka1\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.8 Village / City",
+      "selector_id": null,
+      "selector_name": "permenantVillageCity1",
+      "selector_css": "input[name=\"permenantVillageCity1\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.9 Pincode",
+      "selector_id": null,
+      "selector_name": "permenantPin",
+      "selector_css": "input[name=\"permenantPin\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Same as Above",
+      "selector_id": "customCheck",
+      "selector_name": "isSameAsAbove",
+      "selector_css": "#customCheck",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "form-check-input",
+      "autocomplete": null
+    },
+    {
+      "label": "2.1 Address Line 1",
+      "selector_id": null,
+      "selector_name": "correspondenceHouseNo",
+      "selector_css": "input[name=\"correspondenceHouseNo\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.2 Address Line 2",
+      "selector_id": null,
+      "selector_name": "correspondenceBuildingName",
+      "selector_css": "input[name=\"correspondenceBuildingName\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.3 Address Line 3",
+      "selector_id": null,
+      "selector_name": "correspondenceRoadOrPo",
+      "selector_css": "input[name=\"correspondenceRoadOrPo\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.4 Landmark",
+      "selector_id": null,
+      "selector_name": "correspondenceLandmark",
+      "selector_css": "input[name=\"correspondenceLandmark\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.5 State / Union Territory",
+      "selector_id": null,
+      "selector_name": "correspondenceState",
+      "selector_css": "select[name=\"correspondenceState\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "ANDAMAN & NIKOBAR ISLANDS",
+          "value": "1",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ANDHRA PRADESH",
+          "value": "26",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ARUNACHAL PRADESH",
+          "value": "9",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ASSAM",
+          "value": "35",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BIHAR",
+          "value": "29",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHANDIGARH",
+          "value": "21",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHHATTISGARH",
+          "value": "25",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DADRA & NAGAR HAVELI",
+          "value": "33",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DAMAN & DIU",
+          "value": "10",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GOA",
+          "value": "32",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GUJARAT",
+          "value": "18",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HARYANA",
+          "value": "17",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HIMACHAL PRADESH",
+          "value": "30",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JAMMU & KASHMIR",
+          "value": "2",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JHARKHAND",
+          "value": "22",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KARNATAKA",
+          "value": "24",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KERALA",
+          "value": "8",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "LAKSHADWEEP",
+          "value": "4",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MADHYA PRADESH",
+          "value": "34",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MAHARASHTRA",
+          "value": "27",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MANIPUR",
+          "value": "20",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MEGHALAYA",
+          "value": "15",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MIZORAM",
+          "value": "28",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NAGALAND",
+          "value": "12",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NCT OF DELHI",
+          "value": "7",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ORISSA",
+          "value": "3",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other than Maharashtra",
+          "value": "37",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Others",
+          "value": "38",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUDUCHERRY",
+          "value": "31",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUNJAB",
+          "value": "5",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "RAJASTHAN",
+          "value": "6",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SIKKIM",
+          "value": "13",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TAMIL NADU",
+          "value": "19",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TRIPURA",
+          "value": "11",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Telangana",
+          "value": "36",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTAR PRADESH",
+          "value": "23",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "UTTARAKHAND",
+          "value": "14",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "WEST BENGAL",
+          "value": "16",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "2.6 District",
+      "selector_id": null,
+      "selector_name": "correspondenceDistrict1",
+      "selector_css": "input[name=\"correspondenceDistrict1\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.7 Taluka",
+      "selector_id": null,
+      "selector_name": "correspondenceTaluka1",
+      "selector_css": "input[name=\"correspondenceTaluka1\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.8 Village / City",
+      "selector_id": null,
+      "selector_name": "correspondenceVillageCity1",
+      "selector_css": "input[name=\"correspondenceVillageCity1\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "2.9 Pincode",
+      "selector_id": null,
+      "selector_name": "correspondencePin",
+      "selector_css": "input[name=\"correspondencePin\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1. Whether any prosecution is pending in any Court of Law against you?",
+      "selector_id": null,
+      "selector_name": "isProsecutionPending",
+      "selector_css": "select[name=\"isProsecutionPending\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "true",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "false",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1. Whether any prosecution is pending in any Court of Law against you?",
+      "selector_id": null,
+      "selector_name": "isBarDisciplinaryActionInitiated",
+      "selector_css": "select[name=\"isBarDisciplinaryActionInitiated\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "true",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "false",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1. Whether any prosecution is pending in any Court of Law against you?",
+      "selector_id": null,
+      "selector_name": "isGovDisciplinaryActionInitiated",
+      "selector_css": "select[name=\"isGovDisciplinaryActionInitiated\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "true",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "false",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1. Whether any prosecution is pending in any Court of Law against you?",
+      "selector_id": null,
+      "selector_name": "isCourtCasePending",
+      "selector_css": "select[name=\"isCourtCasePending\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "true",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "false",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1. Whether any prosecution is pending in any Court of Law against you?",
+      "selector_id": null,
+      "selector_name": "isDebarredForExamination",
+      "selector_css": "select[name=\"isDebarredForExamination\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Yes",
+          "value": "true",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "No",
+          "value": "false",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "1. Team / Games / Sports / NCC / Hitchhiking / Mountaineering etc.",
+      "selector_id": null,
+      "selector_name": "activities",
+      "selector_css": "input[name=\"activities\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1. Team / Games / Sports / NCC / Hitchhiking / Mountaineering etc.",
+      "selector_id": null,
+      "selector_name": "distinctionLeadershipPosition",
+      "selector_css": "input[name=\"distinctionLeadershipPosition\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "1. Team / Games / Sports / NCC / Hitchhiking / Mountaineering etc.",
+      "selector_id": null,
+      "selector_name": "extraCurricular",
+      "selector_css": "input[name=\"extraCurricular\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "4.1 Qualification Type",
+      "selector_id": null,
+      "selector_name": "qualificationtype",
+      "selector_css": "select[name=\"qualificationtype\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select Qualification Type",
+          "value": "Select",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Below SSC/10th",
+          "value": "BSSC",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SSC",
+          "value": "SSC",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HSC",
+          "value": "HSC",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Diploma",
+          "value": "D",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Graduate",
+          "value": "G",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PG Diploma",
+          "value": "PG Diploma",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Post Graduation",
+          "value": "PG",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "M.Phil",
+          "value": "M.Phill",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ph.D",
+          "value": "PHD",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NET/SLET/SET",
+          "value": "NET/SLET/SET",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Publications",
+          "value": "Pb",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Fellowship",
+          "value": "Fs",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Certifications",
+          "value": "Cf",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "YCMOU",
+          "value": "YCMOU",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NIOS",
+          "value": "NIOS",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Associate",
+          "value": "Associate",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Associate Member",
+          "value": "AssociateMem",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ph.D Guide",
+          "value": "Ph.D Guide",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other",
+          "value": "Other",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Membership",
+          "value": "MEMB",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Select",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "4.2 Name of Qualification",
+      "selector_id": null,
+      "selector_name": "qualificationnamecode",
+      "selector_css": "select[name=\"qualificationnamecode\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "4.3 Subject / Stream / Branch",
+      "selector_id": null,
+      "selector_name": "subjectLookupId",
+      "selector_css": "select[name=\"subjectLookupId\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "4.4 State",
+      "selector_id": null,
+      "selector_name": "statecode",
+      "selector_css": "select[name=\"statecode\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "4.5 Board / University",
+      "selector_id": "universitycode",
+      "selector_name": "universitycode",
+      "selector_css": "#universitycode",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "4.6 Qualification Status",
+      "selector_id": null,
+      "selector_name": "typeResult",
+      "selector_css": "select[name=\"typeResult\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "4.7 Date of qualification completion",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#profile > div > form > div > div:nth-of-type(7) > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "4.8 Attempts",
+      "selector_id": null,
+      "selector_name": "attempts",
+      "selector_css": "input[name=\"attempts\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "4.9 Percentage / CGPA (For Grade add respective percentage value)",
+      "selector_id": null,
+      "selector_name": "percentageGrade",
+      "selector_css": "input[name=\"percentageGrade\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "4.10 Number of academic months",
+      "selector_id": null,
+      "selector_name": "courseDurationMonths",
+      "selector_css": "input[name=\"courseDurationMonths\"]",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "4.11 Class / Grade",
+      "selector_id": null,
+      "selector_name": "classGradeLookupId",
+      "selector_css": "select[name=\"classGradeLookupId\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "4.12 Mode",
+      "selector_id": null,
+      "selector_name": "modeLookupId",
+      "selector_css": "select[name=\"modeLookupId\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-select",
+      "autocomplete": null
+    },
+    {
+      "label": "4.13 Compulsory Subjects",
+      "selector_id": null,
+      "selector_name": "compulsorySubjects",
+      "selector_css": "select[name=\"compulsorySubjects\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "4.14 Optional Subjects",
+      "selector_id": null,
+      "selector_name": "optionalSubjects",
+      "selector_css": "select[name=\"optionalSubjects\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "FlgExperience",
+      "selector_id": null,
+      "selector_name": "flgExperience",
+      "selector_css": "input[type=\"radio\"][name=\"flgExperience\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "Yes",
+          "value": "Yes",
+          "selected": false
+        },
+        {
+          "text": "No",
+          "value": "No",
+          "selected": true
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "No",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-check-input RadioText",
+      "autocomplete": null
+    },
+    {
+      "label": "1. I hereby solemnly and sincerely affirm that each and every statement made and the entire information filled in the above online application form is true and correct to the best of my knowledge.",
+      "selector_id": "flexCheckChecked",
+      "selector_name": null,
+      "selector_css": "#flexCheckChecked",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "form-check-input mt-1",
+      "autocomplete": null
+    }
+  ]
+}

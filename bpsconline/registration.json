@@ -1,0 +1,1401 @@
+{
+  "total_fields": 24,
+  "required_fields_count": 0,
+  "page_url": "https://bpsconline.bihar.gov.in/candidate/registration",
+  "page_title": "BPSC: Online Application System",
+  "timestamp": "2025-11-07T13:56:29.980Z",
+  "fields": [
+    {
+      "label": "Email Id (ईमेल आईडी)",
+      "selector_id": "registrationFormControlInput1",
+      "selector_name": "userName",
+      "selector_css": "#registrationFormControlInput1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Email Id",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Enter OTP Received on Email (ईमेल पर प्राप्त ओटीपी दर्ज करें)",
+      "selector_id": "registrationFormControlInput3",
+      "selector_name": "otp_email",
+      "selector_css": "#registrationFormControlInput3",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter OTP Received on Email",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Mobile Number (मोबाइल नंबर) (Preferred Aadhaar Link)",
+      "selector_id": "registrationFormControlInput2",
+      "selector_name": "mobileNumber",
+      "selector_css": "#registrationFormControlInput2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Mobile Number",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 10
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Enter OTP Received on Mobile (मोबाइल पर प्राप्त ओटीपी दर्ज करें)",
+      "selector_id": "registrationFormControlInput4",
+      "selector_name": "otp_mobile",
+      "selector_css": "#registrationFormControlInput4",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter OTP Received on Mobile",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 6
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "New Password (नया पासवर्ड)",
+      "selector_id": "registrationFormControlInput5",
+      "selector_name": "password",
+      "selector_css": "#registrationFormControlInput5",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": false,
+      "placeholder": "New Password",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Password (पासवर्ड की पुष्टि कीजिये)",
+      "selector_id": "registrationFormControlInput6",
+      "selector_name": "confirmPassword",
+      "selector_css": "#registrationFormControlInput6",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": false,
+      "placeholder": "Confirm Password",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Candidate Name (परीक्षार्थी का नाम) (As per Matriculation Marksheet)",
+      "selector_id": "registrationFormControlInput1",
+      "selector_name": "candidateName",
+      "selector_css": "#registrationFormControlInput1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Enter Candidate Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control text-uppercase",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Verify Candidate Name (परीक्षार्थी का नाम सत्यापित करें)",
+      "selector_id": "registrationFormControlInput1",
+      "selector_name": "verifyCandidateName",
+      "selector_css": "#registrationFormControlInput1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Verify Candidate Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control text-uppercase",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Candidate Father Name (परीक्षार्थी के पिता का नाम) (As per Matriculation Marksheet)",
+      "selector_id": "registrationFormControlInput1",
+      "selector_name": "candidateFatherName",
+      "selector_css": "#registrationFormControlInput1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Candidate Father Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control text-uppercase",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Verify Candidate Father Name (परीक्षार्थी के पिता का नाम सत्यापित करें)",
+      "selector_id": "registrationFormControlInput2",
+      "selector_name": "verifyCandidateFatherName",
+      "selector_css": "#registrationFormControlInput2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Verify Candidate Father Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control text-uppercase",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Candidate Mother Name ( परीक्षार्थी की माता का नाम) (As per Matriculation Marksheet)",
+      "selector_id": "registrationFormControlInput1",
+      "selector_name": "candidateMotherName",
+      "selector_css": "#registrationFormControlInput1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Candidate Mother Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control text-uppercase",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Verify Candidate Mother Name (परीक्षार्थी की माता का नाम सत्यापित करें)",
+      "selector_id": "registrationFormControlInput1",
+      "selector_name": "verifyCandidateMotherName",
+      "selector_css": "#registrationFormControlInput1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Verify Candidate Mother Name",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control text-uppercase",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Candidate Date Of Birth (परीक्षार्थी की जन्मतिथि) (As per Matriculation Marksheet)",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#root > div > form > div > div > div:nth-of-type(2) > div:nth-of-type(8) > div > div:nth-of-type(2) > div > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "DD/MM/YYYY",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control bg-color ps-2",
+      "autocomplete": null
+    },
+    {
+      "label": "Verify Candidate Date Of Birth (परीक्षार्थी की जन्मतिथि सत्यापित करें)",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#root > div > form > div > div > div:nth-of-type(2) > div:nth-of-type(8) > div:nth-of-type(2) > div > div > div > div > input",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "DD/MM/YYYY",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control bg-color ps-2",
+      "autocomplete": null
+    },
+    {
+      "label": "Gender (लिंग)",
+      "selector_id": null,
+      "selector_name": "gender",
+      "selector_css": "select[name=\"gender\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Male",
+          "value": "328",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Female",
+          "value": "329",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Third Gender",
+          "value": "330",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select  bg-color",
+      "autocomplete": null
+    },
+    {
+      "label": "Verify Gender (लिंग सत्यापित करें)",
+      "selector_id": null,
+      "selector_name": "verifyGender",
+      "selector_css": "select[name=\"verifyGender\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Male",
+          "value": "328",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Female",
+          "value": "329",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Third Gender",
+          "value": "330",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select bg-color",
+      "autocomplete": null
+    },
+    {
+      "label": "ID Type (पहचान प्रकार)",
+      "selector_id": null,
+      "selector_name": "idTypeLookupId",
+      "selector_css": "select[name=\"idTypeLookupId\"]",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Aadhaar Card",
+          "value": "517",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pan Card",
+          "value": "518",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Driving Licence",
+          "value": "519",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select  bg-color",
+      "autocomplete": null
+    },
+    {
+      "label": "Which year did you complete your 10th/Matric?",
+      "selector_id": "sq",
+      "selector_name": "SQ1",
+      "selector_css": "#sq",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "2025",
+          "value": "2025",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2024",
+          "value": "2024",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2023",
+          "value": "2023",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2022",
+          "value": "2022",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2021",
+          "value": "2021",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2020",
+          "value": "2020",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2019",
+          "value": "2019",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2018",
+          "value": "2018",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2017",
+          "value": "2017",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2016",
+          "value": "2016",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2015",
+          "value": "2015",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2014",
+          "value": "2014",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2013",
+          "value": "2013",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2012",
+          "value": "2012",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2011",
+          "value": "2011",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2010",
+          "value": "2010",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2009",
+          "value": "2009",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2008",
+          "value": "2008",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2007",
+          "value": "2007",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2006",
+          "value": "2006",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2005",
+          "value": "2005",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2004",
+          "value": "2004",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2003",
+          "value": "2003",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2002",
+          "value": "2002",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2001",
+          "value": "2001",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2000",
+          "value": "2000",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1999",
+          "value": "1999",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1998",
+          "value": "1998",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1997",
+          "value": "1997",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1996",
+          "value": "1996",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1995",
+          "value": "1995",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1994",
+          "value": "1994",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1993",
+          "value": "1993",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1992",
+          "value": "1992",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1991",
+          "value": "1991",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1990",
+          "value": "1990",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1989",
+          "value": "1989",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1988",
+          "value": "1988",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1987",
+          "value": "1987",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1986",
+          "value": "1986",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1985",
+          "value": "1985",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1984",
+          "value": "1984",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1983",
+          "value": "1983",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1982",
+          "value": "1982",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1981",
+          "value": "1981",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1980",
+          "value": "1980",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1979",
+          "value": "1979",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1978",
+          "value": "1978",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1977",
+          "value": "1977",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1976",
+          "value": "1976",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1975",
+          "value": "1975",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1974",
+          "value": "1974",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1973",
+          "value": "1973",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1972",
+          "value": "1972",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1971",
+          "value": "1971",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1970",
+          "value": "1970",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1969",
+          "value": "1969",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1968",
+          "value": "1968",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1967",
+          "value": "1967",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1966",
+          "value": "1966",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1965",
+          "value": "1965",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1964",
+          "value": "1964",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1963",
+          "value": "1963",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1962",
+          "value": "1962",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1961",
+          "value": "1961",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1960",
+          "value": "1960",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select  bg-color",
+      "autocomplete": null
+    },
+    {
+      "label": "What is the short name of 10th Board?",
+      "selector_id": "sq",
+      "selector_name": "SQ2",
+      "selector_css": "#sq",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "IGCSC",
+          "value": "663",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ICSE",
+          "value": "664",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CBSE",
+          "value": "665",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "B.S.E.B.",
+          "value": "666",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "IB",
+          "value": "667",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "State Board",
+          "value": "726",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Others",
+          "value": "1166",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select  bg-color",
+      "autocomplete": null
+    },
+    {
+      "label": "What is your Seat/Roll number of 10th/Matric?",
+      "selector_id": "sq",
+      "selector_name": "SQ3",
+      "selector_css": "#sq",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control text-uppercase",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Which year did you complete your 12th/Intermediate/Diploma/ITI?",
+      "selector_id": "sq",
+      "selector_name": "SQ4",
+      "selector_css": "#sq",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Select",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "2025",
+          "value": "2025",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2024",
+          "value": "2024",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2023",
+          "value": "2023",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2022",
+          "value": "2022",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2021",
+          "value": "2021",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2020",
+          "value": "2020",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2019",
+          "value": "2019",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2018",
+          "value": "2018",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2017",
+          "value": "2017",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2016",
+          "value": "2016",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2015",
+          "value": "2015",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2014",
+          "value": "2014",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2013",
+          "value": "2013",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2012",
+          "value": "2012",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2011",
+          "value": "2011",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2010",
+          "value": "2010",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2009",
+          "value": "2009",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2008",
+          "value": "2008",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2007",
+          "value": "2007",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2006",
+          "value": "2006",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2005",
+          "value": "2005",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2004",
+          "value": "2004",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2003",
+          "value": "2003",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2002",
+          "value": "2002",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2001",
+          "value": "2001",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2000",
+          "value": "2000",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1999",
+          "value": "1999",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1998",
+          "value": "1998",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1997",
+          "value": "1997",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1996",
+          "value": "1996",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1995",
+          "value": "1995",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1994",
+          "value": "1994",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1993",
+          "value": "1993",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1992",
+          "value": "1992",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1991",
+          "value": "1991",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1990",
+          "value": "1990",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1989",
+          "value": "1989",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1988",
+          "value": "1988",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1987",
+          "value": "1987",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1986",
+          "value": "1986",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1985",
+          "value": "1985",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1984",
+          "value": "1984",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1983",
+          "value": "1983",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1982",
+          "value": "1982",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1981",
+          "value": "1981",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1980",
+          "value": "1980",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1979",
+          "value": "1979",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1978",
+          "value": "1978",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1977",
+          "value": "1977",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1976",
+          "value": "1976",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1975",
+          "value": "1975",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1974",
+          "value": "1974",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1973",
+          "value": "1973",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1972",
+          "value": "1972",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1971",
+          "value": "1971",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1970",
+          "value": "1970",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1969",
+          "value": "1969",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1968",
+          "value": "1968",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1967",
+          "value": "1967",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1966",
+          "value": "1966",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1965",
+          "value": "1965",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1964",
+          "value": "1964",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1963",
+          "value": "1963",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1962",
+          "value": "1962",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1961",
+          "value": "1961",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "1960",
+          "value": "1960",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-select  bg-color",
+      "autocomplete": null
+    },
+    {
+      "label": "What is your Blood Group?",
+      "selector_id": "sq",
+      "selector_name": "SQ5",
+      "selector_css": "#sq",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control text-uppercase",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Who is your favourite sportsperson?",
+      "selector_id": "sq",
+      "selector_name": "SQ6",
+      "selector_css": "#sq",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control text-uppercase",
+      "autocomplete": "off"
+    },
+    {
+      "label": "I hereby solemnly and sincerely affirm that each and every statement made and the entire information filled in the above online application form is true and correct to the best of my knowledge.",
+      "selector_id": null,
+      "selector_name": null,
+      "selector_css": "div#root > div > form > div > div > div:nth-of-type(2) > div:nth-of-type(13) > div > input",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": "form-check-input mt-2 f11 regis-declaration-checkbox",
+      "autocomplete": null
+    }
+  ]
+}

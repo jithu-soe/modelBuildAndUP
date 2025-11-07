@@ -1,0 +1,49 @@
+{
+  "total_fields": 2,
+  "required_fields_count": 0,
+  "page_url": "https://mpsconline.gov.in/candidate/login",
+  "page_title": "MPSC: Online Application System",
+  "timestamp": "2025-11-07T13:39:03.241Z",
+  "fields": [
+    {
+      "label": "Registered Email Id or Mobile Number",
+      "selector_id": "userName",
+      "selector_name": "userName",
+      "selector_css": "#userName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Registered Email Id or Mobile Number",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Password",
+      "selector_id": "password",
+      "selector_name": "Password",
+      "selector_css": "#password",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": true,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    }
+  ]
+}

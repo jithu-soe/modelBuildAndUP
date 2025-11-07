@@ -1,0 +1,4454 @@
+{
+  "total_fields": 37,
+  "required_fields_count": 0,
+  "page_url": "https://admissions.nid.edu/NIDA2026/Fill_ApplicationBDES.aspx",
+  "page_title": "NID: Admission 2026-27",
+  "timestamp": "2025-11-07T04:53:43.812Z",
+  "fields": [
+    {
+      "label": "I agree that the information filled in are correct and if found incorrect at any stage of the admission process, my candidature shall stand cancelled.",
+      "selector_id": "AgreeCheck",
+      "selector_name": "AgreeCheck",
+      "selector_css": "#AgreeCheck",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": true,
+      "disabled": false,
+      "readonly": false,
+      "class": "form-check-input",
+      "autocomplete": null
+    },
+    {
+      "label": "Exam Center",
+      "selector_id": "ExamCentre",
+      "selector_name": "ExamCentre",
+      "selector_css": "#ExamCentre",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "-- Select Exam Centre --",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Ahmedabad",
+          "value": "Ahmedabad",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bengaluru",
+          "value": "Bengaluru",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bhopal",
+          "value": "Bhopal",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bhubaneswar",
+          "value": "Bhubaneswar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chandigarh",
+          "value": "Chandigarh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chennai",
+          "value": "Chennai",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dehradun",
+          "value": "Dehradun",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hyderabad",
+          "value": "Hyderabad",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jaipur",
+          "value": "Jaipur",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jorhat",
+          "value": "Jorhat",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kochi",
+          "value": "Kochi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kolkata",
+          "value": "Kolkata",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lucknow",
+          "value": "Lucknow",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mumbai",
+          "value": "Mumbai",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nagpur",
+          "value": "Nagpur",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "New Delhi",
+          "value": "New Delhi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Patna",
+          "value": "Patna",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Place of Birth (city, town, village)",
+      "selector_id": "BirthPlace",
+      "selector_name": "BirthPlace",
+      "selector_css": "#BirthPlace",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "District",
+      "selector_id": "BirthCity",
+      "selector_name": "BirthCity",
+      "selector_css": "#BirthCity",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "State",
+      "selector_id": "BirthState",
+      "selector_name": "BirthState",
+      "selector_css": "#BirthState",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select State--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Andaman and Nicobar Islands",
+          "value": "Andaman and Nicobar Islands",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Andhra Pradesh",
+          "value": "Andhra Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Arunachal Pradesh",
+          "value": "Arunachal Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Assam",
+          "value": "Assam",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bihar",
+          "value": "Bihar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chandigarh",
+          "value": "Chandigarh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chhattisgarh",
+          "value": "Chhattisgarh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dadra and Nagar Haveli",
+          "value": "Dadra and Nagar Haveli",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Daman and Diu",
+          "value": "Daman and Diu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Delhi",
+          "value": "Delhi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Goa",
+          "value": "Goa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gujarat",
+          "value": "Gujarat",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Haryana",
+          "value": "Haryana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Himachal Pradesh",
+          "value": "Himachal Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jammu and Kashmir",
+          "value": "Jammu and Kashmir",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jharkhand",
+          "value": "Jharkhand",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Karnataka",
+          "value": "Karnataka",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kerala",
+          "value": "Kerala",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lakshadweep",
+          "value": "Lakshadweep",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ladakh",
+          "value": "Ladakh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Madhya Pradesh",
+          "value": "Madhya Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Maharashtra",
+          "value": "Maharashtra",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Manipur",
+          "value": "Manipur",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Meghalaya",
+          "value": "Meghalaya",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mizoram",
+          "value": "Mizoram",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nagaland",
+          "value": "Nagaland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Orissa",
+          "value": "Orissa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pondicherry",
+          "value": "Pondicherry",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Punjab",
+          "value": "Punjab",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rajasthan",
+          "value": "Rajasthan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sikkim",
+          "value": "Sikkim",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tamil Nadu",
+          "value": "Tamil Nadu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tripura",
+          "value": "Tripura",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Telangana",
+          "value": "Telangana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uttrakhand",
+          "value": "Uttarakhand",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uttar Pradesh",
+          "value": "Uttar Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "West Bengal",
+          "value": "West Bengal",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other-Outside India",
+          "value": "Other-Outside India",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Father's Name",
+      "selector_id": "FFname",
+      "selector_name": "FFname",
+      "selector_css": "#FFname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Mother's Name",
+      "selector_id": "FMname",
+      "selector_name": "FMname",
+      "selector_css": "#FMname",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "less than 8 lacs",
+      "selector_id": null,
+      "selector_name": "FamilyIncome",
+      "selector_css": "input[type=\"radio\"][name=\"FamilyIncome\"]",
+      "tag_name": "radio-group",
+      "input_type": "radio",
+      "options": [
+        {
+          "text": "less than 8 lacs",
+          "value": "less than 8 lacs",
+          "selected": false
+        },
+        {
+          "text": "between 8 lacs and 12 lacs",
+          "value": "between 8 lacs and 12 lacs",
+          "selected": false
+        },
+        {
+          "text": "more than 12 lacs",
+          "value": "more than 12 lacs",
+          "selected": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "Blood Group of the Applicant",
+      "selector_id": "BloodGroup",
+      "selector_name": "BloodGroup",
+      "selector_css": "#BloodGroup",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "A+",
+          "value": "A+",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "A-",
+          "value": "A-",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "B+",
+          "value": "B+",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "B-",
+          "value": "B-",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "AB+",
+          "value": "AB+",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "AB-",
+          "value": "AB-",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "O+",
+          "value": "O+",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "O-",
+          "value": "O-",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Address Line 1",
+      "selector_id": "CAddress1",
+      "selector_name": "CAddress1",
+      "selector_css": "#CAddress1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Address Line 2",
+      "selector_id": "CAddress2",
+      "selector_name": "CAddress2",
+      "selector_css": "#CAddress2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "City",
+      "selector_id": "CCity",
+      "selector_name": "CCity",
+      "selector_css": "#CCity",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Pincode/Zipcode",
+      "selector_id": "CPincode",
+      "selector_name": "CPincode",
+      "selector_css": "#CPincode",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Country",
+      "selector_id": "CCountryFrom",
+      "selector_name": "CCountryFrom",
+      "selector_css": "#CCountryFrom",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select Country--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "India",
+          "value": "India",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other",
+          "value": "Other",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Other Country",
+      "selector_id": "CCountry",
+      "selector_name": "CCountry",
+      "selector_css": "#CCountry",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select Country--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Afghanistan",
+          "value": "Afghanistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Albania",
+          "value": "Albania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Algeria",
+          "value": "Algeria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Andorra",
+          "value": "Andorra",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Angola",
+          "value": "Angola",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Antigua & Deps",
+          "value": "Antigua & Deps",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Armenia",
+          "value": "Armenia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Australia",
+          "value": "Australia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Austria",
+          "value": "Austria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Azerbaijan",
+          "value": "Azerbaijan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bahamas",
+          "value": "Bahamas",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bahrain",
+          "value": "Bahrain",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bangladesh",
+          "value": "Bangladesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Barbados",
+          "value": "Barbados",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Belarus",
+          "value": "Belarus",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Belgium",
+          "value": "Belgium",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Belize",
+          "value": "Belize",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Benin",
+          "value": "Benin",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bhutan",
+          "value": "Bhutan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bolivia",
+          "value": "Bolivia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bosnia Herzegovina",
+          "value": "Bosnia Herzegovina",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Botswana",
+          "value": "Botswana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Brazil",
+          "value": "Brazil",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Brunei",
+          "value": "Brunei",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bulgaria",
+          "value": "Bulgaria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Burkina",
+          "value": "Burkina",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Burundi",
+          "value": "Burundi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cambodia",
+          "value": "Cambodia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cameroon",
+          "value": "Cameroon",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Canada",
+          "value": "Canada",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cape Verde",
+          "value": "Cape Verde",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Central African Rep",
+          "value": "Central African Rep",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chad",
+          "value": "Chad",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "China",
+          "value": "China",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Colombia",
+          "value": "Colombia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Comoros",
+          "value": "Comoros",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Congo",
+          "value": "Congo",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Congo {Democratic Rep}",
+          "value": "Congo {Democratic Rep}",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Costa Rica",
+          "value": "Costa Rica",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Croatia",
+          "value": "Croatia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cuba",
+          "value": "Cuba",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cyprus",
+          "value": "Cyprus",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Czech Republic",
+          "value": "Czech Republic",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Denmark",
+          "value": "Denmark",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Djibouti",
+          "value": "Djibouti",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dominica",
+          "value": "Dominica",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dominican Republic",
+          "value": "Dominican Republic",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "East Timor",
+          "value": "East Timor",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ecuador",
+          "value": "Ecuador",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Egypt",
+          "value": "Egypt",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "El Salvador",
+          "value": "El Salvador",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Equatorial Guinea",
+          "value": "Equatorial Guinea",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Eritrea",
+          "value": "Eritrea",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Estonia",
+          "value": "Estonia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ethiopia",
+          "value": "Ethiopia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Fiji",
+          "value": "Fiji",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Finland",
+          "value": "Finland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "France",
+          "value": "France",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gabon",
+          "value": "Gabon",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gambia",
+          "value": "Gambia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Georgia",
+          "value": "Georgia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Germany",
+          "value": "Germany",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ghana",
+          "value": "Ghana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Greece",
+          "value": "Greece",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Grenada",
+          "value": "Grenada",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guatemala",
+          "value": "Guatemala",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guinea",
+          "value": "Guinea",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guinea-Bissau",
+          "value": "Guinea-Bissau",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guyana",
+          "value": "Guyana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Haiti",
+          "value": "Haiti",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Honduras",
+          "value": "Honduras",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hungary",
+          "value": "Hungary",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Iceland",
+          "value": "Iceland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Indonesia",
+          "value": "Indonesia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Iran",
+          "value": "Iran",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Iraq",
+          "value": "Iraq",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ireland {Republic}",
+          "value": "Ireland {Republic}",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Israel",
+          "value": "Israel",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Italy",
+          "value": "Italy",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ivory Coast",
+          "value": "Ivory Coast",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jamaica",
+          "value": "Jamaica",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Japan",
+          "value": "Japan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jordan",
+          "value": "Jordan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kazakhstan",
+          "value": "Kazakhstan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kenya",
+          "value": "Kenya",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kiribati",
+          "value": "Kiribati",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Korea North",
+          "value": "Korea North",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Korea South",
+          "value": "Korea South",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kosovo",
+          "value": "Kosovo",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kuwait",
+          "value": "Kuwait",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kyrgyzstan",
+          "value": "Kyrgyzstan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Laos",
+          "value": "Laos",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Latvia",
+          "value": "Latvia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lebanon",
+          "value": "Lebanon",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lesotho",
+          "value": "Lesotho",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Liberia",
+          "value": "Liberia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Libya",
+          "value": "Libya",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Liechtenstein",
+          "value": "Liechtenstein",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lithuania",
+          "value": "Lithuania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Luxembourg",
+          "value": "Luxembourg",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Macedonia",
+          "value": "Macedonia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Madagascar",
+          "value": "Madagascar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Malawi",
+          "value": "Malawi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Malaysia",
+          "value": "Malaysia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Maldives",
+          "value": "Maldives",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mali",
+          "value": "Mali",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Malta",
+          "value": "Malta",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Marshall Islands",
+          "value": "Marshall Islands",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mauritania",
+          "value": "Mauritania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mauritius",
+          "value": "Mauritius",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mexico",
+          "value": "Mexico",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Micronesia",
+          "value": "Micronesia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Moldova",
+          "value": "Moldova",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Monaco",
+          "value": "Monaco",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mongolia",
+          "value": "Mongolia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Montenegro",
+          "value": "Montenegro",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Morocco",
+          "value": "Morocco",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mozambique",
+          "value": "Mozambique",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Myanmar, {Burma}",
+          "value": "Myanmar, {Burma}",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Namibia",
+          "value": "Namibia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nauru",
+          "value": "Nauru",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nepal",
+          "value": "Nepal",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Netherlands",
+          "value": "Netherlands",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "New Zealand",
+          "value": "New Zealand",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nicaragua",
+          "value": "Nicaragua",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Niger",
+          "value": "Niger",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nigeria",
+          "value": "Nigeria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Norway",
+          "value": "Norway",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Oman",
+          "value": "Oman",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pakistan",
+          "value": "Pakistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Palau",
+          "value": "Palau",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Panama",
+          "value": "Panama",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Papua New Guinea",
+          "value": "Papua New Guinea",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Paraguay",
+          "value": "Paraguay",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Peru",
+          "value": "Peru",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Philippines",
+          "value": "Philippines",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Poland",
+          "value": "Poland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Portugal",
+          "value": "Portugal",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Qatar",
+          "value": "Qatar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Romania",
+          "value": "Romania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Russian Federation",
+          "value": "Russian Federation",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rwanda",
+          "value": "Rwanda",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "St Kitts & Nevis",
+          "value": "St Kitts & Nevis",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "St Lucia",
+          "value": "St Lucia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Saint Vincent & the Grenadines",
+          "value": "Saint Vincent & the Grenadines",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Samoa",
+          "value": "Samoa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "San Marino",
+          "value": "San Marino",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sao Tome & Principe",
+          "value": "Sao Tome & Principe",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Saudi Arabia",
+          "value": "Saudi Arabia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Senegal",
+          "value": "Senegal",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Serbia",
+          "value": "Serbia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Seychelles",
+          "value": "Seychelles",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sierra Leone",
+          "value": "Sierra Leone",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Singapore",
+          "value": "Singapore",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Slovakia",
+          "value": "Slovakia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Slovenia",
+          "value": "Slovenia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Solomon Islands",
+          "value": "Solomon Islands",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Somalia",
+          "value": "Somalia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "South Africa",
+          "value": "South Africa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "South Sudan",
+          "value": "South Sudan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Spain",
+          "value": "Spain",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sri Lanka",
+          "value": "Sri Lanka",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sudan",
+          "value": "Sudan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Suriname",
+          "value": "Suriname",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Swaziland",
+          "value": "Swaziland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sweden",
+          "value": "Sweden",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Switzerland",
+          "value": "Switzerland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Syria",
+          "value": "Syria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Taiwan",
+          "value": "Taiwan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tajikistan",
+          "value": "Tajikistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tanzania",
+          "value": "Tanzania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Thailand",
+          "value": "Thailand",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Togo",
+          "value": "Togo",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tonga",
+          "value": "Tonga",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Trinidad & Tobago",
+          "value": "Trinidad & Tobago",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tunisia",
+          "value": "Tunisia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Turkey",
+          "value": "Turkey",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Turkmenistan",
+          "value": "Turkmenistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tuvalu",
+          "value": "Tuvalu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uganda",
+          "value": "Uganda",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ukraine",
+          "value": "Ukraine",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "United Arab Emirates",
+          "value": "United Arab Emirates",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "United Kingdom",
+          "value": "United Kingdom",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "United States",
+          "value": "United States",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uruguay",
+          "value": "Uruguay",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uzbekistan",
+          "value": "Uzbekistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vanuatu",
+          "value": "Vanuatu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vatican City",
+          "value": "Vatican City",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Venezuela",
+          "value": "Venezuela",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vietnam",
+          "value": "Vietnam",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yemen",
+          "value": "Yemen",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Zambia",
+          "value": "Zambia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Zimbabwe",
+          "value": "Zimbabwe",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "State",
+      "selector_id": "CState_Overseas",
+      "selector_name": "CState_Overseas",
+      "selector_css": "#CState_Overseas",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "State",
+      "selector_id": "CState",
+      "selector_name": "CState",
+      "selector_css": "#CState",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Andaman and Nicobar Islands",
+          "value": "Andaman and Nicobar Islands",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Andhra Pradesh",
+          "value": "Andhra Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Arunachal Pradesh",
+          "value": "Arunachal Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Assam",
+          "value": "Assam",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bihar",
+          "value": "Bihar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chandigarh",
+          "value": "Chandigarh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chattisgarh",
+          "value": "Chattisgarh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dadar and Nagar Havelli",
+          "value": "Dadar and Nagar Havelli",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Daman and Diu",
+          "value": "Daman and Diu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Delhi",
+          "value": "Delhi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Goa",
+          "value": "Goa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gujarat",
+          "value": "Gujarat",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Haryana",
+          "value": "Haryana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Himachal Pradesh",
+          "value": "Himachal Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jammu & Kashmir",
+          "value": "Jammu & Kashmir",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jharkhand",
+          "value": "Jharkhand",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Karnataka",
+          "value": "Karnataka",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kerala",
+          "value": "Kerala",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ladakh",
+          "value": "Ladakh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lakshadweep",
+          "value": "Lakshadweep",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Madhya Pradesh",
+          "value": "Madhya Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Maharashtra",
+          "value": "Maharashtra",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Manipur",
+          "value": "Manipur",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Meghalaya",
+          "value": "Meghalaya",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mizoram",
+          "value": "Mizoram",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nagaland",
+          "value": "Nagaland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Orissa",
+          "value": "Orissa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Puducherry",
+          "value": "Puducherry",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Punjab",
+          "value": "Punjab",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rajasthan",
+          "value": "Rajasthan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sikkim",
+          "value": "Sikkim",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tamil Nadu",
+          "value": "Tamil Nadu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Telangana",
+          "value": "Telangana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tripura",
+          "value": "Tripura",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uttarakhand",
+          "value": "Uttarakhand",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uttar Pradesh",
+          "value": "Uttar Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "West Bengal",
+          "value": "West Bengal",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Permanent Address",
+      "selector_id": "ChkSameAddress",
+      "selector_name": "ChkSameAddress",
+      "selector_css": "#ChkSameAddress",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "Address Line 1",
+      "selector_id": "PAddress1",
+      "selector_name": "PAddress1",
+      "selector_css": "#PAddress1",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Address Line 2",
+      "selector_id": "PAddress2",
+      "selector_name": "PAddress2",
+      "selector_css": "#PAddress2",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "City",
+      "selector_id": "PCity",
+      "selector_name": "PCity",
+      "selector_css": "#PCity",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Pincode/Zipcode",
+      "selector_id": "PPincode",
+      "selector_name": "PPincode",
+      "selector_css": "#PPincode",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Country",
+      "selector_id": "PCountryFrom",
+      "selector_name": "PCountryFrom",
+      "selector_css": "#PCountryFrom",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select Country--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "India",
+          "value": "India",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other",
+          "value": "Other",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Other Country",
+      "selector_id": "PCountry",
+      "selector_name": "PCountry",
+      "selector_css": "#PCountry",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select Country--",
+          "value": "",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Afghanistan",
+          "value": "Afghanistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Albania",
+          "value": "Albania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Algeria",
+          "value": "Algeria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Andorra",
+          "value": "Andorra",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Angola",
+          "value": "Angola",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Antigua & Deps",
+          "value": "Antigua & Deps",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Armenia",
+          "value": "Armenia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Australia",
+          "value": "Australia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Austria",
+          "value": "Austria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Azerbaijan",
+          "value": "Azerbaijan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bahamas",
+          "value": "Bahamas",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bahrain",
+          "value": "Bahrain",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bangladesh",
+          "value": "Bangladesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Barbados",
+          "value": "Barbados",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Belarus",
+          "value": "Belarus",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Belgium",
+          "value": "Belgium",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Belize",
+          "value": "Belize",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Benin",
+          "value": "Benin",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bhutan",
+          "value": "Bhutan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bolivia",
+          "value": "Bolivia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bosnia Herzegovina",
+          "value": "Bosnia Herzegovina",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Botswana",
+          "value": "Botswana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Brazil",
+          "value": "Brazil",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Brunei",
+          "value": "Brunei",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bulgaria",
+          "value": "Bulgaria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Burkina",
+          "value": "Burkina",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Burundi",
+          "value": "Burundi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cambodia",
+          "value": "Cambodia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cameroon",
+          "value": "Cameroon",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Canada",
+          "value": "Canada",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cape Verde",
+          "value": "Cape Verde",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Central African Rep",
+          "value": "Central African Rep",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chad",
+          "value": "Chad",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "China",
+          "value": "China",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Colombia",
+          "value": "Colombia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Comoros",
+          "value": "Comoros",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Congo",
+          "value": "Congo",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Congo {Democratic Rep}",
+          "value": "Congo {Democratic Rep}",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Costa Rica",
+          "value": "Costa Rica",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Croatia",
+          "value": "Croatia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cuba",
+          "value": "Cuba",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Cyprus",
+          "value": "Cyprus",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Czech Republic",
+          "value": "Czech Republic",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Denmark",
+          "value": "Denmark",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Djibouti",
+          "value": "Djibouti",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dominica",
+          "value": "Dominica",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dominican Republic",
+          "value": "Dominican Republic",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "East Timor",
+          "value": "East Timor",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ecuador",
+          "value": "Ecuador",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Egypt",
+          "value": "Egypt",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "El Salvador",
+          "value": "El Salvador",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Equatorial Guinea",
+          "value": "Equatorial Guinea",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Eritrea",
+          "value": "Eritrea",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Estonia",
+          "value": "Estonia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ethiopia",
+          "value": "Ethiopia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Fiji",
+          "value": "Fiji",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Finland",
+          "value": "Finland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "France",
+          "value": "France",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gabon",
+          "value": "Gabon",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gambia",
+          "value": "Gambia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Georgia",
+          "value": "Georgia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Germany",
+          "value": "Germany",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ghana",
+          "value": "Ghana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Greece",
+          "value": "Greece",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Grenada",
+          "value": "Grenada",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guatemala",
+          "value": "Guatemala",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guinea",
+          "value": "Guinea",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guinea-Bissau",
+          "value": "Guinea-Bissau",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Guyana",
+          "value": "Guyana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Haiti",
+          "value": "Haiti",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Honduras",
+          "value": "Honduras",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Hungary",
+          "value": "Hungary",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Iceland",
+          "value": "Iceland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Indonesia",
+          "value": "Indonesia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Iran",
+          "value": "Iran",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Iraq",
+          "value": "Iraq",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ireland {Republic}",
+          "value": "Ireland {Republic}",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Israel",
+          "value": "Israel",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Italy",
+          "value": "Italy",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ivory Coast",
+          "value": "Ivory Coast",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jamaica",
+          "value": "Jamaica",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Japan",
+          "value": "Japan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jordan",
+          "value": "Jordan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kazakhstan",
+          "value": "Kazakhstan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kenya",
+          "value": "Kenya",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kiribati",
+          "value": "Kiribati",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Korea North",
+          "value": "Korea North",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Korea South",
+          "value": "Korea South",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kosovo",
+          "value": "Kosovo",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kuwait",
+          "value": "Kuwait",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kyrgyzstan",
+          "value": "Kyrgyzstan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Laos",
+          "value": "Laos",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Latvia",
+          "value": "Latvia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lebanon",
+          "value": "Lebanon",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lesotho",
+          "value": "Lesotho",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Liberia",
+          "value": "Liberia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Libya",
+          "value": "Libya",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Liechtenstein",
+          "value": "Liechtenstein",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lithuania",
+          "value": "Lithuania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Luxembourg",
+          "value": "Luxembourg",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Macedonia",
+          "value": "Macedonia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Madagascar",
+          "value": "Madagascar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Malawi",
+          "value": "Malawi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Malaysia",
+          "value": "Malaysia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Maldives",
+          "value": "Maldives",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mali",
+          "value": "Mali",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Malta",
+          "value": "Malta",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Marshall Islands",
+          "value": "Marshall Islands",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mauritania",
+          "value": "Mauritania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mauritius",
+          "value": "Mauritius",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mexico",
+          "value": "Mexico",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Micronesia",
+          "value": "Micronesia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Moldova",
+          "value": "Moldova",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Monaco",
+          "value": "Monaco",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mongolia",
+          "value": "Mongolia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Montenegro",
+          "value": "Montenegro",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Morocco",
+          "value": "Morocco",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mozambique",
+          "value": "Mozambique",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Myanmar, {Burma}",
+          "value": "Myanmar, {Burma}",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Namibia",
+          "value": "Namibia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nauru",
+          "value": "Nauru",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nepal",
+          "value": "Nepal",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Netherlands",
+          "value": "Netherlands",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "New Zealand",
+          "value": "New Zealand",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nicaragua",
+          "value": "Nicaragua",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Niger",
+          "value": "Niger",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nigeria",
+          "value": "Nigeria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Norway",
+          "value": "Norway",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Oman",
+          "value": "Oman",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Pakistan",
+          "value": "Pakistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Palau",
+          "value": "Palau",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Panama",
+          "value": "Panama",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Papua New Guinea",
+          "value": "Papua New Guinea",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Paraguay",
+          "value": "Paraguay",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Peru",
+          "value": "Peru",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Philippines",
+          "value": "Philippines",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Poland",
+          "value": "Poland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Portugal",
+          "value": "Portugal",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Qatar",
+          "value": "Qatar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Romania",
+          "value": "Romania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Russian Federation",
+          "value": "Russian Federation",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rwanda",
+          "value": "Rwanda",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "St Kitts & Nevis",
+          "value": "St Kitts & Nevis",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "St Lucia",
+          "value": "St Lucia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Saint Vincent & the Grenadines",
+          "value": "Saint Vincent & the Grenadines",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Samoa",
+          "value": "Samoa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "San Marino",
+          "value": "San Marino",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sao Tome & Principe",
+          "value": "Sao Tome & Principe",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Saudi Arabia",
+          "value": "Saudi Arabia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Senegal",
+          "value": "Senegal",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Serbia",
+          "value": "Serbia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Seychelles",
+          "value": "Seychelles",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sierra Leone",
+          "value": "Sierra Leone",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Singapore",
+          "value": "Singapore",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Slovakia",
+          "value": "Slovakia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Slovenia",
+          "value": "Slovenia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Solomon Islands",
+          "value": "Solomon Islands",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Somalia",
+          "value": "Somalia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "South Africa",
+          "value": "South Africa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "South Sudan",
+          "value": "South Sudan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Spain",
+          "value": "Spain",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sri Lanka",
+          "value": "Sri Lanka",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sudan",
+          "value": "Sudan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Suriname",
+          "value": "Suriname",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Swaziland",
+          "value": "Swaziland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sweden",
+          "value": "Sweden",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Switzerland",
+          "value": "Switzerland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Syria",
+          "value": "Syria",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Taiwan",
+          "value": "Taiwan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tajikistan",
+          "value": "Tajikistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tanzania",
+          "value": "Tanzania",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Thailand",
+          "value": "Thailand",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Togo",
+          "value": "Togo",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tonga",
+          "value": "Tonga",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Trinidad & Tobago",
+          "value": "Trinidad & Tobago",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tunisia",
+          "value": "Tunisia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Turkey",
+          "value": "Turkey",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Turkmenistan",
+          "value": "Turkmenistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tuvalu",
+          "value": "Tuvalu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uganda",
+          "value": "Uganda",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ukraine",
+          "value": "Ukraine",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "United Arab Emirates",
+          "value": "United Arab Emirates",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "United Kingdom",
+          "value": "United Kingdom",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "United States",
+          "value": "United States",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uruguay",
+          "value": "Uruguay",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uzbekistan",
+          "value": "Uzbekistan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vanuatu",
+          "value": "Vanuatu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vatican City",
+          "value": "Vatican City",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Venezuela",
+          "value": "Venezuela",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Vietnam",
+          "value": "Vietnam",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Yemen",
+          "value": "Yemen",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Zambia",
+          "value": "Zambia",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Zimbabwe",
+          "value": "Zimbabwe",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "State",
+      "selector_id": "PState_Overseas",
+      "selector_name": "PState_Overseas",
+      "selector_css": "#PState_Overseas",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "State",
+      "selector_id": "PState",
+      "selector_name": "PState",
+      "selector_css": "#PState",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Andaman and Nicobar Islands",
+          "value": "Andaman and Nicobar Islands",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Andhra Pradesh",
+          "value": "Andhra Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Arunachal Pradesh",
+          "value": "Arunachal Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Assam",
+          "value": "Assam",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Bihar",
+          "value": "Bihar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chandigarh",
+          "value": "Chandigarh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Chattisgarh",
+          "value": "Chattisgarh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Dadar and Nagar Havelli",
+          "value": "Dadar and Nagar Havelli",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Daman and Diu",
+          "value": "Daman and Diu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Delhi",
+          "value": "Delhi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Goa",
+          "value": "Goa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Gujarat",
+          "value": "Gujarat",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Haryana",
+          "value": "Haryana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Himachal Pradesh",
+          "value": "Himachal Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jammu & Kashmir",
+          "value": "Jammu & Kashmir",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Jharkhand",
+          "value": "Jharkhand",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Karnataka",
+          "value": "Karnataka",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Kerala",
+          "value": "Kerala",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Lakshadweep",
+          "value": "Lakshadweep",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Ladakh",
+          "value": "Ladakh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Madhya Pradesh",
+          "value": "Madhya Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Maharashtra",
+          "value": "Maharashtra",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Manipur",
+          "value": "Manipur",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Meghalaya",
+          "value": "Meghalaya",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Mizoram",
+          "value": "Mizoram",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Nagaland",
+          "value": "Nagaland",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Orissa",
+          "value": "Orissa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Puducherry",
+          "value": "Puducherry",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Punjab",
+          "value": "Punjab",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Rajasthan",
+          "value": "Rajasthan",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Sikkim",
+          "value": "Sikkim",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tamil Nadu",
+          "value": "Tamil Nadu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Telangana",
+          "value": "Telangana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Tripura",
+          "value": "Tripura",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uttaranchal",
+          "value": "Uttaranchal",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Uttar Pradesh",
+          "value": "Uttar Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "West Bengal",
+          "value": "West Bengal",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Board",
+      "selector_id": "Board",
+      "selector_name": "Board",
+      "selector_css": "#Board",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "A.P. OPEN SCHOOL SOCIETY GOVT. OF ANDHRA PRADESH",
+          "value": "A.P. OPEN SCHOOL SOCIETY GOVT. OF ANDHRA PRADESH",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ALIGARH MUSLIM UNIVERSITY BOARD OF SECONDARY & SR. SECONDARY EDUCATION",
+          "value": "ALIGARH MUSLIM UNIVERSITY BOARD OF SECONDARY & SR. SECONDARY EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ASSAM HIGHER SECONDARY EDUCATION COUNCIL",
+          "value": "ASSAM HIGHER SECONDARY EDUCATION COUNCIL",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BIHAR BOARD OF OPEN SCHOOLING & EXAMINATION",
+          "value": "BIHAR BOARD OF OPEN SCHOOLING & EXAMINATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BIHAR SCHOOL EXAMINATION BOARD",
+          "value": "BIHAR SCHOOL EXAMINATION BOARD",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BOARD OF INTERMEDIATE EDUCATION (ANDHRA PRADESH)",
+          "value": "BOARD OF INTERMEDIATE EDUCATION (ANDHRA PRADESH)",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BOARD OF SCHOOL EDUCATION HARYANA",
+          "value": "BOARD OF SCHOOL EDUCATION HARYANA",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BOARD OF SCHOOL EDUCATION UTTARAKHAND",
+          "value": "BOARD OF SCHOOL EDUCATION UTTARAKHAND",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BOARD OF SECONDARY EDUCATION (ANDHRA PRADESH)",
+          "value": "BOARD OF SECONDARY EDUCATION (ANDHRA PRADESH)",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BOARD OF SECONDARY EDUCATION RAJASTHAN",
+          "value": "BOARD OF SECONDARY EDUCATION RAJASTHAN",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BOARD OF SECONDARY EDUCATION, ASSAM",
+          "value": "BOARD OF SECONDARY EDUCATION, ASSAM",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BOARD OF SECONDARY EDUCATION, MADHYA PRADESH",
+          "value": "BOARD OF SECONDARY EDUCATION, MADHYA PRADESH",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BOARD OF SECONDARY EDUCATION, MANIPUR",
+          "value": "BOARD OF SECONDARY EDUCATION, MANIPUR",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BOARD OF SECONDARY EDUCATION, ODISHA",
+          "value": "BOARD OF SECONDARY EDUCATION, ODISHA",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BOARD OF SECONDARY EDUCATION, TELANGANA STATE",
+          "value": "BOARD OF SECONDARY EDUCATION, TELANGANA STATE",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CAMBRIDGE ASSESSMENT INTERNATIONAL EDUCATION",
+          "value": "CAMBRIDGE ASSESSMENT INTERNATIONAL EDUCATION ",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CAMBRIDGE INTERNATIONAL EXAMINATIONS",
+          "value": "CAMBRIDGE INTERNATIONAL EXAMINATIONS",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CENTRAL BOARD OF SECONDARY EDUCATION",
+          "value": "CENTRAL BOARD OF SECONDARY EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHHATISGARH BOARD OF SECONDARY EDUCATION",
+          "value": "CHHATISGARH BOARD OF SECONDARY EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CHHATISGARH STATE OPEN SCHOOL",
+          "value": "CHHATISGARH STATE OPEN SCHOOL",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "COUNCIL FOR THE INDIAN SCHOOL CERTIFICATE EXAMINATIONS",
+          "value": "COUNCIL FOR THE INDIAN SCHOOL CERTIFICATE EXAMINATIONS",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "COUNCIL FOR THE INDIAN SCHOOL CERTIFICATE EXAMINATIONS",
+          "value": "COUNCIL FOR THE INDIAN SCHOOL CERTIFICATE EXAMINATIONS",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "COUNCIL OF HIGHER SECONDARY EDUCATION, ODISHA",
+          "value": "COUNCIL OF HIGHER SECONDARY EDUCATION, ODISHA",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DELHI BOARD OF SENIOR SECONDARY EDUCATION",
+          "value": "DELHI BOARD OF SENIOR SECONDARY EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "DELHI STATE OPEN SCHOOL",
+          "value": "DELHI STATE OPEN SCHOOL",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GOA BOARD OF SECONDARY AND HIGHER SECONDARY EDUCATION",
+          "value": "GOA BOARD OF SECONDARY AND HIGHER SECONDARY EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GOVT. OF KARNATAKA DEPT. OF PRE-UNIVERSITY EDUCATION",
+          "value": "GOVT. OF KARNATAKA DEPT. OF PRE-UNIVERSITY EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GUJARAT SECONDARY AND HIGHER SECONDARY EDUCATION BOARD",
+          "value": "GUJARAT SECONDARY AND HIGHER SECONDARY EDUCATION BOARD",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GUJARAT TECHNOLOGICAL UNIVERSITY",
+          "value": "GUJARAT TECHNOLOGICAL UNIVERSITY",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "H. P. BOARD OF SCHOOL EDUCATION",
+          "value": "H. P. BOARD OF SCHOOL EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "HIGHER SECONDARY BOARD",
+          "value": "HIGHER SECONDARY BOARD",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "INDIAN COUNCIL OF SECONDARY EDUCATION / INDIAN SCHOOL CERTIFICATE EXAMINATION",
+          "value": "INDIAN COUNCIL OF SECONDARY EDUCATION / INDIAN SCHOOL CERTIFICATE EXAMINATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "INTERNATIONAL BACCALAUREATE",
+          "value": "INTERNATIONAL BACCALAUREATE",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "INTERNATIONAL GENERAL CERTIFICATE OF SECONDARY EDUCATION",
+          "value": "INTERNATIONAL GENERAL CERTIFICATE OF SECONDARY EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JAMMU & KASHMIR BOARD OF SCHOOL EDUCATION",
+          "value": "JAMMU & KASHMIR BOARD OF SCHOOL EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "JAMMU AND KASHMIR STATE OPEN SCHOOL",
+          "value": "JAMMU AND KASHMIR STATE OPEN SCHOOL",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KARNATAKA SECONDARY EDUCATION, EXAMINATION BOARD",
+          "value": "KARNATAKA SECONDARY EDUCATION, EXAMINATION BOARD",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KERALA BOARD OF HIGHER SECONDARY EDUCATION",
+          "value": "KERALA BOARD OF HIGHER SECONDARY EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "KERALA BOARD OF PUBLIC EXAMINATION , KERALA",
+          "value": "KERALA BOARD OF PUBLIC EXAMINATION , KERALA",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "M.P. STATE OPEN SCHOOL EDUCATION BOARD",
+          "value": "M.P. STATE OPEN SCHOOL EDUCATION BOARD",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MAHARASHTRA STATE BOARD OF SECONDARY AND HIGHER SECONDARY EDUCATION",
+          "value": "MAHARASHTRA STATE BOARD OF SECONDARY AND HIGHER SECONDARY EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MEGHALAYA BOARD OF SCHOOL EDUCATION",
+          "value": "MEGHALAYA BOARD OF SCHOOL EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "MIZORAM BOARD OF SCHOOL EDUCATION",
+          "value": "MIZORAM BOARD OF SCHOOL EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NAGALAND BOARD OF SCHOOL EDUCATION",
+          "value": "NAGALAND BOARD OF SCHOOL EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "NATIONAL INSTITUTE OF OPEN SCHOOLING",
+          "value": "NATIONAL INSTITUTE OF OPEN SCHOOLING",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PUNJAB SCHOOL EDUCATION BOARD",
+          "value": "PUNJAB SCHOOL EDUCATION BOARD",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "STATE BOARD OF SCHOOL EXAMINATIONS(SEC.) & BOARD OF HIGHER SECONDARY EXAMINATIONS, TAMIL NADU",
+          "value": "STATE BOARD OF SCHOOL EXAMINATIONS(SEC.) & BOARD OF HIGHER SECONDARY EXAMINATIONS, TAMIL NADU",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TELANGANA STATE BOARD OF INTERMEDIATE EDUCATION",
+          "value": "TELANGANA STATE BOARD OF INTERMEDIATE EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "The J & K STATE BOARD OF SCHOOL EDUCATION",
+          "value": "The J & K STATE BOARD OF SCHOOL EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "TRIPURA BOARD OF SECONDARY EDUCATION",
+          "value": "TRIPURA BOARD OF SECONDARY EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "U.P. BOARD OF HIGH SCHOOL & INTERMEDIATE EDUCATION",
+          "value": "U.P. BOARD OF HIGH SCHOOL & INTERMEDIATE EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "WEST BENGAL BOARD OF SECONDARY EDUCATION",
+          "value": "WEST BENGAL BOARD OF SECONDARY EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "WEST BENGAL COUNCIL OF HIGHER SECONDARY EDUCATION",
+          "value": "WEST BENGAL COUNCIL OF HIGHER SECONDARY EDUCATION",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other",
+          "value": "Other",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Board",
+      "selector_id": "BoardOther",
+      "selector_name": "BoardOther",
+      "selector_css": "#BoardOther",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 50
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Stream",
+      "selector_id": "MainSubject",
+      "selector_name": "MainSubject",
+      "selector_css": "#MainSubject",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Science",
+          "value": "Science",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Commerce",
+          "value": "Commerce",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Humanities",
+          "value": "Humanities",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Arts",
+          "value": "Arts",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Other",
+          "value": "Other",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "School Name",
+      "selector_id": "SchoolName",
+      "selector_name": "SchoolName",
+      "selector_css": "#SchoolName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 100
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Exam Status",
+      "selector_id": "ExamStatus",
+      "selector_name": "ExamStatus",
+      "selector_css": "#ExamStatus",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Passed",
+          "value": "Passed",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Appeared",
+          "value": "Appeared",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "Appearing",
+          "value": "Appearing",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Passed",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Year",
+      "selector_id": "YearPassing",
+      "selector_name": "YearPassing",
+      "selector_css": "#YearPassing",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Select--",
+          "value": "",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2014",
+          "value": "2014",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2015",
+          "value": "2015",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2016",
+          "value": "2016",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2017",
+          "value": "2017",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2018",
+          "value": "2018",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2019",
+          "value": "2019",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2020",
+          "value": "2020",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2021",
+          "value": "2021",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2022",
+          "value": "2022",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2023",
+          "value": "2023",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2024",
+          "value": "2024",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "2025",
+          "value": "2025",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Marking Scheme",
+      "selector_id": "MarkingScheme",
+      "selector_name": "MarkingScheme",
+      "selector_css": "#MarkingScheme",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "Percentage",
+          "value": "Percentage",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "Grade",
+          "value": "Grade",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "GPA",
+          "value": "GPA",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "Percentage",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "%/Grade/GPA",
+      "selector_id": "Percentage",
+      "selector_name": "Percentage",
+      "selector_css": "#Percentage",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 5
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Why have you chosen NID's Bachelor of Design Programme? [Not more than 900 character.]",
+      "selector_id": "BDESChoice",
+      "selector_name": "BDESChoice",
+      "selector_css": "#BDESChoice",
+      "tag_name": "textarea",
+      "input_type": "textarea",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control textareamax",
+      "autocomplete": null
+    },
+    {
+      "label": "How do you think this course will help your academic plans and/or career ambition? [Not more than 1200 character.]",
+      "selector_id": "Career",
+      "selector_name": "Career",
+      "selector_css": "#Career",
+      "tag_name": "textarea",
+      "input_type": "textarea",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control textareamax2",
+      "autocomplete": null
+    },
+    {
+      "label": "Please write a brief statement about yourself including details of your interests, hobbies, etc. [Not more than 900 character.]",
+      "selector_id": "Hobbies",
+      "selector_name": "Hobbies",
+      "selector_css": "#Hobbies",
+      "tag_name": "textarea",
+      "input_type": "textarea",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control textareamax",
+      "autocomplete": null
+    }
+  ]
+}

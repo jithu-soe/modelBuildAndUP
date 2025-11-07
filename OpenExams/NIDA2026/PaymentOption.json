@@ -1,0 +1,29 @@
+{
+  "total_fields": 1,
+  "required_fields_count": 0,
+  "page_url": "https://admissions.nid.edu/NIDA2026/PaymentOption.aspx",
+  "page_title": "Payment Mode Selection: Admission 2026-27",
+  "timestamp": "2025-11-07T05:11:38.024Z",
+  "fields": [
+    {
+      "label": "I certify that I have read and understood the information given in “National Institute of Design Admissions Handbook 2026-27”. I certify that the information provided in this online application form is accurate and complete to the best of my knowledge. I declare that I have read and understood the conditions of eligibility for the programme / discipline for which I seek admission. In the event of any information provided by me is found incorrect, or misleading, or incomplete, my application shall be liable to cancellation by the Institute at any time and I shall not be entitled to any refund of the fee paid by me to the Institute.",
+      "selector_id": "AgreeCC",
+      "selector_name": "AgreeCC",
+      "selector_css": "#AgreeCC",
+      "tag_name": "input",
+      "input_type": "checkbox",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": false,
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    }
+  ]
+}

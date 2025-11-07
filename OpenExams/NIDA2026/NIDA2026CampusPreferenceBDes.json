@@ -1,0 +1,279 @@
+{
+  "total_fields": 5,
+  "required_fields_count": 0,
+  "page_url": "https://admissions.nid.edu/NIDA2026/NIDA2026CampusPreferenceBDes.aspx",
+  "page_title": "Preference for campus : B.DES: NID Admission 2026",
+  "timestamp": "2025-11-07T04:59:00.585Z",
+  "fields": [
+    {
+      "label": "DdlCentreChoice1",
+      "selector_id": "ddlCentreChoice1",
+      "selector_name": "ddlCentreChoice1",
+      "selector_css": "#ddlCentreChoice1",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Preference 1--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Ahmedabad",
+          "value": "Bachelor of Design at NID-Ahmedabad",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Andhra Pradesh",
+          "value": "Bachelor of Design at NID-Andhra Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Haryana",
+          "value": "Bachelor of Design at NID-Haryana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Madhya Pradesh",
+          "value": "Bachelor of Design at NID-Madhya Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Assam",
+          "value": "Bachelor of Design at NID-Assam",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "DdlCentreChoice2",
+      "selector_id": "ddlCentreChoice2",
+      "selector_name": "ddlCentreChoice2",
+      "selector_css": "#ddlCentreChoice2",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Preference 2--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Ahmedabad",
+          "value": "Bachelor of Design at NID-Ahmedabad",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Andhra Pradesh",
+          "value": "Bachelor of Design at NID-Andhra Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Haryana",
+          "value": "Bachelor of Design at NID-Haryana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Madhya Pradesh",
+          "value": "Bachelor of Design at NID-Madhya Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Assam",
+          "value": "Bachelor of Design at NID-Assam",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "DdlCentreChoice3",
+      "selector_id": "ddlCentreChoice3",
+      "selector_name": "ddlCentreChoice3",
+      "selector_css": "#ddlCentreChoice3",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Preference 3--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Ahmedabad",
+          "value": "Bachelor of Design at NID-Ahmedabad",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Andhra Pradesh",
+          "value": "Bachelor of Design at NID-Andhra Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Haryana",
+          "value": "Bachelor of Design at NID-Haryana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Madhya Pradesh",
+          "value": "Bachelor of Design at NID-Madhya Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Assam",
+          "value": "Bachelor of Design at NID-Assam",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "DdlCentreChoice4",
+      "selector_id": "ddlCentreChoice4",
+      "selector_name": "ddlCentreChoice4",
+      "selector_css": "#ddlCentreChoice4",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Preference 4--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Ahmedabad",
+          "value": "Bachelor of Design at NID-Ahmedabad",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Andhra Pradesh",
+          "value": "Bachelor of Design at NID-Andhra Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Haryana",
+          "value": "Bachelor of Design at NID-Haryana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Madhya Pradesh",
+          "value": "Bachelor of Design at NID-Madhya Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Assam",
+          "value": "Bachelor of Design at NID-Assam",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    },
+    {
+      "label": "DdlCentreChoice5",
+      "selector_id": "ddlCentreChoice5",
+      "selector_name": "ddlCentreChoice5",
+      "selector_css": "#ddlCentreChoice5",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "--Preference 5--",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Ahmedabad",
+          "value": "Bachelor of Design at NID-Ahmedabad",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Andhra Pradesh",
+          "value": "Bachelor of Design at NID-Andhra Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Haryana",
+          "value": "Bachelor of Design at NID-Haryana",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Madhya Pradesh",
+          "value": "Bachelor of Design at NID-Madhya Pradesh",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "BDES at NID-Assam",
+          "value": "Bachelor of Design at NID-Assam",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": null,
+      "autocomplete": null
+    }
+  ]
+}

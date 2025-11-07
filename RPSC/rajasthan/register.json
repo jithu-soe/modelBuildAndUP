@@ -1,0 +1,109 @@
+{
+  "total_fields": 5,
+  "required_fields_count": 0,
+  "page_url": "https://sso.rajasthan.gov.in/register?encq=Vmpb+h5S02ZhsVp/I+cO8DlUw9MVijJwBsDXZKfDm7Q=",
+  "page_title": "Rajasthan Single Sign On (141)",
+  "timestamp": "2025-11-07T10:06:01.772Z",
+  "fields": [
+    {
+      "label": "Digital Identity (SSOID/ Username)",
+      "selector_id": "cpBody_cpBody_txt_UserName",
+      "selector_name": "ctl00$ctl00$cpBody$cpBody$txt_UserName",
+      "selector_css": "#cpBody_cpBody_txt_UserName",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Digital Identity (SSOID/ Username)",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": 20
+      },
+      "current_value": "KHEDEKARTANMAY50",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control alert-success",
+      "autocomplete": null
+    },
+    {
+      "label": "Password",
+      "selector_id": "cpBody_cpBody_txt_Password",
+      "selector_name": "ctl00$ctl00$cpBody$cpBody$txt_Password",
+      "selector_css": "#cpBody_cpBody_txt_Password",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": false,
+      "placeholder": "Set your Password",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Confirm Password",
+      "selector_id": "cpBody_cpBody_txt_ConfirmPassword",
+      "selector_name": "ctl00$ctl00$cpBody$cpBody$txt_ConfirmPassword",
+      "selector_css": "#cpBody_cpBody_txt_ConfirmPassword",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": false,
+      "placeholder": "Confirm Password",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Mobile Number",
+      "selector_id": "cpBody_cpBody_txt_Mobile",
+      "selector_name": "ctl00$ctl00$cpBody$cpBody$txt_Mobile",
+      "selector_css": "#cpBody_cpBody_txt_Mobile",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Mobile Number",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Email Address",
+      "selector_id": "cpBody_cpBody_txt_Email",
+      "selector_name": "ctl00$ctl00$cpBody$cpBody$txt_Email",
+      "selector_css": "#cpBody_cpBody_txt_Email",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "Email Address",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "khedekartanmay50@gmail.com",
+      "disabled": true,
+      "readonly": false,
+      "class": "aspNetDisabled form-control",
+      "autocomplete": null
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "total_fields": 15,
+  "required_fields_count": 0,
+  "page_url": "https://recruitment.sbi.bank.in/crpd-sco-2025-26-15/apply/register",
+  "page_title": "Register for Wealth management",
+  "timestamp": "2025-11-07T04:02:27.010Z",
+  "fields": [
+    {
+      "label": "First Name",
+      "selector_id": "first_name",
+      "selector_name": "first_name",
+      "selector_css": "#first_name",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm First Name",
+      "selector_id": "cfirst_name",
+      "selector_name": "cfirst_name",
+      "selector_css": "#cfirst_name",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Middle Name",
+      "selector_id": "middle_name",
+      "selector_name": "middle_name",
+      "selector_css": "#middle_name",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Middle Name",
+      "selector_id": "cmiddle_name",
+      "selector_name": "cmiddle_name",
+      "selector_css": "#cmiddle_name",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Last Name",
+      "selector_id": "last_name",
+      "selector_name": "last_name",
+      "selector_css": "#last_name",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Last Name",
+      "selector_id": "clast_name",
+      "selector_name": "clast_name",
+      "selector_css": "#clast_name",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Mother's Full Name",
+      "selector_id": "mother_name",
+      "selector_name": "mother_name",
+      "selector_css": "#mother_name",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Mobile No",
+      "selector_id": "mobile",
+      "selector_name": "mobile",
+      "selector_css": "#mobile",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Mobile No",
+      "selector_id": "cmobile",
+      "selector_name": "cmobile",
+      "selector_css": "#cmobile",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Email ID",
+      "selector_id": "email",
+      "selector_name": "email",
+      "selector_css": "#email",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "khedekartanmay2004@gmail.com",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Confirm Email ID",
+      "selector_id": "cemail",
+      "selector_name": "cemail",
+      "selector_css": "#cemail",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "khedekartanmay2004@gmail.com",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Security Code",
+      "selector_id": "captcha",
+      "selector_name": "captcha",
+      "selector_css": "#captcha",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Registration Number",
+      "selector_id": "registration_number",
+      "selector_name": "registration_number",
+      "selector_css": "#registration_number",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Password",
+      "selector_id": "password",
+      "selector_name": "password",
+      "selector_css": "#password",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Security Code",
+      "selector_id": "login_captcha",
+      "selector_name": "captcha",
+      "selector_css": "#login_captcha",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    }
+  ]
+}

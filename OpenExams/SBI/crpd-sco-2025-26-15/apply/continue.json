@@ -1,0 +1,152 @@
+{
+  "total_fields": 3,
+  "required_fields_count": 0,
+  "page_url": "https://recruitment.sbi.bank.in/crpd-sco-2025-26-15/apply/continue",
+  "page_title": "Register for Wealth management",
+  "timestamp": "2025-11-07T04:06:18.582Z",
+  "fields": [
+    {
+      "label": "Post",
+      "selector_id": "post_id",
+      "selector_name": "post_id",
+      "selector_css": "#post_id",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "-- Select Post to Apply --",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "HEADPRODUCTINVESTMENTRESEARCH",
+          "value": "730",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ZONAL HEAD",
+          "value": "731",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "REGIONAL HEAD",
+          "value": "732",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "RELATIONSHIP MANAGER TEAM LEAD",
+          "value": "733",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "INVESTMENT SPECIALIST",
+          "value": "734",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "INVESTMENT OFFICER",
+          "value": "735",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "PROJECT DEVELOPMENT MANAGER(BUSINESS)",
+          "value": "736",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "CENTRAL RESEARCH TEAM (SUPPORT)",
+          "value": "737",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Grade",
+      "selector_id": "grade",
+      "selector_name": "grade",
+      "selector_css": "#grade",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    },
+    {
+      "label": "Category",
+      "selector_id": "category",
+      "selector_name": "category",
+      "selector_css": "#category",
+      "tag_name": "select",
+      "input_type": "select",
+      "options": [
+        {
+          "text": "-- Select Category --",
+          "value": "",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "text": "General",
+          "value": "1",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "OBC",
+          "value": "2",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "SC",
+          "value": "3",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "ST",
+          "value": "4",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "text": "EWS",
+          "value": "5",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "required": false,
+      "placeholder": "",
+      "constraints": null,
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    }
+  ]
+}

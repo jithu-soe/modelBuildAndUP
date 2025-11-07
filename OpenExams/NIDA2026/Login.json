@@ -1,0 +1,69 @@
+{
+  "total_fields": 3,
+  "required_fields_count": 0,
+  "page_url": "https://admissions.nid.edu/NIDA2026/Login.aspx",
+  "page_title": "Login: NID Admission 2026-27",
+  "timestamp": "2025-11-07T04:51:04.150Z",
+  "fields": [
+    {
+      "label": "Email Address",
+      "selector_id": "EmailID",
+      "selector_name": "EmailID",
+      "selector_css": "#EmailID",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Date of Birth",
+      "selector_id": "DOB",
+      "selector_name": "DOB",
+      "selector_css": "#DOB",
+      "tag_name": "input",
+      "input_type": "text",
+      "options": null,
+      "required": false,
+      "placeholder": "",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control hasDatepicker",
+      "autocomplete": "off"
+    },
+    {
+      "label": "Password",
+      "selector_id": "Password",
+      "selector_name": "Password",
+      "selector_css": "#Password",
+      "tag_name": "input",
+      "input_type": "password",
+      "options": null,
+      "required": false,
+      "placeholder": " ",
+      "constraints": {
+        "minLength": -1,
+        "maxLength": -1
+      },
+      "current_value": "",
+      "disabled": false,
+      "readonly": false,
+      "class": "form-control",
+      "autocomplete": null
+    }
+  ]
+}
